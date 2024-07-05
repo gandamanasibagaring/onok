@@ -50,7 +50,7 @@ Untuk memeriksa status firewall di Ubuntu dan melakukan pengaturan firewall, And
 
 Dengan menggunakan UFW, Anda dapat dengan mudah mengelola firewall di Ubuntu. Pastikan untuk memahami aturan yang Anda terapkan agar tidak mengganggu koneksi atau keamanan sistem Anda. Jika Anda memerlukan bantuan lebih lanjut atau memiliki pertanyaan lain, jangan ragu untuk bertanya!
 
-
+login ke rumahweb pake email emuskik2 oauth
 
 
 
