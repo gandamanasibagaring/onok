@@ -9,3 +9,48 @@ vpn
 
 ip server vps gandatech 
 202.10.41.149 password seperti rdp
+
+Untuk memeriksa status firewall di Ubuntu dan melakukan pengaturan firewall, Anda dapat menggunakan program firewall standar yang disebut UFW (Uncomplicated Firewall). Berikut langkah-langkahnya:
+
+### Cara Mengecek Status Firewall di Ubuntu (UFW):
+1. Buka Terminal dengan menekan tombol `Ctrl + Alt + T` secara bersamaan.
+2. Ketik perintah berikut untuk mengecek status firewall:
+   ```
+   sudo ufw status
+   ```
+   Jika UFW aktif, Anda akan melihat pesan yang menyatakan bahwa firewall sedang berjalan dan daftar aturan yang diterapkan.
+
+### Cara Mengatur Firewall di Ubuntu (UFW):
+1. **Menyalakan Firewall**:
+   - Untuk menyalakan UFW, gunakan perintah:
+     ```
+     sudo ufw enable
+     ```
+
+2. **Menonaktifkan Firewall**:
+   - Jika Anda ingin menonaktifkan UFW, gunakan perintah:
+     ```
+     sudo ufw disable
+     ```
+
+3. **Menambahkan Aturan (Rule)**:
+   - Contoh: Untuk mengizinkan koneksi SSH (port 22), gunakan perintah:
+     ```
+     sudo ufw allow 22/tcp
+     ```
+
+4. **Menghapus Aturan (Rule)**:
+   - Contoh: Jika Anda ingin menghapus aturan yang telah ditambahkan sebelumnya, gunakan perintah:
+     ```
+     sudo ufw delete allow 22/tcp
+     ```
+
+5. **Konfigurasi Lainnya**:
+   - Anda juga dapat mengatur aturan firewall sesuai dengan kebutuhan spesifik Anda, seperti mengizinkan atau memblokir port tertentu.
+
+Dengan menggunakan UFW, Anda dapat dengan mudah mengelola firewall di Ubuntu. Pastikan untuk memahami aturan yang Anda terapkan agar tidak mengganggu koneksi atau keamanan sistem Anda. Jika Anda memerlukan bantuan lebih lanjut atau memiliki pertanyaan lain, jangan ragu untuk bertanya!
+
+
+
+
+
