@@ -4,3 +4,8 @@ besok pagi mulai kerjakan gandatech lapkeu
 setup vps 
 install web server
 vpn
+
+
+
+ip server vps gandatech 
+202.10.41.149 password seperti rdp
