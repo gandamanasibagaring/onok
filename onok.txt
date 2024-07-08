@@ -115,3 +115,8 @@ cd ~/openvpn-ca
 2. Salin sertifikat klien ke perangkat klien.
 
 Dengan mengikuti langkah-langkah di atas, Anda dapat menginstal dan mengonfigurasi OpenVPN di Ubuntu. Pastikan untuk memperhatikan setiap langkah dengan cermat dan merujuk pada dokumentasi resmi OpenVPN atau tutorial terpercaya untuk bantuan lebih lanjut.
+------------------------------------
+8 juli 2024
+
+setup vps 
+install openvpn
