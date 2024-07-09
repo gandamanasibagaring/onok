@@ -121,3 +121,12 @@ Dengan mengikuti langkah-langkah di atas, Anda dapat menginstal dan mengonfigura
 setup vps 
 install openvpn
 laporan keuangan
+
+
+
+ mengaktifkan konfigurasi situs web dari direktori sites-available ke sites-enabled di Nginx, Anda dapat menggunakan perintah ln -s untuk membuat symlink. Berikut adalah langkah-langkahnya:
+Buka terminal atau SSH ke server Nginx Anda.
+Gunakan perintah berikut untuk membuat symlink dari file konfigurasi situs web yang ingin diaktifkan dari sites-available ke sites-enabled:
+plaintext
+Copy
+   sudo ln -s /etc/nginx/sites-available/nama_file_konfigurasi /etc/nginx/sites-enabled/
