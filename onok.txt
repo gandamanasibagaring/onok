@@ -157,3 +157,75 @@ function buatJadwal() {
   // Menulis data jadwal ke sheet
   sheet.getRange(2, 1, dataJadwal.length, dataJadwal[0].length).setValues(dataJadwal);
 }
+
+
+
+
+
+file apps script yang dah jalan 
+
+kode.gs:
+
+function onOpen() {
+  var ui = SpreadsheetApp.getUi();
+  ui.createMenu('Jadwal')
+    .addItem('Buka Form', 'bukaForm')
+    .addToUi();
+  
+  bukaForm();  // Buka form saat sheet dibuka
+}
+
+function bukaForm() {
+  var htmlOutput = HtmlService.createHtmlOutputFromFile('Form')
+      .setWidth(400)
+      .setHeight(300);
+  SpreadsheetApp.getUi().showModalDialog(htmlOutput, 'Form Input Jadwal');
+}
+
+function simpanData(data) {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  var rowData = [data.hari, data.kegiatan, data.keterangan, data.status];
+  
+  // Menambahkan data ke baris berikutnya yang kosong
+  sheet.appendRow(rowData);
+}
+
+
+
+
+
+Form.html:
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    <h2>Form Input Jadwal</h2>
+    <form>
+      <label for="hari">Hari:</label>
+      <input type="text" id="hari" name="hari"><br><br>
+      <label for="kegiatan">Kegiatan:</label>
+      <input type="text" id="kegiatan" name="kegiatan"><br><br>
+      <label for="keterangan">Keterangan:</label>
+      <input type="text" id="keterangan" name="keterangan"><br><br>
+      <label for="status">Status:</label>
+      <input type="text" id="status" name="status"><br><br>
+      <input type="button" value="Simpan" onclick="simpan()">
+    </form>
+    <script>
+      function simpan() {
+        var data = {
+          hari: document.getElementById('hari').value,
+          kegiatan: document.getElementById('kegiatan').value,
+          keterangan: document.getElementById('keterangan').value,
+          status: document.getElementById('status').value
+        };
+        
+        google.script.run.simpanData(data);
+        google.script.host.close();
+      }
+    </script>
+  </body>
+</html>
