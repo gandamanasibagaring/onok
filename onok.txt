@@ -191,6 +191,46 @@ function simpanData(data) {
 }
 
 
+atau :
+
+function onOpen() {
+  var ui = SpreadsheetApp.getUi();
+  ui.createMenu('Jadwal')
+    .addItem('Buka Form', 'bukaForm')
+    .addToUi();
+  
+  bukaForm();  // Buka form saat sheet dibuka
+}
+
+function bukaForm() {
+  var htmlOutput = HtmlService.createHtmlOutputFromFile('Form')
+      .setWidth(400)
+      .setHeight(400);  // Perbesar tinggi form
+  SpreadsheetApp.getUi().showModalDialog(htmlOutput, 'Form Input Jadwal');
+}
+
+function simpanData(data) {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  
+  // Cek jika header belum ada, tambahkan header
+  if (sheet.getLastRow() == 0) {
+    var headers = ["ID", "Hari", "Jam", "Kegiatan", "Keterangan", "Status"];
+    sheet.appendRow(headers);
+  }
+  
+  // Menentukan ID unik untuk setiap inputan
+  var id = sheet.getLastRow();
+  if (id === 1 && sheet.getRange('A2').getValue() === '') {
+    id = 1; // jika baris kedua kosong, id tetap 1
+  } else {
+    id = id; // jika sudah ada data, id adalah jumlah baris terakhir
+  }
+  
+  var rowData = [id, data.hari, data.jam, data.kegiatan, data.keterangan, data.status];
+  
+  // Menambahkan data ke baris berikutnya yang kosong
+  sheet.appendRow(rowData);
+}
 
 
 
@@ -218,6 +258,61 @@ Form.html:
       function simpan() {
         var data = {
           hari: document.getElementById('hari').value,
+          kegiatan: document.getElementById('kegiatan').value,
+          keterangan: document.getElementById('keterangan').value,
+          status: document.getElementById('status').value
+        };
+        
+        google.script.run.simpanData(data);
+        google.script.host.close();
+      }
+    </script>
+  </body>
+</html>
+
+
+
+
+
+
+atau :
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    <h2>Form Input Jadwal</h2>
+    <form>
+      <label for="hari">Hari:</label>
+      <input type="text" id="hari" name="hari"><br><br>
+      
+      <label for="jam">Jam:</label>
+      <select id="jam" name="jam">
+        <script>
+          for (var i = 1; i <= 24; i++) {
+            document.write('<option value="' + i + '">' + i + '</option>');
+          }
+        </script>
+      </select><br><br>
+      
+      <label for="kegiatan">Kegiatan:</label>
+      <input type="text" id="kegiatan" name="kegiatan"><br><br>
+      
+      <label for="keterangan">Keterangan:</label>
+      <input type="text" id="keterangan" name="keterangan"><br><br>
+      
+      <label for="status">Status:</label>
+      <input type="text" id="status" name="status"><br><br>
+      
+      <input type="button" value="Simpan" onclick="simpan()">
+    </form>
+    <script>
+      function simpan() {
+        var data = {
+          hari: document.getElementById('hari').value,
+          jam: document.getElementById('jam').value,
           kegiatan: document.getElementById('kegiatan').value,
           keterangan: document.getElementById('keterangan').value,
           status: document.getElementById('status').value
