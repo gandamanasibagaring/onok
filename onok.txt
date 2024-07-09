@@ -134,3 +134,26 @@ Copy
 
 
 $cara buka pengaturan di ubuntu: gnome-control-center
+
+program appss script untuk jadwal 
+function buatJadwal() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+
+  // Tentukan data yang akan diinput
+  var dataJadwal = [
+    ["Senin", "Kegiatan A", "Keterangan A", "Belum Selesai"],
+    ["Selasa", "Kegiatan B", "Keterangan B", "Belum Selesai"],
+    ["Rabu", "Kegiatan C", "Keterangan C", "Selesai"],
+    ["Kamis", "Kegiatan D", "Keterangan D", "Belum Selesai"],
+    ["Jumat", "Kegiatan E", "Keterangan E", "Selesai"],
+    ["Sabtu", "Kegiatan F", "Keterangan F", "Belum Selesai"],
+    ["Minggu", "Kegiatan G", "Keterangan G", "Belum Selesai"]
+  ];
+
+  // Menulis header
+  var headers = ["Hari", "Kegiatan", "Keterangan", "Status"];
+  sheet.getRange(1, 1, 1, headers.length).setValues([headers]);
+
+  // Menulis data jadwal ke sheet
+  sheet.getRange(2, 1, dataJadwal.length, dataJadwal[0].length).setValues(dataJadwal);
+}
