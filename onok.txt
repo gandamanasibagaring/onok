@@ -130,3 +130,7 @@ Gunakan perintah berikut untuk membuat symlink dari file konfigurasi situs web y
 plaintext
 Copy
    sudo ln -s /etc/nginx/sites-available/nama_file_konfigurasi /etc/nginx/sites-enabled/
+
+
+
+$cara buka pengaturan di ubuntu: gnome-control-center
