@@ -355,3 +355,9 @@ ssh root@202.10.41.149 -p 2022
 
 cara generate keygen ssh
 ssh-keygen -b 4096
+
+
+
+catatan pasang firewall di vps:
+kalo udah pasang firewall jangan lupa buka port ssh nya jika tidak maka akan masalah besar
+ufw allow 22/tcp
