@@ -338,3 +338,8 @@ document.addEventListener('keydown', function(event) {
     simpan(); // Memanggil fungsi simpan() saat tombol Enter ditekan
   }
 });
+-------------------
+
+10 juli
+
+github gandagandaganda emailnya: sudo@iniganda.tech pass jujurberani999
