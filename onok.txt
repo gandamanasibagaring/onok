@@ -350,3 +350,8 @@ lalu restart systemctl restart sshd
 
 vps ganti ke port 2022
 ssh root@202.10.41.149 -p 2022
+
+
+
+cara generate keygen ssh
+ssh-keygen -b 4096
