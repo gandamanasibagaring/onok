@@ -343,3 +343,7 @@ document.addEventListener('keydown', function(event) {
 10 juli
 
 github gandagandaganda emailnya: sudo@iniganda.tech pass jujurberani999
+
+
+ganti port ssh di sshd
+lalu restart systemctl restart sshd
