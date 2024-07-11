@@ -361,3 +361,9 @@ ssh-keygen -b 4096
 catatan pasang firewall di vps:
 kalo udah pasang firewall jangan lupa buka port ssh nya jika tidak maka akan masalah besar
 ufw allow 22/tcp
+
+
+=====================
+11 juli
+cara membaca barcode pake online dari laptop
+online-barcode-reader di google
