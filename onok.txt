@@ -367,3 +367,69 @@ ufw allow 22/tcp
 11 juli
 cara membaca barcode pake online dari laptop
 online-barcode-reader di google
+
+
+
+
+history kali linux
+
+       
+    1  ip route add 192.168.1.0/24 via 192.168.100.5
+    2  ping 192.168.1.1
+    3  route
+    4  ping 192.168.1.1
+    5  nmap -sn 192.168.1.0/24
+    6  shutdown now
+    7  service nessusd status
+    8  service nessusd start
+    9  service nessusd status
+   10  shutdown now
+   11  ssh jerry@192.168.1.9 7744
+   12  nmap -A -p- 192.168.1.9
+   13  searchsploit openssh 6.7
+   14  ssh tom@192.168.1.9 7744
+   15  ssh jerry@192.168.1.9 -p 7744
+   16  ssh tom@192.168.1.9 -p 7744
+   17  dir
+   18  nano /etc/proxychains.conf
+   19  dir
+   20  cd ..
+   21  dir
+   22  cd ..
+   23  dir
+   24  cd etc
+   25  dir
+   26  proxychains4.conf
+   27  nano proxychains4.conf
+   28  service tor status
+   29  service tor start
+   30  apt-get install tor\n
+   31  apt-get update\n
+   32  apt install tor
+   33  service tor start
+   34  service tor status
+   35  cd /etc
+   36  dir
+   37  cd ..
+   38  cd /usr/bin
+   39  dir
+   40  exit
+   41  kali
+   42  dir
+   43  nano /etc/proxychains.conf
+   44  nano /etc/proxychains4.conf
+   45  proxychains4 firefox
+   46  exit
+   47  apt install proxychains
+   48  proxychains firefox
+   49  nano /etc/proxychains.conf
+   50  service tor status
+   51  proxychains firefox
+   52  nano /etc/proxychains.conf
+   53  proxychains firefox
+   54  nano /etc/proxychains.conf
+   55  proxychains firefox
+   56  exit
+                                                                             
+┌──(root㉿kali)-[/home/kali]
+└─# 
