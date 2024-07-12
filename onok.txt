@@ -433,3 +433,7 @@ history kali linux
                                                                              
 ┌──(root㉿kali)-[/home/kali]
 └─# 
+tool untuk xss 
+
+dalfox dan paramspiderr
+
