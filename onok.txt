@@ -443,3 +443,29 @@ dalfox dan paramspiderr
 
 
 Kekuasaan atau Dominasi: Beberapa orang mungkin memotong penjelasan orang lain sebagai bentuk ekspresi kekuasaan atau dominasi. Mereka mungkin merasa perlu untuk mendominasi percakapan atau menunjukkan superioritas mereka dengan memotong penjelasan orang lain.
+
+nordvpn ubuntu
+Tentu, berikut adalah 20 perintah yang dapat Anda gunakan saat menggunakan NordVPN di Ubuntu:
+
+1. `nordvpn login`: Untuk masuk ke akun NordVPN Anda.
+2. `nordvpn connect`: Untuk terhubung ke server NordVPN. Anda dapat menambahkan lokasi server setelah perintah ini, misalnya `nordvpn connect us`.
+3. `nordvpn disconnect`: Untuk memutuskan koneksi VPN.
+4. `nordvpn set`: Untuk mengatur opsi pengaturan seperti otomatis terhubung saat booting.
+5. `nordvpn status`: Untuk menampilkan status koneksi NordVPN Anda.
+6. `nordvpn countries`: Untuk melihat daftar negara yang tersedia untuk koneksi.
+7. `nordvpn connect auto`: Untuk terhubung ke server secara otomatis.
+8. `nordvpn connect double`: Untuk terhubung melalui server double VPN.
+9. `nordvpn disconnect`: Untuk memutuskan koneksi VPN saat selesai.
+10. `nordvpn set cybersec on`: Untuk mengaktifkan fitur CyberSec yang memblokir iklan dan malware.
+11. `nordvpn set killswitch on`: Untuk mengaktifkan fitur kill switch yang memutuskan internet jika koneksi VPN terputus.
+12. `nordvpn set protocol udp`: Untuk mengatur protokol koneksi menjadi UDP.
+13. `nordvpn set obfuscate on`: Untuk mengaktifkan fitur obfuscation yang menyembunyikan fakta bahwa Anda menggunakan VPN.
+14. `nordvpn set autoconnect on`: Untuk mengatur koneksi otomatis saat booting.
+15. `nordvpn set dns 1.1.1.1`: Untuk mengatur server DNS yang digunakan oleh VPN.
+16. `nordvpn whitelist add port 80`: Untuk menambahkan port tertentu ke daftar putih (whitelist).
+17. `nordvpn whitelist remove port 443`: Untuk menghapus port tertentu dari daftar putih.
+18. `nordvpn settings`: Untuk melihat dan mengatur pengaturan NordVPN.
+19. `nordvpn help`: Untuk menampilkan bantuan tentang penggunaan perintah NordVPN.
+20. `nordvpn logout`: Untuk keluar dari akun NordVPN Anda.
+
+Dengan perintah-perintah ini, Anda dapat mengelola koneksi NordVPN Anda dengan berbagai opsi yang tersedia. Apakah ada yang bisa saya bantu?
