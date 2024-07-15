@@ -477,3 +477,11 @@ Password: Lowe1234!
 NORDVPN
 User: bootham1982@outlook.com
 Password: Ugwej952!
+
+
+
+
+nordvpn set autoconnect on
+   nordvpn set cybersec off
+   nordvpn set killswitch off
+   nordvpn set notify on
