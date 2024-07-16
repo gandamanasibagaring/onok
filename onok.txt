@@ -651,3 +651,7 @@ jadi ip private berbeda2 nanti akan di ubah ke 1 ip publik saja jadi semua perna
 cek laju internet di ubuntu
    sudo iftop -i eth0
    contoh itu utk interface eth0 bisa ganti2
+
+
+
+cara menghubungkan remote client ke server pake vpn yaitu di server pasang vpn gatewey
