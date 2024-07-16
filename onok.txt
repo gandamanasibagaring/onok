@@ -630,3 +630,13 @@ Lapisan Presentasi (Presentation Layer):
 Lapisan Aplikasi (Application Layer):
 
     Contoh: Aplikasi Email seperti Gmail atau Outlook yang memungkinkan Anda mengirim dan menerima email dengan antarmuka yang mudah digunakan.
+
+
+
+
+
+
+
+mac address: 40:2c:f4:04:ea:55 artinya
+             40:2c:f4 adalah manufaktur atau jenis perangkat yg digunakan
+             sisanya id unik
