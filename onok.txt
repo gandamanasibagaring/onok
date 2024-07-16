@@ -655,3 +655,7 @@ cek laju internet di ubuntu
 
 
 cara menghubungkan remote client ke server pake vpn yaitu di server pasang vpn gatewey
+
+
+last video:
+Konfigurasi Jaringan VirtualBox
