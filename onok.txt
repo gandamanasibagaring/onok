@@ -643,5 +643,5 @@ mac address: 40:2c:f4:04:ea:55 artinya
 
 
 
-nat itu ujung dari ip private untuk di switch ke ip publik.
+nat (network address translation) itu ujung dari ip private untuk di switch ke ip publik.
 jadi ip private berbeda2 nanti akan di ubah ke 1 ip publik saja jadi semua pernagkat bisa punya ip publik 1 doang
