@@ -596,3 +596,37 @@ Model referensi OSI layer (Open Systems Interconnection) adalah model yang digun
         Menangani enkripsi, kompresi, dan konversi data untuk memastikan kompatibilitas antarmuka.
     Lapisan Aplikasi (Application Layer)
         Menyediakan antarmuka dengan aplikasi pengguna dan layanan jaringan.
+
+
+
+
+
+
+
+Lapisan Fisik (Physical Layer):
+
+    Contoh: Kabel Ethernet yang menghubungkan komputer ke jaringan. Tanpa kabel yang baik, transmisi data akan terganggu.
+
+Lapisan Data Link (Data Link Layer):
+
+    Contoh: MAC Address pada perangkat jaringan yang memastikan data dikirim ke perangkat yang tepat di jaringan.
+
+Lapisan Jaringan (Network Layer):
+
+    Contoh: Router yang memilih jalur terbaik untuk mengirim data antara dua titik dalam jaringan.
+
+Lapisan Transport (Transport Layer):
+
+    Contoh: Protokol TCP (Transmission Control Protocol) yang memastikan data terkirim tanpa kesalahan dan dalam urutan yang benar.
+
+Lapisan Sesuai (Session Layer):
+
+    Contoh: Saat Anda melakukan panggilan video, sesi komunikasi dibentuk antara perangkat Anda dan perangkat lain untuk mentransfer data video.
+
+Lapisan Presentasi (Presentation Layer):
+
+    Contoh: Enkripsi data saat Anda mengakses situs web berbasis HTTPS untuk melindungi informasi pribadi Anda selama transmisi.
+
+Lapisan Aplikasi (Application Layer):
+
+    Contoh: Aplikasi Email seperti Gmail atau Outlook yang memungkinkan Anda mengirim dan menerima email dengan antarmuka yang mudah digunakan.
