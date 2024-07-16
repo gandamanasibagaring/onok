@@ -580,7 +580,7 @@ Semoga informasi ini bermanfaat bagi Anda. Jika Anda memiliki pertanyaan lebih l
 
 
 
-Model referensi OSI (Open Systems Interconnection) adalah model yang digunakan untuk memahami bagaimana protokol jaringan berinteraksi. Berikut adalah 7 lapisan dalam model referensi OSI:
+Model referensi OSI layer (Open Systems Interconnection) adalah model yang digunakan untuk memahami bagaimana protokol jaringan berinteraksi. Berikut adalah 7 lapisan dalam model referensi OSI:
 
     Lapisan Fisik (Physical Layer)
         Menangani transmisi data fisik melalui media komunikasi.
