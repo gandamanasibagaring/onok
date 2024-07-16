@@ -439,7 +439,7 @@ dalfox dan paramspiderr
 
 
 
-
+$hackingd
 
 
 Kekuasaan atau Dominasi: Beberapa orang mungkin memotong penjelasan orang lain sebagai bentuk ekspresi kekuasaan atau dominasi. Mereka mungkin merasa perlu untuk mendominasi percakapan atau menunjukkan superioritas mereka dengan memotong penjelasan orang lain.
@@ -575,3 +575,24 @@ Tentu, berikut adalah daftar 20 protokol yang umum digunakan beserta portnya dan
     - Fungsi: Mengakses dan memelihara direktori informasi dalam jaringan.
 
 Semoga informasi ini bermanfaat bagi Anda. Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk bertanya!
+
+
+
+
+
+Model referensi OSI (Open Systems Interconnection) adalah model yang digunakan untuk memahami bagaimana protokol jaringan berinteraksi. Berikut adalah 7 lapisan dalam model referensi OSI:
+
+    Lapisan Fisik (Physical Layer)
+        Menangani transmisi data fisik melalui media komunikasi.
+    Lapisan Data Link (Data Link Layer)
+        Menyediakan koneksi data logis antara dua entitas jaringan dan mengelola akses media.
+    Lapisan Jaringan (Network Layer)
+        Bertanggung jawab untuk routing, pengalamatan, dan pengiriman data antara node jaringan.
+    Lapisan Transport (Transport Layer)
+        Menangani pengaturan koneksi dan kontrol kesalahan dalam pengiriman data.
+    Lapisan Sesuai (Session Layer)
+        Mengelola dan mempertahankan sesi komunikasi antara dua entitas jaringan.
+    Lapisan Presentasi (Presentation Layer)
+        Menangani enkripsi, kompresi, dan konversi data untuk memastikan kompatibilitas antarmuka.
+    Lapisan Aplikasi (Application Layer)
+        Menyediakan antarmuka dengan aplikasi pengguna dan layanan jaringan.
