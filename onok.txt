@@ -485,3 +485,93 @@ nordvpn set autoconnect on
    nordvpn set cybersec off
    nordvpn set killswitch off
    nordvpn set notify on
+
+
+tcp: membuat koneksi dulu memastikan apa tujuan mendengarkan
+udp: langsung mengirimkan data
+
+
+
+Tentu, berikut adalah daftar 20 protokol yang umum digunakan beserta portnya dan fungsi masing-masing:
+
+1. **HTTP (Hypertext Transfer Protocol)**
+   - Port: 80
+   - Fungsi: Mengirimkan dan menerima data dalam bentuk halaman web.
+
+2. **HTTPS (Hypertext Transfer Protocol Secure)**
+   - Port: 443
+   - Fungsi: Mengirimkan data dengan enkripsi untuk keamanan dalam transfer data web.
+
+3. **FTP (File Transfer Protocol)**
+   - Port: 21
+   - Fungsi: Mengirim atau menerima file antara server dan klien.
+
+4. **SMTP (Simple Mail Transfer Protocol)**
+   - Port: 25
+   - Fungsi: Mengirim email melalui server email.
+
+5. **DNS (Domain Name System)**
+   - Port: 53
+   - Fungsi: Menerjemahkan nama domain menjadi alamat IP.
+
+6. **DHCP (Dynamic Host Configuration Protocol)**
+   - Port: 67, 68
+   - Fungsi: Memberikan konfigurasi jaringan otomatis kepada perangkat.
+
+7. **SNMP (Simple Network Management Protocol)**
+   - Port: 161
+   - Fungsi: Memantau dan mengelola perangkat jaringan.
+
+8. **RTP (Real-time Transport Protocol)**
+   - Port: 5004, 5005
+   - Fungsi: Mengirim data multimedia secara real-time.
+
+9. **TCP (Transmission Control Protocol)**
+   - Port: N/A (tidak terkait dengan port tertentu)
+   - Fungsi: Menjaga koneksi antara pengirim dan penerima data.
+
+10. **UDP (User Datagram Protocol)**
+    - Port: N/A (tidak terkait dengan port tertentu)
+    - Fungsi: Mengirim data tanpa memerlukan koneksi terjaga.
+
+11. **SSH (Secure Shell)**
+    - Port: 22
+    - Fungsi: Menyediakan akses aman ke server jarak jauh.
+
+12. **Telnet (Telecommunication Network)**
+    - Port: 23
+    - Fungsi: Memberikan akses ke server atau perangkat jarak jauh.
+
+13. **POP3 (Post Office Protocol version 3)**
+    - Port: 110
+    - Fungsi: Mengambil email dari server email.
+
+14. **IMAP (Internet Message Access Protocol)**
+    - Port: 143
+    - Fungsi: Mengelola email di server tanpa perlu mengunduhnya.
+
+15. **ICMP (Internet Control Message Protocol)**
+    - Port: N/A (tidak terkait dengan port tertentu)
+    - Fungsi: Mengirim pesan kesalahan dan kontrol dalam jaringan IP.
+
+16. **SIP (Session Initiation Protocol)**
+    - Port: 5060, 5061
+    - Fungsi: Menginisiasi, mengubah, dan mengakhiri sesi komunikasi multimedia.
+
+17. **NTP (Network Time Protocol)**
+    - Port: 123
+    - Fungsi: Menyinkronkan waktu di perangkat jaringan.
+
+18. **SSL (Secure Sockets Layer)**
+    - Port: 443
+    - Fungsi: Memberikan keamanan dalam komunikasi data melalui enkripsi.
+
+19. **BGP (Border Gateway Protocol)**
+    - Port: 179
+    - Fungsi: Membantu router dalam pertukaran informasi routing antar jaringan.
+
+20. **LDAP (Lightweight Directory Access Protocol)**
+    - Port: 389
+    - Fungsi: Mengakses dan memelihara direktori informasi dalam jaringan.
+
+Semoga informasi ini bermanfaat bagi Anda. Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk bertanya!
