@@ -663,3 +663,5 @@ Konfigurasi Jaringan VirtualBox
 
 
 https://www.youtube.com/@saidsulkifly
+
+osint
