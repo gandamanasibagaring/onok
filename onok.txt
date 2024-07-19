@@ -665,3 +665,43 @@ Konfigurasi Jaringan VirtualBox
 https://www.youtube.com/@saidsulkifly
 
 osint
+
+
+
+
+--------------------
+
+19 juli
+ssrf 
+endpoint metadata google cloud utk ssrf dibuah key dan valuenya
+
+Tentu! Berikut adalah tutorial singkat tentang cara mengakses metadata endpoint di Google Cloud Platform (GCP) melalui alamat IP 169.254.169.254/computeMetadata/v1:
+
+Langkah 1: Buka Terminal atau Command Prompt di instance Anda yang berjalan di lingkungan GCP.
+
+Langkah 2: Gunakan perintah `curl` atau `wget` untuk mengakses metadata endpoint. Contoh perintahnya adalah sebagai berikut:
+   
+   ```
+   curl -H "Metadata-Flavor: Google" http://169.254.169.254/computeMetadata/v1/instance/hostname
+   ```
+
+   Perintah di atas akan mengambil informasi nama host dari instance yang sedang berjalan.
+
+Langkah 3: Anda juga dapat mengakses metadata endpoint untuk informasi lain. Misalnya, untuk mendapatkan informasi zona instance, Anda dapat menggunakan perintah seperti ini:
+   
+   ```
+   curl -H "Metadata-Flavor: Google" http://169.254.169.254/computeMetadata/v1/instance/zone
+   ```
+
+   Perintah di atas akan menampilkan zona di mana instance berjalan.
+
+Dengan menggunakan perintah-perintah seperti di atas, Anda dapat mengakses informasi metadata tentang instance Anda di GCP melalui metadata endpoint. Pastikan untuk menggantikan bagian yang disesuaikan dengan informasi yang ingin Anda akses.
+
+Jika Anda memiliki pertanyaan lebih lanjut tentang penggunaan metadata endpoint atau membutuhkan panduan lebih lanjut, jangan ragu untuk bertanya! Saya siap membantu.
+
+
+
+
+ubah redup layar
+gsettings set org.gnome.desktop.session idle-delay 9000
+
