@@ -705,3 +705,10 @@ Jika Anda memiliki pertanyaan lebih lanjut tentang penggunaan metadata endpoint 
 ubah redup layar
 gsettings set org.gnome.desktop.session idle-delay 9000
 
+
+
+utk cek task manager di ubuntu
+ps aux | grep apt
+
+
+hentikan proses: sudo kill PID(isi sendiri)
