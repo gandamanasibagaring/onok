@@ -712,3 +712,10 @@ ps aux | grep apt
 
 
 hentikan proses: sudo kill PID(isi sendiri)
+
+
+------------------
+20 juli 
+
+membuat freelancer akun dan lainnnya
+
