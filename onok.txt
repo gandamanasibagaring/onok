@@ -738,4 +738,4 @@ membuat kartu nama gandatech dan salon
 beli triplek
 pasang vpn ke kali linux
 pasang google ads
-setting anydesk utk remote
+setting anydesk utk remote 
