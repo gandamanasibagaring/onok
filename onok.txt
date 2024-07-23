@@ -748,3 +748,6 @@ admin@202.10.41.149's password: sama dgn ubuntu laptop
 
 
 pass phpmyadmin vps lupus
+
+
+install phpmyadmin di vps: apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
