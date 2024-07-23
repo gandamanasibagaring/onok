@@ -745,3 +745,6 @@ setting anydesk utk remote
 
 ssh admin@202.10.41.149 -p 2022
 admin@202.10.41.149's password: sama dgn ubuntu laptop
+
+
+pass phpmyadmin vps lupus
