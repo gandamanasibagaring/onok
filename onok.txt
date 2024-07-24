@@ -779,3 +779,7 @@ sudo groupadd nordvpn
 sudo usermod -aG nordvpn $USER   
 
 utk restart group: newgrp nordvpn
+
+
+
+besok install sqlmap
