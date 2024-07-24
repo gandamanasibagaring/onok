@@ -751,3 +751,17 @@ pass phpmyadmin vps lupus
 
 
 install phpmyadmin di vps: apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl
+
+lalu masuk mysql -u root -p ke SELECT user, authentication_string, plugin, host
+FROM mysql.user;
+
+
+lalu 
+mengubah metode otentikasi dan mengatur ulang kata sandi untuk pengguna 'root' pada localhost di MySQL.
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'lupuslupus';
+
+
+lalu bikin user baru:
+CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON *.* TO 'newuser'@'localhost' WITH GRANT OPTION;
