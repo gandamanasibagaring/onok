@@ -769,3 +769,11 @@ GRANT ALL PRIVILEGES ON *.* TO 'newuser'@'localhost' WITH GRANT OPTION;
 
 lalu tambahkan ke /etc/apache2/apache2.conf di baris terakhir:
      Include /etc/phpmyadmin/apache.conf
+
+
+
+
+
+                                                              
+sudo groupadd nordvpn                                                        
+sudo usermod -aG nordvpn $USER   
