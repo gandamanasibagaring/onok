@@ -777,3 +777,5 @@ lalu tambahkan ke /etc/apache2/apache2.conf di baris terakhir:
                                                               
 sudo groupadd nordvpn                                                        
 sudo usermod -aG nordvpn $USER   
+
+utk restart group: newgrp nordvpn
