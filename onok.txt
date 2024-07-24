@@ -767,5 +767,5 @@ CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'lupuslupus';
 GRANT ALL PRIVILEGES ON *.* TO 'newuser'@'localhost' WITH GRANT OPTION;
 
 
-lalu tambahkan ke /etc/apache2/apache.conf di baris terakhir:
+lalu tambahkan ke /etc/apache2/apache2.conf di baris terakhir:
      Include /etc/phpmyadmin/apache.conf
