@@ -765,3 +765,7 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'lupuslup
 lalu bikin user baru:
 CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'lupuslupus';
 GRANT ALL PRIVILEGES ON *.* TO 'newuser'@'localhost' WITH GRANT OPTION;
+
+
+lalu tambahkan ke /etc/apache2/apache.conf di baris terakhir:
+     Include /etc/phpmyadmin/apache.conf
