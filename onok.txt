@@ -783,3 +783,11 @@ utk restart group: newgrp nordvpn
 
 
 besok install sqlmap
+
+NORDVPN
+User: ishkovv@gmail.com
+Password: El0nmusk
+
+NORDVPN
+User: melzer.joachim@gmail.com
+Password: Janahase06
