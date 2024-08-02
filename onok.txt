@@ -806,3 +806,8 @@ sqlmap -h
 
 learn osint in 4 hours
 https://www.youtube.com/watch?v=qwA6MmbeGNo&t=1173s
+
+
+
+memberi akses apk terinstal dr snapd yang terisolasi utk mengakses usb:
+sudo snap connect arduino:usb-access
