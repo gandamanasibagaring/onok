@@ -811,3 +811,22 @@ https://www.youtube.com/watch?v=qwA6MmbeGNo&t=1173s
 
 memberi akses apk terinstal dr snapd yang terisolasi utk mengakses usb:
 sudo snap connect arduino:usb-access
+
+
+wifi oxygen oxygen.id
+21220207	RUSLAN PARHUSIP	
+
+Indomaret :
+21220207
+
+Alfamart 
+8888871121220207
+
+TRANSFER  KE BANK PERMATA
+8965071121220207
+
+bayar dri ovo atau QRIS klik 
+https://selfcare.oxygen.id/
+
+Id: 21220207
+Passwd:
