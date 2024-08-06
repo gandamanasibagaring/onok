@@ -839,3 +839,5 @@ script exploit-db scirpt webshell
 
 nat itu utk bisa menyembunyikan ip virtual dari host
 jaringan nat itu utk bisa mengkases ip dari jaringan luar
+
+training: menjalankan target di VM
