@@ -829,4 +829,10 @@ bayar dri ovo atau QRIS klik
 https://selfcare.oxygen.id/
 
 Id: 21220207
-Passwd:
+Passwd: email ruslanparhusip123@gmail.com
+
+
+----------------------
+7 agustus
+
+script exploit-db scirpt webshell
