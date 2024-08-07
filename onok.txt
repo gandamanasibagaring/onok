@@ -841,3 +841,7 @@ nat itu utk bisa menyembunyikan ip virtual dari host
 jaringan nat itu utk bisa mengkases ip dari jaringan luar
 
 training: menjalankan target di VM
+
+
+ip route add 192.168.1.0/24 via 192.168.100.5 
+artinya kita mau mengakses suatu jaringan dari ip laptop kita
