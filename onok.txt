@@ -871,3 +871,16 @@ cleanup.pictures
 
 facebook akun: gandamanasibagaring@gmail.com
 pass: lupuslupus
+
+
+
+
+gandatech solution indonesia PT rekening bca
+no rekening: 8205642061
+corporate ID: KBBGANDAT0
+User ID: Gandatech
+username: KBBGANDAT0GANDATECH
+(username itu gabungan corporate id dan user id)
+
+
+utk masuk harus pake token app keybca
