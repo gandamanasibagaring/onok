@@ -861,3 +861,6 @@ sudo netdiscover 192.168.1.0/24
 
 
 jaringan pada opnsense adalah dengan adapter1 ke attacker dan adapter2 ke target. hal ini untuk menghubungkan keduanya
+
+
+bikin video short: glato.ai renderforest, dll
