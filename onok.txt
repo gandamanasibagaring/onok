@@ -886,4 +886,4 @@ username: KBBGANDAT0GANDATECH
 utk masuk harus pake token app keybca
 
 
-npwp gandatech solution indonesia: 19928609712400
+npwp gandatech solution indonesia: 199286097124000
