@@ -849,3 +849,11 @@ artinya kita mau mengakses suatu jaringan dari ip laptop kita
 
 
 opnsense https://youtu.be/Kg9J9URaMHY
+
+
+scan jaringan
+nmap -sn 192.168.1.0/24 
+
+atau bisa juga dengan  netdiscover
+
+sudo netdiscover 192.168.1.0/24
