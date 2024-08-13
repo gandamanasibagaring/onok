@@ -896,3 +896,34 @@ maltego id
 
 crimsonaryn@rowdydow.com
 pass @Jujurberani999
+
+
+
+
+
+int pinPIR = 2; // Misalnya, sensor PIR dihubungkan ke pin digital 2
+int statusPIR = 0;
+
+void setup() {
+  pinMode(pinPIR, INPUT); // Mengatur pin sebagai input
+  Serial.begin(9600); // Memulai komunikasi serial
+}
+
+void loop() {
+  statusPIR = digitalRead(pinPIR); // Membaca status sensor PIR
+  
+  if (statusPIR == HIGH) {
+    Serial.println("Gerakan terdeteksi!");
+  } else {
+    Serial.println("Tidak ada gerakan.");
+  }
+  
+  delay(1000); // Tunggu 1 detik sebelum membaca lagi
+}
+
+
+
+
+
+
+
