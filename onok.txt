@@ -927,3 +927,10 @@ void loop() {
 
 
 
+espcam
+ESP32
+AI Thinker ESP32-CAM Configured on August 19, 2024
+Device ID
+7edf4717-0106-4326-8464-75d50aeb2e8d
+Secret Key
+2xb321F2qoE4qL1LEUMNx26ql
