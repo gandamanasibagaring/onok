@@ -1068,3 +1068,209 @@ gandatech.shop jg di hostinger email gandamanasibagaring
 discord gandamanasibagaring@gmail.com pass @Turboturbo123
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mixue
+mixue_10372
+Online
+ETHICAL HACKING GUIDE :hackerman: 
+
+There are multiple ways to get started with ethical hacking and penetration testing. You can utilize free resources on the internet, or pursue paid courses and professional certifications if your goal is to enter the industry professionally. The following list is compiled of general recommendations to get started.
+
+
+Ethics: :blackhat_spy_guy: 
+
+
+An ethical hacker abides by strict rules and guidelines for what can and can't be done. Both ethical hackers and malicious hackers use the same tools and methods to penetrate a system. These strict ethical rules and guidelines are what separates someone from being an ethical hacker or a malicious hacker. As an ethical hacker, it is your job to penetrate the system, find the weaknesses, and then report them for the purpose of securing the system from future attacks. This method allows you to pose as a malicious hacker, but instead of exploiting the weakness for nefarious purposes, your duty would be to report it in order to stay one step ahead from those who would exploit weaknesses for personal gain or retribution and cause damage. Another key distinction is that ethical hackers have permission to attempt to exploit the systems they work on. To be clear, someone who hacks a server for the purpose of reporting exploits, but does not have permission to do so, is still considered malicious. Information security is a constant battle between those who secure systems and those who exploit them for gain. This is why it is important to understand the concepts of ethics and abide by the boundaries set by them.
+
+Resources:
+https://www.eccouncil.org/ethical-hacking/
+https://reciprocity.com/the-importance-of-ethics-in-information-security/
+
+The Basics :I_Settings: 
+
+Among the information necessary to become an effective and professional ethical hacker, you must understand the basics of computer science, programming, and networking. In order to do this, it may take a lot of time enveloping yourself with information about these three disciplines. Jumping headfirst into using tools will spell disaster for you and your device. Do not be a skid. Understand what you are doing and how it works before you attempt to do it. 
+
+Resources:
+https://www.edx.org/
+https://www.edx.org/learn/hacking
+https://www.tutorialspoint.com/basics_of_computer_science/index.htm
+https://www.youtube.com/watch?v=GjNp0bBrjmU
+https://www.javatpoint.com/ethical-hacking-basic-network
+https://alison.com/course/ethical-hacking-basic-concepts-of-networking
+https://www.youtube.com/watch?v=QcS0ElIztHE
+https://www.edx.org/course/introduction-to-networking
+
+Reverse Engineering:
+Getting Started with Exploit Development: https://dayzerosec.com/blog/2021/02/02/getting-started.html
+
+Reverse Engineering For Everyone: https://0xinfection.github.io/reversing/
+
+Reverse Engineering Reading List: https://github.com/onethawt/reverseengineering-reading-list
+
+Awesome Reverse Engineering: https://github.com/ReversingID/Awesome-Reversing
+
+Reversing Resources: https://github.com/wtsxDev/reverse-engineering
+
+OpenRCE: http://www.openrce.org/reference_library/bookstore
+
+Open Security Training (Rootkits, Malware, Exploitation): https://opensecuritytraining.info/Training.html
+
+Programming :bongocat_code: 
+
+Often times, professionals in Information Security must know basic programming in order to help do what we call "automating the pain away." As such, it's important you begin learning a programming language, of which we are well suited to assist you in. Popular options for professionals in this discipline include Python, JS, and C-based languages.
+
+Resources:
+Check ⁠║📜║resources   channel to get started with learning any of the above languages
+ 
+4. Using Linux :linux: 
+Information security professionals use a wide range of operating systems to accomplish their tasks, but one recurring theme is that you must know Linux. Linux offers a powerful platform with which to deploy programs, test and analyze malware, and pentest systems. There are even distributions built specifically for pentesting, such as Kali Linux. The recommendation while you learn is that you deploy a distribution such as Kali Linux or Ubuntu Desktop, as these are going to be easier to learn in. Also, it is recommended to use a virtual machine for these.
+
+Resources:
+https://www.youtube.com/watch?v=sB_5fqiysi4
+https://www.youtube.com/watch?v=lZAoFs75_cs
+https://www.kali.org/docs/
+
+5. Learning to use tools: :kali: 
+Tools are a catchall term that designates the collection of software, scripts, and other programs you will be using in your endeavors. These tools automate tasks that would be very arduous and frustrating to complete otherwise. As mentioned before, Kali Linux is comprised of over 100 pre-installed tools which cover different areas of pentesting, such as vulnerability scanning, exploitation, and packet grabbing. The same tools can be installed on other distributions, and knowing how to use these tools and what they do is paramount to your success.
+
+Resources:
+frequently used tools are covered within the usage guides/pentesting guides in the previous resources.
+https://www.kali.org/tools/
+https://github.com/topics/hacking-tools
+
+6. IT certifications: :T_OSCP: 
+
+Next to a graduate degree, IT certifications will be your way into the information security industry. While it may not guarantee a job, most current jobs require some sort of certification to prove your knowledge and discipline in information security. It is important to review what each certificate entails and what you need to know. Many of these certifications are from various organizations that are considered authoritative on the matters they certify for in the industry. For example, Certified Ethical Hacking (CEH) is handled by the EC Council, Security+ , CySA+, and Network+ are handled by CompTIA, and OSCP is handled by Offensive Security, the same organization that maintains the Kali Linux distribution. Researching which certificate is right for you, how much they cost, and what you need to prepare for is an important step in professional entrance. 
+
+Resources:
+https://www.prepaway.com/certification/7-ethical-hacking-certifications-for-your-it-career/
+https://www.cybrary.it/
+https://www.offensive-security.com/courses-and-certifications/
+https://www.comptia.org/certifications
+
+7. Practice: :hackerman2:
+
+Becoming a professional requires constant practice and discipline. The best way to accomplish this is by creating a "hacklab" and using any of various resources that host their own. You can create your own hacklab by creating a host of virtual machines with various operating systems on it, as this will assist you in growing your knowledge and practicing. For additional practice, there are online platforms with CTFs and intentionally vulnerable websites for you to practice attacks on without the need for a separate target machine on your VM itself. These are very engaging and helpful tools, and practicing on these platforms can help enhance your hands-on knowledge on pentesting. 
+
+Most popular CTF sites:
+https://www.hackthebox.com/
+https://tryhackme.com/
+https://ctf101.org/
+https://www.hackthissite.org/
+https://ctflearn.com/
+https://ctftime.org/
+8. Connect with people: 🍀  
+Have any doubts, questions, or wish to form connections and hear from people who have more experience in ethical hacking/programming than you? Discord servers are always a great way to socialize with fellow information security enthusiasts. Apart from discord servers, there are many theme-specific forums for information security, and they are one of the best places to gain such connections and have your questions answered.
+
+Most popular forums for ethical hackers:
+https://www.reddit.com/r/hacking/
+https://hackforums.net/
+https://forums.hak5.org/
+https://www.ethicalhacker.net/
+https://www.hackthissite.org/forums/
+https://gist.github.com/jayluxferro/2da4f3e71a1b103042e1b869818f3a22
+
+Additional Resources:
+
+ 1. OSINT Framework: https://osintframework.com/
+A great resource with information on Open Source Intelligence gathering.
+
+2. Explain Shell: https://explainshell.com/
+Type or paste in a command line and this will give you information about what each part of the command does.
+
+3. Hash Type Encrypt/Decrypt: https://decrypt.tools/
+Lets you encrypt and decrypt in different hash types.
+
+4. This Person Does Not Exist: https://thispersondoesnotexist.com/
+Creates an AI-generated person's face that shows no results on reverse image searches.
+
+5. Exploit Database: https://www.exploit-db.com/
+An exploit database provided by Offensive Security.
+
+6. Have I Been Pwned: https://haveibeenpwned.com/
+Check to see if your email has been compromised in a data breach.
+
+7. Browserling: https://www.browserling.com/
+Test your website across any browser.
+
+8. W3 Schools: https://www.w3schools.com/default.asp
+Decent learning materials when you're starting out learning programming languages.
+
+9. MD5 Hashing: https://md5hashing.net/hash
+Hashing and anonymity toolkit.
+
+10. Photo Location Viewer: https://www.pic2map.com/
+Upload a photo and find out where it was taken.
+
+11. Android Network Tools: https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en_US
+A collection of network tools for Android devices.
+
+12. Bash Hackers: https://wiki.bash-hackers.org/scripting/tutoriallist
+Tutorials on Bash Scripting.
+
+13. Pentest Monkey: http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+Reverse shell cheat sheet.
+
+14. Steganographr: https://neatnik.net/steganographr/
+Hide text in plain sight using zero-width characters.
+
+15. Github Bugbounty: https://github.com/opexxx/bugbounty-cheatsheet
+A list of interesting payloads, tips, and tricks for bug bounty hunters.
+
+16. Github H4cker: https://github.com/The-Art-of-Hacking/h4cker
+A repo of resources related to ethical hacking, pentesting, and digital forensics.
+
+17. VirusTotal: https://www.virustotal.com/gui/home/upload
+Analyze suspicious files and URLs to detect malware.
+
+18. Wayback: https://web.archive.org/
+Archive of web pages saved over time.
+
+19. URLScan: https://urlscan.io/
+URL and website scanner for malicious content.
+
+20. TinEye: https://tineye.com/
+Reverse image searcher
+
+21. Debug code: https://www.codecademy.com/resources/blog/how-to-debug-your-code/
+Debug your code
+
+22. Ways to debug: https://www.bairesdev.com/blog/debugging-techniques/
+Ways to debug your code
+
+23. Find hex color from image: https://imagelr.com/
+Find hex color in a certain image
+
+24. Color calculator: https://www.sessions.edu/color-calculator/
+Find hex, rbg, etc... colors.
+
+25. Canva: https://www.canva.com/
+Helpful image design tool.
+
+26. Helpful online tool: https://pinetools.com/
+Helpful design tool.
+
+27. Privacy check: https://privacytests.org/
+Check browser privacy.
+
+28. Censys: https://search.censys.io/
+Censys is a platform that helps information security practitioners discover, monitor, and analyze devices that are accessible from the Internet. ss
