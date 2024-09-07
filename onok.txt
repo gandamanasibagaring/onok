@@ -1078,6 +1078,12 @@ discord gandamanasibagaring@gmail.com pass @Turboturbo123
 
 
 
+sudo add-apt-repository -r ppa:gezakovacs/ppa
+sudo add-apt-repository -r ppa:ondrej/php
+
+
+
+
 
 
 
