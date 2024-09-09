@@ -1330,3 +1330,10 @@ class Product extends Model
         return $this->belongsTo(Category::class);
     }
 }
+
+
+
+
+
+alamat triviaclarisa
+Cluster La Casturi, Jalan Cigadung Selatan VII No. s8, Cibeunying Kaler (Jl. Cigadung Selatan), KOTA BANDUNG, SUMUR BANDUNG, JAWA BARAT, ID, 40112
