@@ -1297,3 +1297,36 @@ pycnometochicceavo@gmail.com	buFYKUFoPUveqeP932	hylogenesisinelafd@wp.pl
 
 github gandamanasibagaring@gmail.com pass jujurberani999
 instagram gandatech_solution pass: redsisu
+
+
+
+
+-------------------------
+9 september
+
+penulisan one to many contoh kasus category dan product
+
+Category.php
+class Category extends Model
+{
+    use HasFactory;
+
+    public function products()
+    {
+        return $this->hasMany(Product::class);
+    }
+}
+
+
+
+
+Product.php
+class Product extends Model
+{
+    use HasFactory;
+
+    public function category()
+    {
+        return $this->belongsTo(Category::class);
+    }
+}
