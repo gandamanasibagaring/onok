@@ -1304,7 +1304,7 @@ instagram gandatech_solution pass: redsisu
 -------------------------
 9 september
 
-penulisan one to many contoh kasus category dan product
+penulisan relasi tabel db laravel one to many contoh kasus category dan product
 
 Category.php
 class Category extends Model
