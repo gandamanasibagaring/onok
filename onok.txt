@@ -1345,3 +1345,37 @@ powershell -command "Invoke-WebRequest -Uri 'https://dl.google.com/chrome/instal
 
 47.236.144.139
 Pass: Bismillah1202
+
+
+
+
+generate phone number onok:
+
+function generatePhoneNumber() {
+  const prefixes = [
+    '0811', '0812', '0813', '0821', '0822', '0823', '0851', '0852', '0853', // Telkomsel
+    '0814', '0815', '0816', '0855', '0856', '0857', '0858', // Indosat Ooredoo
+    '0817', '0818', '0819', '0859', '0877', '0878', // XL Axiata
+    '0895', '0896', '0897', '0898', '0899', // Tri (3)
+    '0881', '0882', '0883', '0884', '0885', '0886', '0887', '0888', '0889', // Smartfren
+    '0838', '0831', '0832', '0833' // AXIS
+  ];
+
+  // Pilih prefix secara acak
+  const prefix = prefixes[Math.floor(Math.random() * prefixes.length)];
+
+  // Generate sisa digit
+  let remainingDigits = 12 - prefix.length;
+  let number = prefix;
+
+  for (let i = 0; i < remainingDigits; i++) {
+    number += Math.floor(Math.random() * 10);
+  }
+
+  return number;
+}
+
+// Generate dan tampilkan 5 nomor telepon sebagai contoh
+for (let i = 0; i < 5; i++) {
+  console.log(generatePhoneNumber());
+}
