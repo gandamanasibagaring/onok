@@ -1337,3 +1337,7 @@ class Product extends Model
 
 alamat triviaclarisa
 Cluster La Casturi, Jalan Cigadung Selatan VII No. s8, Cibeunying Kaler (Jl. Cigadung Selatan), KOTA BANDUNG, SUMUR BANDUNG, JAWA BARAT, ID, 40112
+
+
+download chrome dari cmd 
+powershell -command "Invoke-WebRequest -Uri 'https://dl.google.com/chrome/install/375.126/chrome_installer.exe' -OutFile 'chrome_installer.exe'"
