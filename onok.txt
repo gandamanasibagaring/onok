@@ -1384,6 +1384,9 @@ for (let i = 0; i < 5; i++) {
 
 setting terminal environment laragon di vscode:
 Buka terminal baru di VS Code (Ctrl+ atau View > Terminal).3. Pastikan terminal Anda berada di direktori proyek Laravel.4. Karena Anda menggunakan Laragon, kita perlu mengkonfigurasi VS Code untuk menggunakan environment Laragon. Ikuti langkah-langkah berikut: a. Di VS Code, buka File > Preferences > Settings (atau tekan Ctrl+,). b. Cari "terminal.integrated.env.windows". c. Klik "Edit in settings.json". d. Tambahkan konfigurasi berikut: json
-"terminal.integrated.env.windows": {
-"PATH": "C:\\laragon\\bin;C:\\laragon\\bin\\php;C:\\laragon\\bin\\composer;${env:PATH}"
+{
+    "window.commandCenter": true,
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\laragon\\bin;C:\\laragon\\bin\\php;C:\\laragon\\bin\\composer;${env:PATH}"
+    }
 }
