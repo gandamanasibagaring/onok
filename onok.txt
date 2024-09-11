@@ -1390,3 +1390,12 @@ Buka terminal baru di VS Code (Ctrl+ atau View > Terminal).3. Pastikan terminal 
         "PATH": "C:\\laragon\\bin;C:\\laragon\\bin\\php;C:\\laragon\\bin\\composer;${env:PATH}"
     }
 }
+
+
+
+
+
+membuat login di laravel diatas 6:
+
+composer require laravel/ui
+php artisan ui vue --auth
