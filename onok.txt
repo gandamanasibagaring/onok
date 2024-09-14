@@ -1423,7 +1423,7 @@ php artisan route:clear
 php artisan view:clear
 php artisan event:clear
 php artisan optimize:clear
-
+composer dump-autoload
 
 upload zip ke public html
 lalu ekstrak tapi keluarkan folder publik lalu edit index.php agar path nya ke proyek laravel
