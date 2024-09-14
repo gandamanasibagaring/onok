@@ -1411,3 +1411,22 @@ solusi bullying keluarga sibagariang
 -Kesetaraan Sosial: Mendorong kesetaraan dalam hubungan keluarga, mengurangi hierarki sosial yang bisa memicu bullying.
 -budaya bicara suportif
 -hilangkan Manipulasi dan Kontrol
+
+
+
+
+deploy laravel:
+hapus semua cache:
+php artisan cache:clear
+php artisan config:clear
+php artisan route:clear
+php artisan view:clear
+php artisan event:clear
+php artisan optimize:clear
+
+
+upload zip ke public html
+lalu ekstrak tapi keluarkan folder publik lalu edit index.php agar path nya ke proyek laravel
+
+lalu proyek laravel move ke home
+lalu setting env 
