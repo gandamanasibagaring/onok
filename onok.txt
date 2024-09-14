@@ -1399,3 +1399,11 @@ membuat login di laravel diatas 6:
 
 composer require laravel/ui
 php artisan ui vue --auth
+-------------------
+14 september
+
+gandatech.shop
+
+databasenya: gandatec_db
+user:gandatec_admin
+pass: @Turboturbo123
