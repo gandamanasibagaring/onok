@@ -1397,13 +1397,15 @@ Buka terminal baru di VS Code (Ctrl+ atau View > Terminal).3. Pastikan terminal 
 
 membuat login di laravel diatas 6:
 
-composer require laravel/ui
+w
 php artisan ui vue --auth
--------------------
-14 september
+---------------------
+solusi bullying keluarga sibagariang
 
-gandatech.shop
-
-databasenya: gandatec_db
-user:gandatec_admin
-pass: @Turboturbo123
+-Program KiVa: Edukasi anti-bullying yang dimulai sejak dini, fokus pada pencegahan, respons cepat, dan solusi berbasis diskusi.
+-Edukasi Orang Tua: Orang tua mendapatkan pelatihan tentang pola asuh yang sehat dan pentingnya komunikasi yang empatik.
+-Konseling dan Dukungan Keluarga: Layanan konseling tersedia gratis bagi keluarga untuk mengatasi konflik dan memastikan kesejahteraan anak.
+-Undang-Undang Perlindungan Anak: Perlindungan hukum yang tegas terhadap bullying fisik dan emosional, termasuk sistem pelaporan yang mudah diakses.
+-Dukungan Psikologis: Akses gratis ke layanan psikologis untuk korban bullying dan pelaku, dengan pendekatan rehabilitasi.
+-Budaya Non-Konfrontatif: Promosi dialog terbuka, penyelesaian masalah secara kolaboratif, dan penghindaran konfrontasi dalam keluarga.
+-Kesetaraan Sosial: Mendorong kesetaraan dalam hubungan keluarga, mengurangi hierarki sosial yang bisa memicu bullying.
