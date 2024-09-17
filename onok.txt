@@ -1430,3 +1430,18 @@ lalu ekstrak tapi keluarkan folder publik lalu edit index.php agar path nya ke p
 
 lalu proyek laravel move ke home
 lalu setting env 
+
+
+
+------------------------
+17 september
+C:\laragon\www\transaksiku
+λ icacls storage\logs /grant Everyone:(OI)(CI)F
+processed file: storage\logs
+Successfully processed 1 files; Failed processing 0 files
+
+C:\laragon\www\transaksiku
+λ type nul > storage\logs\laravel.log
+
+C:\laragon\www\transaksiku
+λ
