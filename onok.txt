@@ -1537,3 +1537,7 @@ Catatan penting:
 - Selalu uji proses backup dan restore di lingkungan pengembangan sebelum menerapkannya di produksi.
 
 Ini adalah cara paling sederhana untuk melakukan backup database mingguan. Jika Anda memerlukan fitur lebih lanjut seperti kompresi, upload ke cloud storage, atau notifikasi, mungkin lebih baik menggunakan package khusus seperti yang disebutkan sebelumnya.
+
+------------------------
+app password onlinetalento@gmail.com
+untuk laravel1: tubr krvq mpul kapj
