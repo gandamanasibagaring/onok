@@ -1364,7 +1364,7 @@ function generatePhoneNumber() {
   // Pilih prefix secara acak
   const prefix = prefixes[Math.floor(Math.random() * prefixes.length)];
 
-  // Generate sisa digit
+  // Generate sisa digitw
   let remainingDigits = 12 - prefix.length;
   let number = prefix;
 
@@ -1542,3 +1542,57 @@ Ini adalah cara paling sederhana untuk melakukan backup database mingguan. Jika 
 app password onlinetalento@gmail.com
 untuk laravel1: tubr krvq mpul kapj
 rwqj cezo kjrf wpsk
+
+
+---------------
+masalah untuk memuat gambar di laravel karena middleware
+
+<?php
+
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PengeluaranController;
+use App\Http\Controllers\KasirController;
+use App\Http\Controllers\PemasukanController;
+use App\Http\Controllers\POSController;
+
+use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\KegiatanController;
+
+Auth::routes();
+ 
+
+//middleware login
+Route::middleware(['auth','admin'])->group(function () {
+Route::get('/', function () {
+    return redirect()->route('pengeluarans.index');
+ });
+Route::get('/kasirs', [KasirController::class, 
+'index'])->name('kasir.index');
+Route::resource('pengeluarans', PengeluaranController::class);
+Route::resource('pemasukans', PemasukanController::class);
+Route::put('kegiatans/{kegiatan}/status', [KegiatanController::class, 
+'update'])->name('kegiatans.update.status');
+
+//POS
+
+Route::get('/pos', [POSController::class, 'index'])->name('pos.index');
+Route::post('/pos/store', [POSController::class, 
+'store'])->name('pos.store');
+Route::post('/pos/print', [POSController::class, 
+'printPDF'])->name('pos.print');
+
+
+
+
+Route::get('/kegiatans/all', [KegiatanController::class, 
+'all'])->name('kegiatans.all');
+
+Route::resource('kegiatans', KegiatanController::class);
+
+Route::patch('/kegiatans/{kegiatan}/status', [KegiatanController::class, 
+'updateStatus'])->name('kegiatans.updateStatus');
+   });
+
+
+
+
