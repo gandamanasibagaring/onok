@@ -1596,3 +1596,6 @@ Route::patch('/kegiatans/{kegiatan}/status', [KegiatanController::class,
 
 
 
+----------------------
+28 september
+linkedin ke gandamanasibagaring@gmail.com auth
