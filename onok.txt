@@ -1654,3 +1654,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+    --------------------
+    28 september
+    myads telkomsel sms LBA geomarketing
+    user: gandamanasibagaring@gmail.com
+    pass: @Turboturbo123
