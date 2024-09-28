@@ -1600,3 +1600,57 @@ Route::patch('/kegiatans/{kegiatan}/status', [KegiatanController::class,
 28 september
 linkedin ke gandamanasibagaring@gmail.com auth
 @sarwonotamba
+
+
+sms LBA geomarketing
+
+import random
+from datetime import datetime, timedelta
+
+class SMSLBA:
+    def __init__(self):
+        self.operators = ["Telkomsel", "XL", "Indosat"]
+        self.locations = ["Mall", "Exhibition Hall", "Public Place", "Street"]
+        self.price_per_sms = 750  # Rp 750 per SMS
+
+    def generate_phone_number(self):
+        return f"08{random.randint(10000000, 99999999)}"
+
+    def send_sms(self, operator, location, message, target_count):
+        successful = 0
+        failed = 0
+        for _ in range(target_count):
+            if random.random() < 0.95:  # 95% success rate
+                successful += 1
+            else:
+                failed += 1
+        
+        cost = successful * self.price_per_sms
+        return successful, failed, cost
+
+    def generate_report(self, operator, location, message, target_count, start_date, end_date):
+        successful, failed, cost = self.send_sms(operator, location, message, target_count)
+        
+        print(f"SMS LBA Report for {operator}")
+        print(f"Location: {location}")
+        print(f"Period: {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
+        print(f"Message: {message}")
+        print(f"Total SMS sent: {target_count}")
+        print(f"Successful: {successful}")
+        print(f"Failed: {failed}")
+        print(f"Total cost: Rp {cost:,}")
+
+def main():
+    sms_lba = SMSLBA()
+    
+    operator = random.choice(sms_lba.operators)
+    location = random.choice(sms_lba.locations)
+    message = "Promo spesial hari ini! Kunjungi toko kami sekarang."
+    target_count = 2000
+    start_date = datetime.now()
+    end_date = start_date + timedelta(days=1)
+
+    sms_lba.generate_report(operator, location, message, target_count, start_date, end_date)
+
+if __name__ == "__main__":
+    main()
