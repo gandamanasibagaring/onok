@@ -1664,3 +1664,6 @@ if __name__ == "__main__":
     myads telkomsel sms LBA geomarketing
     user: gandamanasibagaring@gmail.com
     pass: @Turboturbo123
+
+
+    upwork gandamanasibagaring pass jujurberani999
