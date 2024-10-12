@@ -1675,3 +1675,15 @@ if __name__ == "__main__":
 
 pythonanywhere gandatech
     h9,&UM,6$tgJ)Hk
+
+
+
+    -----------------------
+    12 oktober
+
+    Perjanjian 11 oktober 300 juta di rekening, menikah
+
+
+
+chocolatey install cmd untuk windows
+    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
