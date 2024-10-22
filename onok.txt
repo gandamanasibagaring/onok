@@ -1691,3 +1691,7 @@ chocolatey install cmd untuk windows
 
  $env:Path += ";C:\ProgramData\chocolatey\bin"
 menambahkan path chocolatey ke cmd
+
+
+----------------------
+22 oktober
