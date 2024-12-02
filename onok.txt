@@ -1699,3 +1699,105 @@ sarwonosatrio7@gmail.com pass @Tturboturbo123
 
 akun npwp djp
 NIK + @Lupuslupus123
+
+
+
+---------------------
+
+2 desember 2024
+
+Daftar Harga
+Print
+
+    Hitam putih:
+        Kertas A4: Rp500 – Rp1.000 per lembar
+        Kertas F4: Rp1.000 – Rp1.500 per lembar
+    Berwarna:
+        Kertas A4: Rp2.000 – Rp5.000 per lembar
+        Kertas F4: Rp3.000 – Rp6.000 per lembar
+
+Scan Dokumen
+
+    Per lembar: Rp1.000 – Rp2.500
+
+Laminating
+
+    Kertas A4: Rp5.000 – Rp7.000 per lembar
+    Kertas F4: Rp7.000 – Rp10.000 per lembar
+    ID card: Rp3.000 – Rp5.000 per item
+
+Fotocopy
+
+    Hitam putih:
+        A4/F4: Rp150 – Rp500 per lembar (tergantung jumlah)
+    Berwarna:
+        A4: Rp1.000 – Rp3.000 per lembar
+
+
+
+1. Tipex
+
+    Tipex Cair: Rp5.000 – Rp12.000 per botol
+    Tipex Pita (Correction Tape): Rp7.000 – Rp15.000 per unit
+
+2. Tisu
+
+    Tisu Kantong: Rp3.000 – Rp5.000 per pak
+    Tisu Gulung: Rp8.000 – Rp15.000 per roll (tergantung jumlah lapis dan merek)
+
+3. Pulpen
+
+    Pulpen Standard (Biru/Hitam/Merah): Rp2.000 – Rp5.000 per unit
+    Pulpen Premium/Merek Terkenal: Rp10.000 – Rp30.000 per unit
+
+4. Penghapus
+
+    Penghapus Standar (untuk pensil): Rp2.000 – Rp5.000 per unit
+    Penghapus Premium/Multi-guna: Rp6.000 – Rp12.000 per unit
+
+5. Buku Kosong
+
+    Buku Tulis (40 lembar): Rp3.500 – Rp6.000 per buku
+    Buku Tulis (80 lembar): Rp6.000 – Rp10.000 per buku
+    Buku Besar (100 – 200 lembar): Rp12.000 – Rp25.000 per buku
+
+6. Klip Buku (Paper Clip)
+
+    Klip Buku Standar (small – isi 50 pcs): Rp5.000 – Rp10.000 per pak
+    Klip Besar (binder clip - isi 12 pcs): Rp10.000 – Rp20.000 per kotak
+
+
+
+
+
+opsi 2:
+Kategori	Jenis	Harga Jual
+Cetak	Hitam Putih (A4)	Rp1.000/lembar
+	Hitam Putih (F4)	Rp1.500/lembar
+	Berwarna (A4)	Rp3.000/lembar
+	Berwarna (F4)	Rp4.000/lembar
+Scan	Per Lembar	Rp2.000/lembar
+Laminasi	Kertas A4	Rp6.000/lembar
+	Kertas F4	Rp8.000/lembar
+	ID Card	Rp4.000/item
+Fotocopy	Hitam Putih (A4/F4)	Rp300/lembar
+	Berwarna (A4)	Rp2.000/lembar
+Kertas	A4 70 gsm	Rp150/lembar
+	A4 80 gsm	Rp200/lembar
+	Folio 70 gsm	Rp200/lembar
+	Folio 80 gsm	Rp250/lembar
+Map	Kertas	Rp3.000/lembar
+	Plastik	Rp6.000/lembar
+Perlengkapan Tulis	Tipex Cair	Rp10.000/botol
+	Tipex Pita (Correction Tape)	Rp12.000/unit
+	Tisu Kantong	Rp4.000/pak
+	Tisu Gulung	Rp10.000/roll
+	Pulpen Standard (Biru/Hitam/Merah)	Rp3.000/unit
+	Pulpen Premium/Merek Terkenal	Rp20.000/unit
+	Penghapus Standar (untuk pensil)	Rp3.000/unit
+	Penghapus Premium/Multi-guna	Rp8.000/unit
+Perlengkapan Kantor	Buku Tulis (40 lembar)	Rp5.000/buku
+	Buku Tulis (80 lembar)	Rp8.000/buku
+	Buku Besar (100-200 lembar)	Rp20.000/buku
+	Klip Buku Standar (small - isi 50 pcs)	Rp8.000/pak
+	Klip Besar (binder clip - isi 12 pcs)	Rp15.000/kotak
