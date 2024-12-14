@@ -1801,3 +1801,97 @@ Perlengkapan Kantor	Buku Tulis (40 lembar)	Rp5.000/buku
 	Buku Besar (100-200 lembar)	Rp20.000/buku
 	Klip Buku Standar (small - isi 50 pcs)	Rp8.000/pak
 	Klip Besar (binder clip - isi 12 pcs)	Rp15.000/kotak
+
+
+ **SOP Gandatech Stationery (Standar Operasional Prosedur)**  
+1. Proses Bisnis
+A. Persiapan Produk
+
+    Penyediaan Barang
+        Kerjasama dengan Supplier: Pilih supplier terpercaya dengan harga grosir terbaik.
+        Pemeriksaan Kualitas: Pastikan kualitas produk baik sebelum diterima.
+
+    Penyimpanan Barang
+        Penyimpanan yang Tepat: Simpan produk dengan baik dan sesuai kebutuhan (misalnya kertas harus kering).
+        Manajemen Stok: Gunakan sistem inventaris untuk memantau barang yang masuk dan keluar.
+
+B. Operasional Harian
+
+    Pemeriksaan Stok
+        Pengecekan Stok Pagi: Lakukan pengecekan stok setiap pagi.
+        Catatan Stok Habis: Segera pesan ulang produk yang hampir habis.
+
+    Penataan Produk di Toko
+        Penataan Rak: Atur produk dengan rapi di rak, berdasarkan kategori.
+        Label Harga: Pastikan label harga jelas dan mudah dibaca.
+
+2. Proses Penjualan
+A. Penjualan Toko Fisik
+
+    Pelayanan Pelanggan
+        Sambut Pelanggan: Sambut pelanggan dengan ramah dan beri informasi produk yang jelas.
+        Upselling: Tawarkan produk tambahan yang relevan.
+
+    Transaksi
+        Sistem Kasir: Gunakan aplikasi POS untuk mencatat transaksi.
+        Struk Transaksi: Berikan struk atau bukti transaksi kepada pelanggan.
+        Kembalian: Pastikan uang kembalian sesuai jika pembayaran tunai.
+
+B. Penjualan Online
+
+    Platform Penjualan
+        Gunakan Media Sosial & Marketplace: Jual produk melalui WhatsApp, Instagram, Facebook, Tokopedia, atau Shopee.
+        Unggah Foto dan Deskripsi Produk: Pastikan foto produk menarik dengan deskripsi lengkap.
+
+    Respon Pelanggan
+        Batas Waktu Respon: Balas pertanyaan pelanggan maksimal dalam 1 jam.
+        Konfirmasi Pesanan: Konfirmasi pesanan setelah pembayaran diterima.
+
+    Pengiriman Barang
+        Pengepakan: Bungkus produk dengan rapi dan aman.
+        Ekspedisi Tepercaya: Gunakan jasa ekspedisi tepercaya dan informasikan nomor resi kepada pelanggan.
+
+3. Marketing dan Promosi
+A. Strategi Offline
+
+    Banner atau Spanduk
+        Pasang banner di lokasi untuk menarik perhatian.
+
+    Diskon & Promo
+        Diskon khusus seperti “Beli 2 Gratis 1” atau “Diskon 10% untuk pembelian di atas Rp50.000.”
+
+    Brosur dan Pamflet
+        Sebarkan brosur di sekitar lokasi usaha.
+
+B. Strategi Online
+
+    Media Sosial
+        Buat akun di Instagram atau Facebook dengan konten berkualitas:
+            Foto produk
+            Testimoni pelanggan
+            Promo spesial
+        Rutin posting minimal 3 kali seminggu.
+
+    Iklan Digital
+        Gunakan Instagram Ads atau Facebook Ads untuk menjangkau lebih banyak pelanggan.
+
+    Program Loyalitas
+        Buat kartu pelanggan yang memberikan poin setiap pembelian untuk ditukar diskon.
+
+4. Evaluasi Bisnis
+
+    Evaluasi Mingguan
+        Tinjau penjualan harian, produk yang laris, dan yang kurang diminati.
+
+    Diskusi Tim
+        Diskusikan ide baru untuk meningkatkan penjualan dengan tim.
+
+    Laporan Bulanan
+        Buat laporan untuk menganalisis keuntungan dan pengeluaran.
+ 
+
+
+
+ --------------------------
+ 14 desember
+ -perbaiki pengeluaran gandatech.shop
