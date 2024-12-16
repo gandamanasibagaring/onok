@@ -1895,3 +1895,15 @@ B. Strategi Online
  --------------------------
  14 desember
  -perbaiki pengeluaran gandatech.shop
+
+
+
+ besok bawa headset kabel
+ 
+
+ --------------------
+ 15 desember
+
+ install cmd google chrome di powershell masukkan perintah: 
+
+ Invoke-WebRequest -Uri "https://dl.google.com/chrome/install/googlechromestandaloneenterprise64.msi" -OutFile "$env:Temp\googlechrome.msi"; Start-Process "msiexec.exe" -ArgumentList "/i $env:Temp\googlechrome.msi /quiet /norestart" -Wait; Remove-Item "$env:Temp\googlechrome.msi"
