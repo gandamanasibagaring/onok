@@ -1907,3 +1907,63 @@ B. Strategi Online
  install cmd google chrome di powershell masukkan perintah: 
 
  Invoke-WebRequest -Uri "https://dl.google.com/chrome/install/googlechromestandaloneenterprise64.msi" -OutFile "$env:Temp\googlechrome.msi"; Start-Process "msiexec.exe" -ArgumentList "/i $env:Temp\googlechrome.msi /quiet /norestart" -Wait; Remove-Item "$env:Temp\googlechrome.msi"
+
+
+------------------
+3 januari
+
+Berikut adalah langkah untuk membuat USB bootable dari file `Win8.1_English_x64(1).iso` yang berada di folder `Downloads`:
+
+---
+
+### **Langkah-langkah:**
+1. **Pastikan lokasi file ISO benar:**
+   File Anda berada di folder `Downloads` dengan nama `Win8.1_English_x64(1).iso`. Lokasi file tersebut dalam sistem Anda biasanya adalah:
+   ```
+   /home/username/Downloads/Win8.1_English_x64(1).iso
+   ```
+   Ganti `username` dengan nama pengguna Anda di Ubuntu. Misalnya, jika nama pengguna Anda adalah `mixue`, maka lokasinya menjadi:
+   ```
+   /home/mixue/Downloads/Win8.1_English_x64(1).iso
+   ```
+
+2. **Jalankan Perintah `dd`:**
+   Gunakan perintah berikut di terminal:
+   ```bash
+   sudo dd if=/home/mixue/Downloads/Win8.1_English_x64(1).iso of=/dev/sdb bs=4M status=progress oflag=sync
+   ```
+
+   - **`if`**: Lokasi file ISO Anda.
+   - **`of`**: Lokasi USB drive, yaitu `/dev/sdb`.
+   - **`bs=4M`**: Blok ukuran 4 MB untuk kecepatan transfer.
+   - **`status=progress`**: Menampilkan progres penyalinan data.
+   - **`oflag=sync`**: Memastikan data ditulis dengan benar.
+
+3. **Tunggu hingga selesai:**
+   Proses ini bisa memakan waktu beberapa menit, tergantung kecepatan USB dan file ISO.
+
+4. **Sinkronisasi Data:**
+   Setelah proses selesai, jalankan:
+   ```bash
+   sudo sync
+   ```
+
+5. **Lepaskan USB dengan aman:**
+   ```bash
+   sudo eject /dev/sdb
+   ```
+
+---
+
+### **Boot dari USB**
+1. Colokkan USB ke komputer target.
+2. Masuk ke BIOS/UEFI komputer target.
+3. Pilih boot dari USB dan simpan perubahan.
+4. Lanjutkan proses instalasi Windows 8.1.
+
+---
+
+Jika ada kendala, beri tahu saya! 😊
+
+
+
