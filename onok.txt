@@ -1967,3 +1967,7 @@ Jika ada kendala, beri tahu saya! 😊
 
 
 
+----------------------------------
+13 januari 2025
+
+kalo ada masalah msvcp140.dll, pada saat udah install aplikasi di windows, berarti masalahnya c++ distributablenya minta di install
