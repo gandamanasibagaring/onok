@@ -66516,3 +66516,175 @@ Password(bcrypt): $2y$10$e6DuHX5bfGGZYFb0YemYPOLkffj3rg56xhDOjLJXLXFQQs5IhJctS
 
 
 KYREN PIO TAMARA SIMBOLON
+
+kirana
+KomInfo Indonesia (1 results):
+Record #1
+Passport: 6372020306820003
+Phone: 6285393774089
+Provider: TELKOMSEL
+RegDate: 2017-11-24
+
+
+Berikut **contoh-contoh perintah WMIC** yang sangat berguna untuk cek informasi laptop/PC lewat CMD.
+
+Semua bisa langsung kamu jalankan di CMD.
+
+---
+
+# 🔧 **1. Cek Informasi BIOS**
+
+```
+wmic bios get /format:list
+```
+
+---
+
+# 💻 **2. Cek Nama Laptop / Model**
+
+```
+wmic csproduct get name
+```
+
+Cek pabrikan:
+
+```
+wmic csproduct get vendor
+```
+
+---
+
+# 🧱 **3. Cek Motherboard**
+
+```
+wmic baseboard get product,manufacturer,version,serialnumber
+```
+
+---
+
+# 🎛 **4. Cek Prosesor**
+
+```
+wmic cpu get name,numberofcores,numberoflogicalprocessors
+```
+
+Contoh output:
+
+* Intel Core i5-3210M
+* 2 Cores
+* 4 Threads
+
+---
+
+# 🧠 **5. Cek RAM**
+
+```
+wmic memorychip get banklabel, capacity, speed
+```
+
+Cek total RAM:
+
+```
+wmic computersystem get totalphysicalmemory
+```
+
+---
+
+# 💽 **6. Cek Harddisk / SSD**
+
+```
+wmic diskdrive get model,serialnumber,size
+```
+
+---
+
+# 🎨 **7. Cek GPU**
+
+```
+wmic path win32_videocontroller get name
+```
+
+---
+
+# 🔋 **8. Cek Baterai**
+
+```
+wmic path win32_battery get status
+```
+
+Status baterai:
+
+* OK
+* Charging
+* Discharging
+* No Battery (jika rusak)
+
+---
+
+# 🌡 **9. Cek Temperatur CPU (kalau tersedia)**
+
+```
+wmic /namespace:\\root\wmi PATH MSAcpi_ThermalZoneTemperature get CurrentTemperature
+```
+
+(Di laptop lama sering muncul angka mentah, bukan celcius.)
+
+---
+
+# 🌐 **10. Cek MAC Address**
+
+```
+wmic nic get macaddress
+```
+
+---
+
+# 🏷 **11. Cek Serial Number Laptop**
+
+```
+wmic bios get serialnumber
+```
+
+---
+
+# 🧩 **12. Cek Sistem Operasi**
+
+```
+wmic os get caption,version,buildnumber
+```
+
+---
+
+# ⚙️ **13. Cek Uptime**
+
+```
+wmic os get lastbootuptime
+```
+
+---
+
+# 🔐 **14. Cek Status Secure Boot (UEFI)**
+
+```
+wmic os get securebootstate
+```
+
+---
+
+# 🔁 **15. Restart / Shutdown dari WMIC**
+
+Restart:
+
+```
+wmic os where primary='true' reboot
+```
+
+Shutdown:
+
+```
+wmic os where primary='true' shutdown
+```
+
+---
+
+Kalau kamu mau, aku bisa buatkan **satu file batch (.bat)** berisi semua perintah ini + hasil otomatis rapi.
