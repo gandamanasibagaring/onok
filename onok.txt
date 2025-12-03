@@ -65682,7 +65682,7 @@ email:pbettyendang@gmail.com
 
 
 
-3K8ALUA
+ 
 
 fera natalia 
 3204120511850009
@@ -66688,3 +66688,61 @@ wmic os where primary='true' shutdown
 ---
 
 Kalau kamu mau, aku bisa buatkan **satu file batch (.bat)** berisi semua perintah ini + hasil otomatis rapi.
+
+
+
+
+kode 4XQ3K98
+
+Dukcapil (1 results):
+Record #1
+Address: jl.pungkur no.131 rt 5 rw 5 balong gede regol kota bandung jawa barat
+BDay: 05-12-1964
+District: balonggede
+FullName: lie yansen wiyono
+Gender: male
+Location: regol
+Passport: 3273110512640001
+Phone: 00000
+Region: kota bandung
+
+==================================================
+
+PdiPerjuangan.id 2025 (1 results):
+Record #1
+Age: 59
+City: KOTA BANDUNG
+District: REGOL
+FullName: LIE YANSEN WIYONO
+Gender: L
+Location: BALONG GEDE
+Region: BALONG GEDE
+State: Jabar 
+
+
+Dukcapil (1 results):
+Record #1
+Address: jl.pungkur no.131 rt 5 rw 5 balong gede regol kota bandung jawa barat
+BDay: 05-12-1964
+District: balonggede
+FullName: lie yansen wiyono
+Gender: male
+Location: regol
+Passport: 3273110512640001
+Phone: 00000
+Region: kota bandung
+
+==================================================
+
+KomInfo Indonesia (2 results):
+Record #1
+Passport: 3273110512640001
+Phone: 6285624360958
+Provider: INDOSAT
+RegDate: 2018-05-26
+
+Record #2
+Passport: 3273110512640001
+Phone: 62895707890603
+Provider: HUTCHISON_3
+RegDate: 2019-09-14
