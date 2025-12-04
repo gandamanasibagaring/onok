@@ -66526,6 +66526,607 @@ Provider: TELKOMSEL
 RegDate: 2017-11-24
 
 
+KomInfo Indonesia (100 results):
+Record #1
+Passport: 6372020306820003
+Phone: 6282111652927
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #2
+Passport: 6372020306820003
+Phone: 6282111652944
+Provider: TELKOMSEL
+RegDate: 2018-02-23
+
+Record #3
+Passport: 6372020306820003
+Phone: 6282111652931
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #4
+Passport: 6372020306820003
+Phone: 6285245957808
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #5
+Passport: 6372020306820003
+Phone: 6281214003107
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #6
+Passport: 6372020306820003
+Phone: 6281214003935
+Provider: TELKOMSEL
+RegDate: 2018-02-22
+
+Record #7
+Passport: 6372020306820003
+Phone: 6281214004061
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #8
+Passport: 6372020306820003
+Phone: 6281214002954
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #9
+Passport: 6372020306820003
+Phone: 6282111652911
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #10
+Passport: 6372020306820003
+Phone: 6285245958297
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #11
+Passport: 6372020306820003
+Phone: 6282111652972
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #12
+Passport: 6372020306820003
+Phone: 6282111652729
+Provider: TELKOMSEL
+RegDate: 2018-02-22
+
+Record #13
+Passport: 6372020306820003
+Phone: 6281214004329
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #14
+Passport: 6372020306820003
+Phone: 6282111652916
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #15
+Passport: 6372020306820003
+Phone: 6281214004127
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #16
+Passport: 6372020306820003
+Phone: 6285245958273
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #17
+Passport: 6372020306820003
+Phone: 6281214001773
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #18
+Passport: 6372020306820003
+Phone: 6282111652960
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #19
+Passport: 6372020306820003
+Phone: 6285245957932
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #20
+Passport: 6372020306820003
+Phone: 6285245958287
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #21
+Passport: 6372020306820003
+Phone: 6282111652904
+Provider: TELKOMSEL
+RegDate: 2018-02-23
+
+Record #22
+Passport: 6372020306820003
+Phone: 6285245958449
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #23
+Passport: 6372020306820003
+Phone: 6285245958575
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #24
+Passport: 6372020306820003
+Phone: 6285245958411
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #25
+Passport: 6372020306820003
+Phone: 6281214003050
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #26
+Passport: 6372020306820003
+Phone: 6282111653004
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #27
+Passport: 6372020306820003
+Phone: 6282111653023
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #28
+Passport: 6372020306820003
+Phone: 6285245957747
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #29
+Passport: 6372020306820003
+Phone: 6285245958315
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #30
+Passport: 6372020306820003
+Phone: 6282111652978
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #31
+Passport: 6372020306820003
+Phone: 6285245958076
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #32
+Passport: 6372020306820003
+Phone: 6285245958487
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #33
+Passport: 6372020306820003
+Phone: 6281214004126
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #34
+Passport: 6372020306820003
+Phone: 6282111653012
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #35
+Passport: 6372020306820003
+Phone: 6285245958100
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #36
+Passport: 6372020306820003
+Phone: 6281214002956
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #37
+Passport: 6372020306820003
+Phone: 6281214004850
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #38
+Passport: 6372020306820003
+Phone: 6282111652913
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #39
+Passport: 6372020306820003
+Phone: 6282111652969
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #40
+Passport: 6372020306820003
+Phone: 6281214004872
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #41
+Passport: 6372020306820003
+Phone: 6285245958429
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #42
+Passport: 6372020306820003
+Phone: 6282111653025
+Provider: TELKOMSEL
+RegDate: 2018-02-23
+
+Record #43
+Passport: 6372020306820003
+Phone: 6282111652729
+Provider: TELKOMSEL
+RegDate: 2018-02-23
+
+Record #44
+Passport: 6372020306820003
+Phone: 6282111652815
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #45
+Passport: 6372020306820003
+Phone: 6281214003148
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #46
+Passport: 6372020306820003
+Phone: 6285245958159
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #47
+Passport: 6372020306820003
+Phone: 6281214002954
+Provider: TELKOMSEL
+RegDate: 2018-02-22
+
+Record #48
+Passport: 6372020306820003
+Phone: 6285245958365
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #49
+Passport: 6372020306820003
+Phone: 6285245957662
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #50
+Passport: 6372020306820003
+Phone: 6285245958044
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #51
+Passport: 6372020306820003
+Phone: 6282111652944
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #52
+Passport: 6372020306820003
+Phone: 6281214004412
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #53
+Passport: 6372020306820003
+Phone: 6282111653028
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #54
+Passport: 6372020306820003
+Phone: 6281214003737
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #55
+Passport: 6372020306820003
+Phone: 6285245957631
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #56
+Passport: 6372020306820003
+Phone: 6282111653022
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #57
+Passport: 6372020306820003
+Phone: 6285245957962
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #58
+Passport: 6372020306820003
+Phone: 6282111652729
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #59
+Passport: 6372020306820003
+Phone: 6281214002142
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #60
+Passport: 6372020306820003
+Phone: 6285245958537
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #61
+Passport: 6372020306820003
+Phone: 6285245958366
+Provider: TELKOMSEL
+RegDate: 2018-02-23
+
+Record #62
+Passport: 6372020306820003
+Phone: 6285245957779
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #63
+Passport: 6372020306820003
+Phone: 6281214004372
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #64
+Passport: 6372020306820003
+Phone: 6282111652941
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #65
+Passport: 6372020306820003
+Phone: 6287816712007
+Provider: EXELCOMINDO
+RegDate: 2017-10-27
+
+Record #66
+Passport: 6372020306820003
+Phone: 6281214003096
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #67
+Passport: 6372020306820003
+Phone: 6285245957716
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #68
+Passport: 6372020306820003
+Phone: 6282111652929
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #69
+Passport: 6372020306820003
+Phone: 6281214003405
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #70
+Passport: 6372020306820003
+Phone: 6285245958587
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #71
+Passport: 6372020306820003
+Phone: 6282111652935
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #72
+Passport: 6372020306820003
+Phone: 6281214004750
+Provider: TELKOMSEL
+RegDate: 2018-02-23
+
+Record #73
+Passport: 6372020306820003
+Phone: 6281214004820
+Provider: TELKOMSEL
+RegDate: 2018-02-23
+
+Record #74
+Passport: 6372020306820003
+Phone: 6281214003510
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #75
+Passport: 6372020306820003
+Phone: 6281214004879
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #76
+Passport: 6372020306820003
+Phone: 6281214003079
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #77
+Passport: 6372020306820003
+Phone: 6285245958022
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #78
+Passport: 6372020306820003
+Phone: 6285245958536
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #79
+Passport: 6372020306820003
+Phone: 6282111652977
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #80
+Passport: 6372020306820003
+Phone: 6281214004267
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #81
+Passport: 6372020306820003
+Phone: 6282111652915
+Provider: TELKOMSEL
+RegDate: 2018-02-23
+
+Record #82
+Passport: 6372020306820003
+Phone: 6282111652947
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #83
+Passport: 6372020306820003
+Phone: 6281214002488
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #84
+Passport: 6372020306820003
+Phone: 6285245958366
+Provider: TELKOMSEL
+RegDate: 2018-02-22
+
+Record #85
+Passport: 6372020306820003
+Phone: 6282111653011
+Provider: TELKOMSEL
+RegDate: 2018-02-19
+
+Record #86
+Passport: 6372020306820003
+Phone: 6285245958590
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #87
+Passport: 6372020306820003
+Phone: 6285245957627
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #88
+Passport: 6372020306820003
+Phone: 6282111653006
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #89
+Passport: 6372020306820003
+Phone: 6281214004632
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #90
+Passport: 6372020306820003
+Phone: 6281214004820
+Provider: TELKOMSEL
+RegDate: 2018-02-24
+
+Record #91
+Passport: 6372020306820003
+Phone: 6285245957835
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #92
+Passport: 6372020306820003
+Phone: 6281214004297
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #93
+Passport: 6372020306820003
+Phone: 6285245957807
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #94
+Passport: 6372020306820003
+Phone: 6282111652932
+Provider: TELKOMSEL
+RegDate: 2017-12-02
+
+Record #95
+Passport: 6372020306820003
+Phone: 6282111652896
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #96
+Passport: 6372020306820003
+Phone: 6285245958077
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
+Record #97
+Passport: 6372020306820003
+Phone: 6287814823555
+Provider: EXELCOMINDO
+RegDate: 2017-10-27
+
+Record #98
+Passport: 6372020306820003
+Phone: 6281214003383
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #99
+Passport: 6372020306820003
+Phone: 6281214002993
+Provider: TELKOMSEL
+RegDate: 2017-11-29
+
+Record #100
+Passport: 6372020306820003
+Phone: 6285245958185
+Provider: TELKOMSEL
+RegDate: 2017-11-27
+
 Berikut **contoh-contoh perintah WMIC** yang sangat berguna untuk cek informasi laptop/PC lewat CMD.
 
 Semua bisa langsung kamu jalankan di CMD.
@@ -66746,3 +67347,1008 @@ Passport: 3273110512640001
 Phone: 62895707890603
 Provider: HUTCHISON_3
 RegDate: 2019-09-14
+
+
+
+
+AlatMobil.com (1 results):
+Record #1
+Country: Indonesia
+Email: agungsus74@yahoo.com
+NickName: Agung Susanto
+Phone: 021 29922999
+RegDate: Jul 22, 2013 11:13:07 AM
+State: Jakarta
+
+==================================================
+
+Apollo (1 results):
+Record #1
+City: Bogor
+Country: Indonesia
+Email: agung@intelix.co.id
+FullName: Agung Susanto
+ID: 54ebb9fb7468694311862517
+Link: http://www.linkedin.com/in/agung-susanto-b491b724
+State: West Java
+Title: Managing Director
+Work: managing director
+
+==================================================
+
+Aptoide (1 results):
+Record #1
+Email: agungtole44@gmail.com
+FullName: Agung Susanto
+IP: 36.78.41.208
+Password(SHA1): 621294abfac2770e4eee28136feda3abf202a3e345deb966aeda9518bffbbe36
+RegDate: 2017-10-18 15:16:06.740949
+Status: active
+
+==================================================
+
+Bankbsi.co.id (2 results):
+Record #1
+FullName: AGUNG SUSANTO RIYADI
+NickName: RIZKI NURUL AMALIA
+Phone: 087828285774
+RegDate: 2022-10-04
+
+Record #2
+Email: agungsusanto@gmail.com 
+FullName: AGUNG SUSANTO
+NickName: DANI MARTIANI ANISYA
+Phone: 085700726322
+RegDate: 2021-10-18
+
+==================================================
+
+BiznetnetWorks.com (1 results):
+Record #1
+Category: Enterprise
+Document: 020707683061000
+Email: agung@intelix.co.id
+FullName: AGUNG SUSANTO
+Gender: Unknown
+Phone: None 
+Type: TAXID
+
+==================================================
+
+BukalaPak (8 results):
+Record #1
+Email: agung.kokong@yahoo.com
+FullName: agung susanto
+NickName: agungsusanto13
+Password(bcrypt): $2a$10$9W/tzKgD96aVykrYLGfph.zZ/rxB228EfwkJsypVgMQj7sX8jrZ2e
+Salt: QdiuxamigKQd6cpRtqk
+
+Record #2
+Email: susantoagung2015@gmail.com
+FullName: Agung Susanto
+NickName: agungsusanto830
+Password(bcrypt): ae68a90641a59bd553e3d09caf35435588f8368c8a659e1a5bc51109cb0ecd469da4a770f08492fc33892b1f785f0da9bdd8c0b291918bce90a3056ad87ef3ef
+Salt: QqXMbVuoyNOvwXXNhkjC
+
+Record #3
+Email: agungsus2016@gmail.com
+FullName: Agung Susanto
+NickName: agungsus2016
+Password(bcrypt): $2a$10$Z5JeOEV.eOWpfzzbWXoXEu4nBPiWan4MCMA50tqlYIdKyAnKJBvkm
+Salt: 7crh88dsACN8Q1nHK0BZ
+
+Record #4
+Email: 393347630@incomplete.id
+FullName: Agung susanto
+NickName: agungsusanto187
+Password(bcrypt): $2a$10$sX4olX2/Zuhyt98gC1fKbuby7JjIcwyf0VLyLLaJBeOi29cgWL4pS
+Salt: NkltbIdZ6Q54OwjLgRU
+
+Record #5
+Email: rizqy.agungsusanto@gmail.com
+FullName: Agung susanto
+NickName: agung_susanto99
+Password(bcrypt): $2a$10$wbt1jFSyy0qso1UyCJFmFen7GR1Z93Pn.UayDKH.mTIcGnw.JZvX.
+Salt: 1EAIZQpesBb51eiC1CI
+
+Record #6
+Email: agoeng74s@gmail.com
+FullName: agung susanto
+NickName: agungsusanto548
+Password(bcrypt): $2a$10$uNip.lYbgBCWN0pAK7l2D.qhV3YN.wsvIJ5gSRwPPlmMjbNowvMvW
+Salt: IiyIfYNTxtvb5X64wv
+
+Record #7
+Email: susanto.agung25@gmail.com
+FullName: Agung Susanto
+NickName: susantoagung25
+Password(bcrypt): $2a$10$WMdD2iOoW2kNNdfLlCkgD.rkHa9zU/CzDEgZ4wJ8942CDL9s7ddvm
+Salt: s7V8CHjaMky99N6E62Yu
+
+Record #8
+Email: agung.susanto01@ui.ac.id
+FullName: Agung Susanto
+NickName: bulefe
+Password(bcrypt): $2a$10$S5IB2JZ.qdZt/S.7j/rdWegvdp.8rMs4PWbsgFCZj9lNXe3sAIkaS
+Salt: fpyHMBzdFbfsSLJChwGn
+
+==================================================
+
+Dukcapil (8 results):
+Record #1
+Address: jl.warakas i gg.22 no.11 rt 15 rw 8 papanggo tanjung priok kota adm. jakarta utara dki jakarta
+BDay: 12-08-1984
+District: papanggo
+FullName: agung susanto
+Gender: male
+Location: tanjung priok
+Passport: 3172021208840002
+Phone: 6281289352723
+Region: kota adm. jakarta utara
+
+Record #2
+Address: dusun v rt 1 rw null lubuk tua muara kelingi musi rawas sumatera selatan
+BDay: 18-09-1997
+District: lubuk tua
+FullName: agung susanto
+Gender: male
+Location: muara kelingi
+Passport: 1605032209980001
+Phone: 00000000
+Region: musi rawas
+
+Record #3
+Address: jl.tegalmulyo ii no.9 b. rt 9 rw 2 pakuncen wirobrajan kota yogyakarta daerah istimewa yogyakarta
+BDay: 27-11-1987
+District: pakuncen
+FullName: agung susanto
+Gender: male
+Location: wirobrajan
+Passport: 3471072711870001
+Phone: 00000
+Region: kota yogyakarta
+
+Record #4
+Address: duren seribu rt 2 rw 4 duren seribu bojongsari kota depok jawa barat
+BDay: 14-04-1984
+District: duren seribu
+FullName: agung susanto
+Gender: male
+Location: bojongsari
+Passport: 3276031404840002
+Phone: 6281317969988
+Region: kota depok
+
+Record #5
+Address: ngablak indah 1
+BDay: 10-08-1988
+District: bangetayu kulon
+FullName: agung susanto
+Gender: male
+Location: genuk
+Passport: 3316091008880001
+Region: kota semarang
+
+Record #6
+Address: krajan rt 2 rw 2 kerep kemiri purworejo jawa tengah
+BDay: 04-09-1997
+District: kerep
+FullName: agung susanto
+Gender: male
+Location: kemiri
+Passport: 3306120409970003
+Phone: 00000
+Region: purworejo
+
+Record #7
+Address: payung makmur rt 3 rw 1 payung makmur pubian lampung tengah lampung
+BDay: 03-03-1996
+District: payung makmur
+FullName: agung susanto
+Gender: male
+Location: pubian
+Passport: 1802190303960003
+Phone: 0000000
+Region: lampung tengah
+
+Record #8
+Address: dk. pandeyan rt 1 rw 7 purbayan baki sukoharjo jawa tengah
+BDay: 21-08-1993
+District: purbayan
+FullName: agung susanto
+Gender: male
+Location: baki
+Passport: 3311102108930001
+Phone: 6281916747359
+Region: sukoharjo
+
+==================================================
+
+Gravatar (1 results):
+Record #1
+Avatar: https://secure.gravatar.com/avatar/d2c852ec12e1e41c6fd995da2778902f
+Description: Gue ganteng, imut, luchu . .. . ................................................................................................... !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+FullName: Susanto Agung
+Link: http://gravatar.com/mesakuragil
+Login: mesakuragil
+NickName: mesakuragil
+
+==================================================
+
+Jamtangan (1 results):
+Record #1
+Address: Komplek sinar alam Takisung permai no 22 blok A,RT 9 RW 004,kel.karang taruna,kec.pelaihari
+City: Kab. Tanah Laut
+Email: agungkhaidar@yahoo.com
+FullName: Agung susanto
+IP: 196.52.34.7
+LastActive: 2018-12-29 12:37:17
+Location: Pelaihari
+Password(Hash): f758df348112a6723d9baba246483679
+PostCode: 70812
+Region: Kalimantan Selatan
+
+==================================================
+
+LinkedIn Scraped Data (4 results):
+Record #1
+Continent: asia
+Country: indonesia
+FullName: agung susanto
+Industry: design
+LinkedinID: 266126961
+NickName: agung-susanto-7a916075
+Summary: jakarta di AYATAMA ENERGI, TRISCO NUSANTARA
+
+Record #2
+CompanyName: pt bumi infrastuktur
+Continent: asia
+Country: indonesia
+FullName: agung susanto
+GeoLocation: -6.17,106.82
+JobCompanyName: pt bumi infrastuktur
+JobTitle: hrd
+Locality: jakarta
+Location: jakarta raya
+NickName: agung-susanto-7209a4152
+Region: jakarta raya, indonesia
+Title: hrd
+
+Record #3
+Continent: north america
+Country: united states
+Email: agung.susanto@id.pvmgrp.com
+FullName: agung susanto
+LinkedinID: 143211550
+LoginCount: 2
+NickName: agung-susanto-susanto-07ab653b
+
+Record #4
+CompanyName: pt star cosmos
+CompanySize: 1001-5000
+Continent: asia
+Country: indonesia
+FullName: agung susanto
+GeoLocation: -6.17,106.82
+JobCompanyName: pt star cosmos
+JobTitle: teknisi
+Locality: jakarta
+Location: jakarta raya
+NickName: agung-budi-susanto-201889199
+Region: jakarta raya, indonesia
+Title: teknisi
+
+==================================================
+
+Locushk.com (2 results):
+Record #1
+BDay: 0/0
+Email: goku_db2@yahoo.com.hk
+FullName: agung susanto
+Gender: M
+Phone: 81807709779
+RegDate: 2013/6/2
+
+Record #2
+BDay: 0/0
+Email: majin_buu88@yahoo.com
+FullName: agung susanto
+Gender: M
+Phone: 81807709779
+RegDate: 2013/5/10
+
+==================================================
+
+MyPertamina (2 results):
+Record #1
+Email: agungsus8116@gmail.com
+FullName: AGUNG SUSANTO
+Income: 0
+Phone: +6289660000167
+Phone2: +6219569728013
+RegDate: 2019-08-22 21:43:24
+
+Record #2
+Email: agunggmb@gmail.com
+FullName: AGUNG SUSANTO
+Income: 0
+LastActive: 2022-08-13 08:38:23
+Phone: +628164882452
+Phone2: +6219568563217
+RegDate: 2017-11-04 08:39:12
+
+==================================================
+
+MyQuranEdu.com (4 results):
+Record #1
+Amount: 50000
+BankName: BCA
+Email: agung.susanto.hadi.s@gmail.com
+FullName: Agung Susanto
+LastActive: 2020-10-25 17:50:04
+Phone: 08128031002
+RegDate: 2020-10-25 09:08:54
+
+Record #2
+Email: agung.susanto.hadi.s@gmail.com
+FullName: Agung Susanto
+LastActive: 2021-02-08 05:27:44
+RegDate: 2020-10-25 11:36:04
+
+Record #3
+Email: agungalatos28@gmail.com
+FullName: Agung Susanto
+LastActive: 2024-03-12 13:03:57
+RegDate: 2024-03-12 13:03:57
+
+Record #4
+Email: dr.susanto61@gmail.com
+FullName: Agung Susanto
+LastActive: 2022-07-26 17:56:16
+RegDate: 2020-03-05 16:00:08
+
+==================================================
+
+PdiPerjuangan.id (2 results):
+Record #1
+Address: DSN PACUH
+BDay: 1986-11-06
+Country: JAWA
+FullName: AGUNG SUSANTO
+Gender: 1
+Passport: 3517200611860001
+
+Record #2
+Address: MOJOPETUNG
+BDay: 2001-08-17
+Country: JAWA
+FullName: AGUNG SUSANTO
+Gender: 1
+Passport: 3525011708010001
+
+==================================================
+
+PdiPerjuangan.id 2025 (25 results):
+Record #1
+Age: 44
+City: SUBANG
+District: JALANCAGAK
+FullName: AGUNG SUSANTO
+Gender: L
+Location: JALANCAGAK
+Region: JALANCAGAK
+State: Jabar 
+
+Record #2
+Age: 44
+City: KEDIRI
+District: TAROKAN
+FullName: AGUNG SUSANTO
+Gender: L
+Location: JATI
+Region: JATI
+State: Jatim 
+
+Record #3
+Age: 32
+City: SUKOHARJO
+District: MOJOLABAN
+FullName: AGUNG SUSANTO
+Gender: L
+Location: DUKUH
+Region: DUKUH
+State: Jateng 
+
+Record #4
+Age: 34
+City: KOTA SEMARANG
+District: SEMARANG UTARA
+FullName: AGUNG SUSANTO
+Gender: L
+Location: BULU LOR
+Region: BULU LOR
+State: Jateng 
+
+Record #5
+Age: 35
+City: KOTA JAKARTA TIMUR
+District: PASAR REBO
+FullName: AGUNG SUSANTO
+Gender: L
+Location: CIJANTUNG
+Region: CIJANTUNG
+State: Jaktim 
+
+Record #6
+Age: 32
+City: GUNUNGKIDUL
+District: KARANGMOJO
+FullName: AGUNG SUSANTO
+Gender: L
+Location: JATIAYU
+Region: JATIAYU
+State: Diy 
+
+Record #7
+Age: L
+City: BOJONG GEDE
+District: RAWAPANJANG
+FullName: AGUNG SUSANTO
+Gender: SE"
+Location: 108
+Region: 51
+State: BOGOR 
+
+Record #8
+Age: 37
+City: TEMANGGUNG
+District: SELOPAMPANG
+FullName: AGUNG SUSANTO
+Gender: L
+Location: BUMIAYU
+Region: BUMIAYU
+State: Jateng 
+
+Record #9
+Age: 42
+City: KOTA TANGERANG
+District: KARANG TENGAH
+FullName: SUSANTO AGUNG PAMBUDI
+Gender: L
+Location: PADURENAN
+Region: PADURENAN
+State: Banten 
+
+Record #10
+Age: 62
+City: PEKALONGAN
+District: SRAGI
+FullName: AGUNG SUSANTO
+Gender: L
+Location: GEBANGKEREP
+Region: GEBANGKEREP
+State: Jateng 
+
+Record #11
+Age: 28
+City: PESAWARAN
+District: GEDONG TATAAN
+FullName: AGUNG SUSANTO
+Gender: L
+Location: BERNUNG
+Region: BERNUNG
+State: Lampung 
+
+Record #12
+Age: 32
+City: PENAJAM PASER UTARA
+District: PENAJAM
+FullName: AGUNG SUSANTO
+Gender: L
+Location: GUNUNG SETELENG
+Region: GUNUNG SETELENG
+State: Kaltim 
+
+Record #13
+Age: 32
+City: JOMBANG
+District: JOMBANG
+FullName: AGUNG SUSANTO
+Gender: L
+Location: JABON
+Region: JABON
+State: Jatim 
+
+Record #14
+Age: 45
+City: MAGETAN
+District: PANEKAN
+FullName: AGUNG SUSANTO
+Gender: L
+Location: CEPOKO
+Region: CEPOKO
+State: Jatim 
+
+Record #15
+Age: 53
+City: GROBOGAN
+District: TOROH
+FullName: AGUNG SUSANTONO
+Gender: L
+Location: TUNGGAK
+Region: TUNGGAK
+State: Jateng 
+
+Record #16
+Age: 48
+City: KOTA SALATIGA
+District: TINGKIR
+FullName: AGUNG SUSANTO
+Gender: L
+Location: GENDONGAN
+Region: GENDONGAN
+State: Jateng 
+
+Record #17
+Age: 33
+City: TULUNGAGUNG
+District: PAKEL
+FullName: AGUNG SUSANTO
+Gender: L
+Location: GESIKAN
+Region: GESIKAN
+State: Jatim 
+
+Record #18
+Age: 44
+City: NGANJUK
+District: NGRONGGOT
+FullName: AGUNG SUSANTO
+Gender: L
+Location: BANJARSARI
+Region: BANJARSARI
+State: Jatim 
+
+Record #19
+Age: 57
+City: PONOROGO
+District: BABADAN
+FullName: AGUNG SUSANTO
+Gender: L
+Location: BABADAN
+Region: BABADAN
+State: Jatim 
+
+Record #20
+Age: 28
+City: CIREBON
+District: GEGESIK
+FullName: AGUNG SUSANTO
+Gender: L
+Location: BAYALANGU LOR
+Region: BAYALANGU LOR
+State: Jabar 
+
+Record #21
+Age: 53
+City: KOTA SEMARANG
+District: GAJAHMUNGKUR
+FullName: AGUNG SUSANTO
+Gender: L
+Location: GAJAHMUNGKUR
+Region: GAJAHMUNGKUR
+State: Jateng 
+
+Record #22
+Age: 31
+City: KARANGANYAR
+District: COLOMADU
+FullName: AGUNG SUSANTO
+Gender: L
+Location: GEDONGAN
+Region: GEDONGAN
+State: Jateng 
+
+Record #23
+Age: 44
+City: KUDUS
+District: GEBOG
+FullName: AGUNG SUSANTO
+Gender: L
+Location: GONDOSARI
+Region: GONDOSARI
+State: Jateng 
+
+Record #24
+Age: 52
+City: LAMONGAN
+District: LAMONGAN
+FullName: AGUNG SUSANTO
+Gender: L
+Location: BANJARMENDALAN
+Region: BANJARMENDALAN
+State: Jatim 
+
+Record #25
+Age: 20
+City: SINTANG
+District: SINTANG
+FullName: AGUNG SUSANTO
+Gender: L
+Location: BANING KOTA
+Region: BANING KOTA
+State: Kalbar 
+
+==================================================
+
+PeopleDataLabs (1 results):
+Record #1
+Address: indonesia
+Email: siopass@gmail.com
+FullName: agung susanto
+
+==================================================
+
+Pizap (1 results):
+Record #1
+FacebookID: 100001532367701
+FullName: Agung Susanto
+NickName: 100001532367701
+RegDate(UNIX): 1313552721
+
+==================================================
+
+PureIncubation.com (1 results):
+Record #1
+Address: JALAN R S FATMAWATI 32
+Category: General Sales and Growth
+City: JAKARTA
+CompanyDescription: $50 - 99 Million
+CompanyName: PT ASURANSI BINTANG TBK
+Country: ID
+Department: Sales 
+Email: agung.susanto@asuransibintang.com
+FullName: SUSANTO AGUNG
+Industry: Insurance
+JobTitle: HEAD OF SALES
+Level: Director Level
+Phone: 62217506189
+PostCode: 12430
+RegDate: 25/6/2021 07:47:40
+Title: Senior Management (SVP/GM/Director)
+Type: Business
+
+==================================================
+
+RedDoorz (3 results):
+Record #1
+Email: agungarisusanto@gmail.com
+FullName: susanto agung ari
+Password(bcrypt): $2a$10$MtPpiY7QWp7cxlAmr/OCsusCyFZ5thuWsOYY8iPfDvirLCyOpgIQu
+Phone: 62085706974724
+RegDate: 2019-03-01 08:34:28
+
+Record #2
+Email: sanji.dono69@gmail.com
+FullName: susanto agung
+Phone: 628983338167
+RegDate: 2017-09-14 16:03:23
+
+Record #3
+Email: mrkyurazz05@gmail.com
+FullName: susanto agung
+Password(bcrypt): $2a$10$FMiVJmMqR6VVpC9hNJxxNeFWjklbvNLD2sW33PitSLTV2SLUdzSY.
+Phone: 6285157622128
+RegDate: 2020-07-27 03:14:02
+
+==================================================
+
+RodaLink.com (1 results):
+Record #1
+Address: Perumahan The Orchid Green Park Blok i-14, RT 07/08 Jl Rawa Bengkok Kp Kekupu Depok/Sawangan JAWA BARAT 16519
+Address2: Perumahan The Orchid Green Park Blok i-14, RT 07/08 Jl Rawa Bengkok Kp Kekupu Depok/Sawangan JAWA BARAT 16519
+Amount: 216000
+Date: Sep 15, 2020 14:10:32 PM
+Department: ID HQ 
+Description: Via udara (estimasi 4-7 hari) - Via udara (estimasi 4-7 hari)
+Email: agungsusantojkta@gmail.com
+FullName: Agung Susanto
+Location: I003 Indonesia Main Website Store  Indonesia
+PaymentType: snap
+Status: complete
+
+==================================================
+
+Rumahjuara.com (1 results):
+Record #1
+Address: Kropak
+ContactPerson: Agung Susanto
+Email: sdnkropak01@gmail.com
+Password: 123456
+Phone: 081325200464
+Type: Negeri
+
+==================================================
+
+Selatan.jakarta.go.id (1 results):
+Record #1
+Address: CAKUNG BARAT
+BDay: 10|06|1989
+City: SOLO
+District: CAKUNG BARAT 
+FullName: AGUNG SUSANTO
+Gender: L
+Passport: 3175061006890006
+Region: Jakarta Timur
+
+==================================================
+
+Tokopedia (21 results):
+Record #1
+BDay: 1974-08-31
+Email: agungsusanto09@gmail.com
+FullName: Agung Susanto
+Gender: 1
+Phone: 081388451291
+RegDate: 2017-05-14 16:29:35.816756
+
+Record #2
+Email: susantoagung96@gmail.com
+FullName: Agung Susanto
+Gender: 1
+LastActive: 2017-08-19 00:15:20.275673
+Password(Hash): 1e5a79c8a14e7dab536dfcef49dc9bdfb569c9b88e9ce61b30788b32168a1ffd6959a7925606a7994fe5c7c154c8a57c
+Phone: 6281222876731
+RegDate: 2017-08-19 00:13:08.652382
+Salt: cc22
+
+Record #3
+Email: 6285784385497
+FullName: Agung susanto
+Gender: 0
+LastActive: 2018-12-23 14:09:48.40394
+Phone: 6285784385497
+RegDate: 2018-12-23 14:09:22
+
+Record #4
+Email: azam.kalif@gmail.com
+FullName: Agung Susanto
+Gender: 0
+RegDate: 2019-11-27 09:46:53
+
+Record #5
+BDay: 1984-02-21
+Email: agung.susanto2@gmail.com
+FullName: Agung Susanto
+Gender: 1
+LastActive: 2019-07-12 21:27:03.245716
+Password(Hash): 2eff2d0e37748c01deca5d80ad982abe7e1c0ecfff203701dbf9fe3f414ddc2789a557333fa74d18e165ebd0cdcdcaa4
+Phone: 6281929381416
+RegDate: 2017-04-17 11:28:58.347106
+Salt: 2b56
+
+Record #6
+BDay: 1984-07-31
+Email: agungdawersusanto@yahoo.com
+FullName: Agung Susanto
+Gender: 0
+RegDate: 2019-02-20 18:30:43
+
+Record #7
+BDay: 1994-06-10
+Email: Agunx.truez@gmail.com
+FullName: Agung Susanto
+Gender: 1
+LastActive: 2015-09-27 08:15:57.053944
+Password(Hash): 3ef08b34aff0ec61951d0094c3629cb2ad07e662aec24b50e5df45264b7826690769f52eb80c178979b365d14130a9e1
+Phone: 085713330094
+RegDate: 2015-09-26 07:23:34.295849
+Salt: D2FF
+
+Record #8
+BDay: 1979-01-15
+Email: barn.at79@gmail.com
+FullName: Agung Susanto
+Gender: 1
+LastActive: 2019-01-15 21:47:00.689319
+Password(Hash): e53ccb4fa8bb4206fd079ad5e66bb29df34d31862de0c160c096593afd7009606a1adb54ac01203543494089d6532968
+Phone: 6281315907136
+RegDate: 2015-08-21 16:35:57.903598
+Salt: 0FFE
+
+Record #9
+Email: agungsusanto112233@gmail.com
+FullName: Agung Susanto
+Gender: 0
+Password(Hash): 87becdf0ac764b3942b27ac4ce85ab507d11f69d041978f837d4cc05cbc058c4d281add405b3c0f449607c51a04d7377
+Phone: 6281226061030
+RegDate: 2018-05-22 13:04:00.87235
+Salt: 4397
+
+Record #10
+BDay: 1989-03-09
+Email: agungsusanto1989@gmail.com
+FullName: agung susanto
+Gender: 1
+LastActive: 2019-01-25 14:13:02.829611
+Password(Hash): 349c7c271fa8a5706986c399a170486fa6a184ec4d5958f8fd2024edf7457e017275e7afbf44af7a742c4077aa7b8c9c
+Phone: 628119155511
+RegDate: 2017-05-18 00:10:25.673293
+Salt: edbb
+
+Record #11
+Email: bsaf28@yahoo.co.id
+FullName: Agung Susanto
+Gender: 0
+RegDate: 2019-09-18 11:03:50
+
+Record #12
+Email: agungxyz129@gmail.com
+FullName: agung susanto
+Gender: 1
+RegDate: 2018-03-01 18:53:24.460645
+
+Record #13
+Email: 6282166955168
+FullName: Agung Susanto
+Gender: 0
+LastActive: 2019-08-28 14:48:29.899645
+Phone: 6282166955168
+RegDate: 2019-08-28 14:48:29
+
+Record #14
+Email: agungssnt2@gmail.com
+FullName: Agung Susanto
+Gender: 0
+RegDate: 2020-01-05 06:00:45
+
+Record #15
+BDay: 1975-08-09
+Email: asusanto94@yahoo.co.id
+FullName: Agung Susanto
+Gender: 1
+Lang: id
+LastActive: 2018-12-15 19:28:50.525908
+Password(Hash): f15c5d90b12b01ee9ab494467ba95b96818db6bc073ee53a91885f04cd5adf35b8d339d5f39ddeaea9c8d9757a6a0b15
+Phone: 62811984818
+RegDate: 2016-11-12 01:19:03.755223
+Salt: ec15
+
+Record #16
+BDay: 1982-08-20
+Email: mr_agoenx@yahoo.com
+FullName: Agung Susanto
+Gender: 1
+LastActive: 2018-11-12 19:16:03.888394
+Password(Hash): 72ec17cb030a1ffa5b64c2f0f80f10fcb3a58886edeeb8dc35ffaeafe2e5cbeda8e0a93b26bc3e0cbb841244380731f9
+Phone: 6281239341234
+RegDate: 2015-09-15 07:57:06.7518
+Salt: BFAE
+
+Record #17
+BDay: 1981-08-16
+Email: agunghakamsusanto@gmail.com
+FullName: Agung Susanto
+Gender: 1
+LastActive: 2015-06-22 08:25:51.449621
+Password(Hash): b45285f1a43a5f582788ca42314b494be497971e430411baf8f9f1a67629a2a4b76e9b2593ff5298c81680f39e6301f1
+Phone: 085336541888
+RegDate: 2015-06-22 08:19:57.486551
+Salt: 1BCB
+
+Record #18
+Email: agungsusanto179@gmail.com
+FullName: Agung Susanto
+Gender: 0
+RegDate: 2019-05-04 11:03:09
+
+Record #19
+Email: naniksulistyowati85@gmail.com
+FullName: Agung SUSANTO
+Gender: 0
+LastActive: 2019-05-22 06:30:38.352813
+Password(Hash): bf66fb892eaf4e9aed0e30b1b17852c79c25ab0cd618e054e025fded52201b5b817c8c9d8b7ece4d7c8b8aa4f7b695d7
+Phone: 6281908277770
+RegDate: 2017-07-23 07:40:18.672264
+Salt: db95
+
+Record #20
+BDay: 1991-03-31
+Email: susanto.agung30@gmail.com
+FullName: agung susanto
+Gender: 1
+LastActive: 2016-12-18 22:07:57.406842
+Password(Hash): 5b52aa35cfdf366994b8c30977ff3bf2294a2ecf75f397ead735925a7ad6b797cfb64561f570512c6de54a042ab8a6d0
+Phone: 085252062161
+RegDate: 2016-12-18 20:14:39.300225
+Salt: 22f5
+
+Record #21
+BDay: 1977-04-25
+Email: 6282242056780
+FullName: Agung Susanto
+Gender: 1
+LastActive: 2019-06-21 00:38:32.264947
+Phone: 6282242056780
+RegDate: 2019-06-16 09:32:25
+
+==================================================
+
+Uznia.es (2 results):
+Record #1
+FullName: AGUNG SUSANTO
+NickName: E10018061
+Type: Peternakan 
+Url: https://angket.unja.ac.id/buka-angket/eyJpdiI6Ikt3R1lySlVMc2FpOVlcLzBqVmZMUVVBPT0iLCJ2YWx1ZSI6IjBmMDVMNzBcL2RoWms4Z1wvSzdZSVlzVmFrd0p3clZVV3hVc1lsWXJvcFwvRzA9IiwibWFjIjoiNTE3MjBkMDMwNmNmOGM4MDk0NDgyNDFhOGM3OWMwYTI5ZTgzMmQ2YmJjYTE2MzNkMWEyZDBiYWJiNDhjODM1YyJ9/sampling
+
+Record #2
+FullName: AGUNG SUSANTO
+NickName: E10018061
+Type: Peternakan 
+Url: https://angket.unja.ac.id/buka-angket/eyJpdiI6Ik5WOURZWTZJS3hvUEN5NnBwcmRlV0E9PSIsInZhbHVlIjoiN2Q3bzBqKzZzbXFvK2NDZHhFdjhacXVVTUhFRWVSZGhCVnNEK3BjRVJrOD0iLCJtYWMiOiJkNmFmMGU5ZmIyNjA5ZDNkMWM4ZWJiMjJkMTMzZTQ3OTJhMmQ5NWNlNWU4ZjBlMDU0MjU4YzUyNjg4NmVhMTExIn0=/sampling
+
+==================================================
+
+VivaHealth.co.id (1 results):
+Record #1
+Address: MUNGGU
+BDay: 1981-01-15T+07:00
+FullName: AGUNG SUSANTO
+Gender: M
+LastActive: 2017-10-23T20:35:57.000+07:00 
+Phone: 081806897781
+RegDate: 2017-10-23T+07:00
+
+==================================================
+
+Wahana Express (2 results):
+Record #1
+Address: JL MUSI 5 NO 1010 WAY HITAM PALEMBANG
+Category: FASHION
+City: Sumatera Selatan
+Company: AGEN WPL PEKALONGAN MABES PUSAT
+CompanyName: DRP
+Date: 2021-09-01T10:55:01.375Z
+District: Siring Agung
+FullName: DIAN APRIANI
+LastActive(UNIX): 2021-09-01T03:54:01
+Location: 3A. AGEN DELIVERY CL3 CAHAYA PALEMBANG 
+NickName: AGUNG SUSANTO
+Phone: 085273602666
+Phone2: 081929381416
+Price: 199999
+Region: Ilir Barat I
+ShippingAddress: Sumatera Selatan, Kota Palembang, Ilir Barat I, Siring Agung
+Size: 001 x 01 x 01
+Status: Selesai
+Type: mta_ttk_aktif
+
+Record #2
+Address: PERUM HARAPAN BARU REGENCY JL. SOKA KUNING II BLOK E3/1 BEKASI BARAT BEKASI JAWA BARAT
+Category: PAKAIAN
+City: Jawa Barat
+Company: AGEN WPL MALANG LAWANG
+CompanyName: Maryono
+Date: 2021-05-03T02:47:13.033Z
+District: Kota Baru
+FullName: AGUNG SUSANTO
+LastActive(UNIX): 2021-04-17T08:21:01
+Location: 2A.1.5.682 (BEKASI KOTA BEKASI BARAT)
+NickName: IQBAL INDRA S
+Phone: 081990779119
+Phone2: 085335963620
+Price: 199000
+Region: Bekasi Barat
+ShippingAddress: Jawa Barat, Kota Bekasi, Bekasi Barat, Kota Baru
+Size: 25x10x10
+Status: Selesai
+Type: updagingttk
+
+
+
+----------------------------------------
+4desember
+
+-uang bukan batasan untuk mempelajari soal keberadaan Tuhan
+-nanti kita cari cara dapatkan uang
+-yg penting rajin belajar soal agama soal kekristenan dan sejarahnya
