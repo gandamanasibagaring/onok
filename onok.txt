@@ -68352,3 +68352,763 @@ Type: updagingttk
 -uang bukan batasan untuk mempelajari soal keberadaan Tuhan
 -nanti kita cari cara dapatkan uang
 -yg penting rajin belajar soal agama soal kekristenan dan sejarahnya
+
+
+
+Aku urutkan berdasarkan kategori biar jelas.
+
+📘 1. Buku karya Niccolò Machiavelli
+
+Ini literatur klasik soal kekuasaan, manipulasi, strategi politik.
+
+Karya utama:
+
+The Prince (Il Principe)
+– Buku paling terkenal tentang cara memperoleh & mempertahankan kekuasaan.
+– Penuh taktik realpolitik.
+
+Discourses on Livy
+– Lebih “demokratis” daripada The Prince, membahas republik dan stabilitas negara.
+
+The Art of War
+– Teori militer, strategi, pentingnya pasukan warga, bukan tentara bayaran.
+
+The Florentine Histories
+– Analisis politik kota Firenze dan dinamika kekuasaan.
+
+📕 2. Buku karya Che Guevara
+
+Che fokus pada gerilya, revolusi, dan anti-imperialisme.
+
+Karya utama:
+
+Guerrilla Warfare
+– “Buku wajib” gerakan revolusi Latin-Amerika.
+– Taktik gerilya, logistik, moral pasukan.
+
+Reminiscences of the Cuban Revolutionary War
+– Memoar Che selama Revolusi Kuba.
+
+The Motorcycle Diaries
+– Catatan perjalanan mudanya yang membuat dia sadar kondisi ketidakadilan rakyat.
+
+Socialism and Man in Cuba
+– Esai tentang manusia “baru” dalam sosialisme.
+
+📚 3. Buku tentang diktator & otoritarianisme
+
+Buku-buku berikut membahas pemikiran, strategi, atau kisah tokoh diktator paling terkenal.
+
+📌 Tentang Stalin
+
+Stalin: Court of the Red Tsar — Simon Sebag Montefiore
+
+Stalin: A Biography — Robert Service
+
+📌 Tentang Hitler
+
+Mein Kampf — Adolf Hitler (kontroversial, wajib ditelaah dengan kritis)
+
+Hitler — Ian Kershaw
+
+The Rise and Fall of the Third Reich — William L. Shirer
+
+📌 Tentang Mao Zedong
+
+Mao: The Unknown Story — Jung Chang & Jon Halliday
+
+Quotations from Chairman Mao Tse-Tung (Little Red Book)
+
+📌 Tentang Mussolini
+
+The Doctrine of Fascism — Benito Mussolini
+
+Mussolini — Denis Mack Smith
+
+📌 Tentang Tokoh Otoriter Modern
+
+The Dictator’s Handbook — Bruce Bueno de Mesquita & Alastair Smith
+(Sangat populer: membongkar teori bagaimana pemimpin mempertahankan kekuasaan)
+
+The Anatomy of Fascism — Robert O. Paxton
+
+On Tyranny — Timothy Snyder
+
+The Origins of Totalitarianism — Hannah Arendt
+
+📘 4. Buku strategi kekuasaan ala “diktator modern”
+
+Tidak selalu tentang diktator langsung, tapi sering jadi “buku pegangan” mereka.
+
+Robert Greene
+
+The 48 Laws of Power
+– Paling populer tentang taktik kekuasaan, manipulasi, kontrol.
+
+The 33 Strategies of War
+
+The 50th Law (dengan 50 Cent)
+
+The Art of Seduction
+
+Mastery
+
+Sun Tzu
+
+The Art of War
+– Strategi militer & politik.
+
+Carl Schmitt (filsuf politik otoritarian)
+
+The Concept of the Political
+
+Political Theology
+
+📒 5. Buku tentang propaganda dan kontrol massa
+
+Sering digunakan oleh rezim otoriter:
+
+Propaganda — Edward Bernays
+
+Manufacturing Consent — Noam Chomsky
+
+The Crowd: A Study of the Popular Mind — Gustave Le Bon
+
+1984 — George Orwell (fiksi tapi sangat relevan tentang totalitarianisme)
+
+Brave New World — Aldous Huxley
+
+
+--------------------------
+target bg hendro
+
+
+
+Dukcapil (2 results):
+Record #1
+Address: aek parudangan rt 0 rw null padang bulan rantau utara labuhanbatu sumatera utara
+BDay: 27-07-1993
+District: padang bulan
+FullName: khairul umam rambe
+Gender: male
+Location: rantau utara
+Passport: 1210012707930004
+Phone: 6285275719713
+Region: labuhanbatu
+NPSN	:	10205362
+
+Record #2
+Address: aek parudangan rt 0 rw null padang bulan rantau utara labuhanbatu sumatera utara
+BDay: 14-09-1994
+District: padang bulan
+FullName: nur afifah ritonga
+Gender: female
+Location: rantau utara
+Passport: 1271205409940002
+Phone: 6285275719713
+Region: labuhanbatu
+
+==================================================
+
+KomInfo Indonesia (2 results):
+Record #1
+Passport: 1271205409940002
+Phone: 6285275719713
+Provider: TELKOMSEL
+RegDate: 2018-02-21
+
+Record #2
+Passport: 1271205409940002
+Phone: 6285275719713
+Provider: TELKOMSEL
+RegDate: 2018-02-24
+
+==================================================
+
+Tokopedia (2 results):
+Record #1
+BDay: 1994-09-14
+Email: 6285275719713
+FullName: Nur Afifah Ritonga
+Gender: 2
+LastActive: 2018-10-06 16:46:42.285517
+Phone: 6285275719713
+RegDate: 2018-10-06 15:50:59
+
+Record #2
+BDay: 0001-01-01
+Email: afifahritonga22@gmail.com
+FullName: Nur Afifah Ritonga
+Gender: 0
+Password(Hash): eef1d7b54dd55d24f475194e29d798160a237a5fa6953d78846fb6cde23b6e21b3927fd98e112317b2544c0e1f2e294c
+Phone: 6285275719713
+RegDate: 2019-04-20 14:25:56
+Salt: 7de0
+
+
+
+
+Dukcapil (1 results):
+Record #1
+Address: aek parudangan rt 0 rw null padang bulan rantau utara labuhanbatu sumatera utara
+BDay: 14-09-1994
+District: padang bulan
+FullName: nur afifah ritonga
+Gender: female
+Location: rantau utara
+Passport: 1271205409940002
+Phone: 6285275719713
+Region: labuhanbatu
+
+==================================================
+
+KomInfo Indonesia (24 results):
+Record #1
+Passport: 1271205409940002
+Phone: 6281396146283
+Provider: TELKOMSEL
+RegDate: 2019-03-04
+
+Record #2
+Passport: 1271205409940002
+Phone: 6281396146283
+Provider: TELKOMSEL
+RegDate: 2019-04-03
+
+Record #3
+Passport: 1271205409940002
+Phone: 6281396146287
+Provider: TELKOMSEL
+RegDate: 2019-03-04
+
+Record #4
+Passport: 1271205409940002
+Phone: 6281396146287
+Provider: TELKOMSEL
+RegDate: 2019-04-03
+
+Record #5
+Passport: 1271205409940002
+Phone: 6281995553521
+Provider: EXELCOMINDO
+RegDate: 2018-09-10
+
+Record #6
+Passport: 1271205409940002
+Phone: 6281995553523
+Provider: EXELCOMINDO
+RegDate: 2018-09-10
+
+Record #7
+Passport: 1271205409940002
+Phone: 6281995553535
+Provider: EXELCOMINDO
+RegDate: 2018-09-10
+
+Record #8
+Passport: 1271205409940002
+Phone: 6281995553536
+Provider: EXELCOMINDO
+RegDate: 2018-09-10
+
+Record #9
+Passport: 1271205409940002
+Phone: 6282117566115
+Provider: TELKOMSEL
+RegDate: 2020-01-23
+
+Record #10
+Passport: 1271205409940002
+Phone: 6282176053685
+Provider: TELKOMSEL
+RegDate: 2018-09-10
+
+Record #11
+Passport: 1271205409940002
+Phone: 6282183428386
+Provider: TELKOMSEL
+RegDate: 2018-07-15
+
+Record #12
+Passport: 1271205409940002
+Phone: 6283126298742
+Provider: EXELCOMINDO
+RegDate: 2018-07-16
+
+Record #13
+Passport: 1271205409940002
+Phone: 6283126332534
+Provider: EXELCOMINDO
+RegDate: 2018-07-15
+
+Record #14
+Passport: 1271205409940002
+Phone: 6283126447602
+Provider: EXELCOMINDO
+RegDate: 2018-07-15
+
+Record #15
+Passport: 1271205409940002
+Phone: 6283126447724
+Provider: EXELCOMINDO
+RegDate: 2018-07-15
+
+Record #16
+Passport: 1271205409940002
+Phone: 6283172946634
+Provider: EXELCOMINDO
+RegDate: 2019-08-26
+
+Record #17
+Passport: 1271205409940002
+Phone: 6283177068304
+Provider: EXELCOMINDO
+RegDate: 2019-08-26
+
+Record #18
+Passport: 1271205409940002
+Phone: 6283188607430
+Provider: EXELCOMINDO
+RegDate: 2018-09-10
+
+Record #19
+Passport: 1271205409940002
+Phone: 6285275719713
+Provider: TELKOMSEL
+RegDate: 2018-02-21
+
+Record #20
+Passport: 1271205409940002
+Phone: 6285275719713
+Provider: TELKOMSEL
+RegDate: 2018-02-24
+
+Record #21
+Passport: 1271205409940002
+Phone: 6287876503963
+Provider: EXELCOMINDO
+RegDate: 2018-09-10
+
+Record #22
+Passport: 1271205409940002
+Phone: 6287898402095
+Provider: EXELCOMINDO
+RegDate: 2018-07-15
+
+Record #23
+Passport: 1271205409940002
+Phone: 6287898402417
+Provider: EXELCOMINDO
+RegDate: 2018-07-15
+
+Record #24
+Passport: 1271205409940002
+Phone: 6289614068626
+Provider: HUTCHISON_3
+RegDate: 2018-07-15
+
+
+
+KHAIRUL UMAM RAMBE
+NIM. 8176172026
+Bankbsi.co.id (1 results):
+Record #1
+FullName: KHAIRUL UMAM RAMBE
+NickName: bsmcs03101
+Phone: 085297586863
+RegDate: 2018-01-05
+
+==================================================
+
+Dukcapil (1 results):
+Record #1
+Address: aek parudangan rt 0 rw null padang bulan rantau utara labuhanbatu sumatera utara
+BDay: 27-07-1993
+District: padang bulan
+FullName: khairul umam rambe
+Gender: male
+Location: rantau utara
+Passport: 1210012707930004
+Phone: 6285275719713
+Region: labuhanbatu
+
+==================================================
+
+Jamtangan (1 results):
+Record #1
+Address: Sma Negeri 3 Rantau Utara Jalan WR Supratman No 1
+BDay: 1993-07-27
+City: Kab. Labuhan Batu
+Email: umamrambe@gmail.com
+FullName: Khairul umam
+Gender: 1
+IP: 172.69.35.169
+LastActive: 2021-06-21 15:24:40
+Location: Rantau Utara
+Password(Hash): $5$dW1hbXJhbWJlQGdt$RsM0JrKDglPmykaErPrC7GIrlV2OVz5/5jWdGfj8oN.
+PostCode: 0
+Region: Sumatera Utara
+
+==================================================
+Canva (1 results):
+Record #1
+Email: umamrambe@gmail.com
+Lang: id-ID
+NickName: KhairulUmam44
+RegDate: 2018-10-18 09:03:00
+
+==================================================
+
+Jamtangan (1 results):
+Record #1
+Address: Sma Negeri 3 Rantau Utara Jalan WR Supratman No 1
+BDay: 1993-07-27
+City: Kab. Labuhan Batu
+Email: umamrambe@gmail.com
+FullName: Khairul umam
+Gender: 1
+IP: 172.69.35.169
+LastActive: 2021-06-21 15:24:40
+Location: Rantau Utara
+Password(Hash): $5$dW1hbXJhbWJlQGdt$RsM0JrKDglPmykaErPrC7GIrlV2OVz5/5jWdGfj8oN.
+PostCode: 0
+Region: Sumatera Utara
+
+==================================================
+
+Mathway (1 results):
+Record #1
+Email: umamrambe@gmail.com
+FirstName: Khairul
+LastActive: 2018-09-04 22:45:25.017
+LastName: Umam
+
+==================================================
+
+MyPertamina (1 results):
+Record #1
+Email: umamrambe@gmail.com
+FullName: KHAIRUL UMAM RAMBE
+Income: 0
+LastActive: 2022-05-17 08:10:15
+Phone: +6285297586863
+Phone2: +6219561838609
+RegDate: 2018-06-17 12:18:03
+
+==================================================
+
+RedDoorz (1 results):
+Record #1
+Email: umamrambe@gmail.com
+FirstName: khairul
+LastName: umam
+Password(bcrypt): $2a$10$WyT13l6Pf6fTh9D7Q.w3SulZ5EO.1CdT4S5LE6SA.5grCdI3ifu/.
+Phone: 6285297586863
+RegDate: 2020-01-26 12:31:41
+
+==================================================
+
+Tokopedia (1 results):
+Record #1
+BDay: 1993-07-27
+Email: Umamrambe@gmail.com
+FullName: Khairul Umam Rambe
+Gender: 1
+Phone: 085297586863
+RegDate: 2018-03-10 08:31:53.076148
+
+==================================================
+
+Twitter 200M (1 results):
+Record #1
+Email: Umamrambe@gmail.com
+Followers: 847
+FullName: Khairul Umam
+NickName: khairulumamr
+RegDate: 11.01.2011 13:07:19
+
+==================================================
+
+Wattpad (1 results):
+Record #1
+Country: ID
+Date: 2019-12-03 17:22:14
+Email: umamrambe@gmail.com
+FullName: Khairul Umam
+NickName: khairulumamr
+Password(bcrypt): $2y$10$r9Uz5xGOJUyhLWT0L9KkGORtP2iJTSBFw9Vt8902P9UTEHneXBSqq
+MyPertamina (1 results):
+Record #1
+Email: umamrambe@gmail.com
+FullName: KHAIRUL UMAM RAMBE
+Income: 0
+LastActive: 2022-05-17 08:10:15
+Phone: +6285297586863
+Phone2: +6219561838609
+RegDate: 2018-06-17 12:18:03
+
+==================================================
+
+PdiPerjuangan.id 2025 (1 results):
+Record #1
+Age: 30
+City: LABUHANBATU
+District: RANTAU UTARA
+FullName: KHAIRUL UMAM RAMBE
+Gender: L
+Location: PADANG BULAN
+Region: PADANG BULAN
+State: Sumut 
+
+==================================================
+
+Telegram Chats (1 results):
+Record #1
+ChannelID: 1178378323
+FullName: Rambe Khairul Umam
+NickName: khairulumamr
+TelegramChannel: zeniusuntukguru
+TelegramID: 1231387092
+Title: Zenius untuk Guru
+
+==================================================
+
+Tokopedia (1 results):
+Record #1
+BDay: 1993-07-27
+Email: Umamrambe@gmail.com
+FullName: Khairul Umam Rambe
+Gender: 1
+Phone: 085297586863
+RegDate: 2018-03-10 08:31:53.076148
+
+==================================================
+
+Twitter 200M (1 results):
+Record #1
+Email: Umamrambe@gmail.com
+Followers: 847
+FullName: Khairul Umam
+NickName: khairulumamr
+RegDate: 11.01.2011 13:07:19
+
+==================================================
+
+Wattpad (1 results):
+Record #1
+Country: ID
+Date: 2019-12-03 17:22:14
+Email: umamrambe@gmail.com
+FullName: Khairul Umam
+NickName: khairulumamr
+Password(bcrypt): $2y$10$r9Uz5xGOJUyhLWT0L9KkGORtP2iJTSBFw9Vt8902P9UTEHneXBSqq
+
+
+hibp logo
+This tool allows you to find if an email address was leaked in data breaches.
+
+query
+
+found
+
+leaks
+
+bukalapak.com (2017-10-23)
+
+canva.com (2019-05-24)
+
+tokopedia.com (2020-04-17)
+
+cit0day.in (2020-11-04)
+
+1618033988749894
+
+Subscribe
+057721566490153286060
+
+Subscribe
+314159265359
+
+Subscribe
+27182818284590
+
+Subscribe
+1618033988749894
+
+Subscribe
+n.afifahritonga@gmail.com
+
+9
+
+ 
+
+ 
+
+ 
+Alien TxtBase (1 results):
+Record #1
+Application: com.netflix.mediaclient
+Email: n.afifahritonga@gmail.com
+Password: matematika3 
+
+==================================================
+
+BukalaPak (1 results):
+Record #1
+Email: n.afifahritonga@gmail.com
+FullName: Nur Afifah Ritonga
+NickName: n_afifah_r
+Password(bcrypt): $2a$10$68CnsewhzKsJNJB9KI3Re.QUPyXrxgjScKbuAhlEY//CUuxyI9Ose
+Salt: 3rabI9Y4aFHF93raWFb8
+
+==================================================
+
+Canva (1 results):
+Record #1
+Email: n.afifahritonga@gmail.com
+Lang: en
+NickName: n.afifahritonga
+Password: $2a$10$BUUYXSyMIu/y7Jh6CVlmsuy8jhEyxLXlNmy2VIBiLjYcDBHR.pRPC
+RegDate: 2017-09-06 13:02:41
+
+==================================================
+
+Cit0Day (1 results):
+Record #1
+Category: Shopping
+Email: n.afifahritonga@gmail.com
+LeakSite: colorbox.co.id
+Password(MD5): e42f6515859c9cb2308b595362399e41
+
+==================================================
+
+Jamtangan (1 results):
+Record #1
+BDay: 1994-09-14
+Email: n.afifahritonga@gmail.com
+FullName: Nur Afifah Ritonga
+Gender: 2
+IP: 172.68.255.74
+LastActive: 2021-06-16 19:55:42
+
+==================================================
+
+Nitro (1 results):
+Record #1
+Email: n.afifahritonga@gmail.com
+RegDate: 2017-09-19 00:27:33.932
+Status: ACTIVE
+
+==================================================
+
+Tokopedia (1 results):
+Record #1
+Email: n.afifahritonga@gmail.com
+FullName: Nur Afifah Ritonga
+Gender: 2
+LastActive: 2017-06-18 23:00:43.192392
+Password(Hash): 98251afd3e7d59717d5beba73e2e0e04778f1df35989667c40375bb5431e2d5b67a4267899cd42523c060864f8360e6a
+Phone: 08153175247
+RegDate: 2017-02-11 16:06:00.687254
+Salt: 354e
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Epieos logo
+google logo
+Google account finder will show you if the requested email is linked to a Google account and/or if the person left reviews on Google Maps.
+
+profile picture
+query
+
+photo
+
+id
+
+last update
+
+services
+
+google maps
+
+google calendar
+
+google plus archive
+
+n.afifahritonga@gmail.com
+
+https://lh3.googleusercontent.com/a-/ALV-UjX0_7YI7i5ixafEwaXS5QEzV-0Os0HfpsCQCQ4FB7sTSCke46Br
+
+105371897126435112419
+
+2025-11-28 00:36:29 (UTC)
+
+ 
+
+https://www.google.com/maps/contrib/105371897126435112419
+
+https://calendar.google.com/calendar/u/0/embed?src=n.afifahritonga@gmail.com
+
+https://web.archive.org/web/*/plus.google.com/105371897126435112419*
+
+Epieos logo
+emailchecker logo
+This tool allows you to check if an email address is used on several social networks or websites.
+
+query
+
+found
+
+websites
+
+academia.edu
+
+spotify.com
+
+n.afifahritonga@gmail.com
+
+2
+
+ 
+
+ 
+NUR AFIFAH RITONGA
+
+Perguruan Tinggi
+
+Universitas Sumatera Utara
+
+Jenis Kelamin
+
+Perempuan
+
+Tanggal Masuk
+
+25 Juni 2012
+
+NIM
+
+120407006
+
+Jenjang - Program Studi
+
+Sarjana - Teknik Lingkungan
+
+Status Awal Mahasiswa
+
+Peserta didik baru
+
+Status Terakhir Mahasiswa
+
+Lulus-2016/2017 Genap
