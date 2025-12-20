@@ -72371,3 +72371,84 @@ Gender: P
 Location: PEGAGAN JULU I
 Region: PEGAGAN JULU I
 State: Sumut 
+
+
+
+
+
+Dukcapil (1 results):
+Record #1
+Address: jl. makmur ujung no. 11 rt 0 rw null batang beruh sidikalang dairi sumatera utara
+BDay: 28-11-1971
+District: batang beruh
+FullName: basar sibagariang
+Gender: male
+Location: sidikalang
+Passport: 1211012811710004
+Phone: 1211012811710004
+Region: dairi
+
+==================================================
+
+PdiPerjuangan.id 2025 (1 results):
+Record #1
+Age: 52
+City: DAIRI
+District: SIDIKALANG
+FullName: BASAR SIBAGARIANG
+Gender: L
+Location: BATANG BERUH
+Region: BATANG BERUH
+State: Sumut 
+
+==================================================
+
+Qraved (1 results):
+Record #1
+Email: basarsibagariang@yahoo.co.id
+FullName: Sibagariang Basar
+Password(MD5): d6bf54cab22f6c09396078abe0b6bcb0
+RegDate: 2017-05-11 05:50:22
+
+==================================================
+
+Tokopedia (2 results):
+Record #1
+Email: basarsibagariang@yahoo.co.id
+FullName: Basar Sibagariang
+Gender: 1
+RegDate: 2018-05-25 11:52:32.044838
+
+Record #2
+Email: 628126318833
+FullName: BASAR SIBAGARIANG
+Gender: 0
+Phone: 628126318833
+RegDate: 2019-03-20 13:45:41
+
+
+
+
+RedDoorz (1 results):
+Record #1
+Avatar: https://lh3.googleusercontent.com/a-/AAuE7mCH5HZEs7LgP9suiMnTrkPPBLtyGe1AXa5i-GglRw=s300
+Email: gintingsuhenda@gmail.com
+FullName: ginting suhenda
+Password(bcrypt): $2a$10$Q8S9/2IsNIYPC28/TN0rGuDkDyKWhFf5PLOuhIizv53wqYJjfMjOa
+Phone: 6282167624058
+Provider: Google
+RegDate: 2019-12-30 22:24:27
+
+==================================================
+
+Tokopedia (1 results):
+Record #1
+BDay: 1990-09-20
+Email: gintingsuhenda@gmail.com
+FullName: suhenda ginting
+Gender: 1
+LastActive: 2020-02-15 14:04:59.417302
+Password(Hash): a7db7fbf3281cd64e478a8d7a20f57066764f117132c6a3c6e033c23a6d92f7c37dfb96786f63e7d62c10704114aabbe
+Phone: 6281231763856
+RegDate: 2017-12-06 18:04:47.578204
+Salt: 756231bd44f64e45cc2ad5d60622cd391b494be1cb599cee7f889ef7b7de2227
