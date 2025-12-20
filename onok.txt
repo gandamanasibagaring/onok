@@ -68481,7 +68481,24 @@ Brave New World — Aldous Huxley
 
 --------------------------
 target bg hendro
+RedDoorz (1 results):
+Record #1
+Avatar: https://graph.facebook.com/v3.2/10210583963155205/picture?height=300&width=300&migration_overrides=%7Boctober_2012%3Atrue%7D
+Email: hdpsibagariang@yahoo.co.id
+FullName: Sibagariang Hendro
+Password(bcrypt): $2a$10$X15ATPHlCEYuh0IoZ03vROaM0KvmQGoz0JnzhjoMFdwLzboqfzj3O
+Phone: 6285270371501
+Provider: Facebook
+RegDate: 2019-01-18 06:31:38
 
+==================================================
+
+Tokopedia (1 results):
+Record #1
+Email: hendro.sibagariang70@gmail.com
+FullName: Hendro Sibagariang
+Gender: 0
+RegDate: 2019-10-30 20:21:11
 
 
 Dukcapil (2 results):
@@ -69112,3 +69129,3245 @@ Peserta didik baru
 Status Terakhir Mahasiswa
 
 Lulus-2016/2017 Genap
+
+https://ins.ms/r?i=OZKTWH&lt=url
+
+
+
+
+
+
+The beloved parents of the writer, Mr. Mulatiur Ritonga, S.Sos, M.AP
+and Mrs. Zahiyar Hawa, S.Ag who always love the writer unconditionally,
+support the writer patiently and set aside everything that is good for the
+writer’s life; The beloved sisters of the writer, Fatimah Jahra Ritonga,
+S.Kep; Nurul Khairiyah Ritonga, M.Ag; Nur Afifah Ritonga, S.T;
+Rasyida Ayu Ritonga, S.Si who always gives the writer her best in order
+to help, love, share, listen and accompany the writer from the very beginning
+of life until the end. Insyaa Allah;
+
+Data Pribadi adeknya
+Nama : Lailatussifa Ritonga
+NIM : 03.04.16.2096
+LAILATUSSIFA RITONGA 199806272024212022 Ahli Pertama - Guru
+Kelas
+UPT SD Negeri Nomor 060864 Kecamatan
+Medan Timur Dinas Pendidikan Dan
+Kebudayaan Kota Medan - Dinas Pendidikan
+Dan Kebudayaan Kota Medan 
+Tempat/ Tanggal Lahir : Medan, 27 Juni 1998
+Jenis Kelamin : Perempuan
+Fakultas/ Prodi : Ilmu Tarbiyah dan Keguruan/ Pendidikan Bahasa
+Inggris
+Agama : Islam
+Tinggi/ Berat Badan :155/ 49
+Golongan Darah : O
+Kewarganegaraan : Indonesia
+Alamat Rumah : Jl. Abadi No,2 Pulo Brayan Bengkel, Medan
+Timur, Medan, Sumatera Utara
+E-mail : lailatusyifa06@gmail.com
+Alamat Rumah : Jl. Abadi No,2 Pulo Brayan Bengkel, Medan
+Timur, Medan, Sumatera Utara
+E-mail : lailatusyifa06@gmail.com
+
+
+IndonesiaCarOwner (3 results):
+Record #1
+Address: JL.ABADI NO2 KEL.P.BRAYAN BENGKEL MEDAN
+AutoBrand: HONDA
+AutoNumber: BK5846XI
+BPKB: I04174619
+Color: BIRU||HITAM
+EngineNumber: JF22E-1075311
+FullName: MULATIUR RITONGA S SOS
+Type: NC11B1C A/T
+VIN: MH1JF221X9K074557
+VehicleYear: 2009||0
+
+Record #2
+Address: JL. ABADI NO.2 KEL. PULO BRAYAN BENGKEL KEC.M.TIMUR MDN
+AutoBrand: DAIHATSU
+AutoNumber: BK8941CR
+BPKB: Z00029861
+Color: SILVER METALIC||HITAM
+EngineNumber: MA52267
+FullName: MULATIUR RITONGA S SOS M. AP
+Type: S401RP-PMREJJ HA
+VIN: MHKP3BA1JDK050804
+VehicleYear: 2013||0
+
+Record #3
+Address: JL ABADI NO 2 KEL. PULO BRAYAN BENGKEL KEC. MEDAN TIMUR-MEDAN
+AutoBrand: HONDA
+AutoNumber: BK4081AGV
+BPKB: M12366792
+Color: HITAM PUTIH||HITAM
+EngineNumber: JFW1E1865469
+FullName: MULATIUR RITONGA S SOS M.AP
+NIK: 1271200406620003
+Type: C1C02N16M2 A/T
+VIN: MH1JFW112HK861462
+VehicleYear: 2017||108.20
+NIP. 19620604198712 1 002
+==================================================
+
+PdiPerjuangan.id 2025 (1 results):
+Record #1
+Age: 61
+City: KOTA MEDAN
+District: MEDAN TIMUR
+FullName: MULATIUR RITONGA S SOS M.AP
+Gender: L
+Location: P BERAYAN BENGKEL
+Region: P BERAYAN BENGKEL
+State: Sumut 
+
+
+PdiPerjuangan.id 2025 (1 results):
+Record #1
+Age: 32
+City: KOTA MEDAN
+District: MEDAN TIMUR
+FullName: FATIMAH JAHRA' RITONGA
+Gender: P
+Location: P BERAYAN BENGKEL
+Region: P BERAYAN BENGKEL
+State: Sumut 
+
+==================================================
+
+Travelio (1 results):
+Record #1
+BDay: 0
+Email: jahra.cutez@gmail.com
+FullName: Fatimah Jahra Ritonga |perawat vip pavi
+Lang: id
+LastActive(UNIX): 1594810825678
+Password(Hash): sha1$6260ee1a$1$557720e7566f3fd5f24797e1aa9008ea6388fe74
+Phone: 081331745713
+RegDate(UNIX): 1450689999308
+
+
+Bankbsi.co.id (1 results):
+Record #1
+Email: nurulkhairiyah187@gmail.com 
+FullName: NURUL KHAIRIYAH RITONGA
+NickName: MOBILE
+Phone: 081264626734
+RegDate: 2022-11-02
+
+==================================================
+
+Dukcapil (1 results):
+Record #1
+Address: jl.abadi no.2 rt 0 rw 0 p berayan bengkel medan timur kota medan sumatera utara
+BDay: 02-10-1992
+District: p berayan bengkel
+FullName: nurul khairiyah ritonga | istri bg irul
+Gender: female
+Location: medan timur
+Passport: 1271204210920001
+Phone: 6281264626734
+Region: kota medan
+
+==================================================
+
+PdiPerjuangan.id 2025 (1 results):
+Record #1
+Age: 32
+City: KOTA MEDAN
+District: MEDAN TIMUR
+FullName: NURUL KHAIRIYAH RITONGA
+Gender: P
+Location: P BERAYAN BENGKEL
+Region: P BERAYAN BENGKEL
+State: Sumut 
+
+==================================================
+
+Wattpad (2 results):
+Record #1
+Country: ID
+Date: 2020-01-07 14:42:31
+Email: nurulkhairiyah187@gmail.com
+FullName: Nurul Khairiyah
+NickName: Uyunritonga123
+Password(bcrypt): $2y$10$pAekSyrGBcw0Y6BZeOA9n.aIBrA9VlrUmmDLj0Wj1GnB7GASS9sHC
+
+Record #2
+Country: ID
+Date: 2019-06-20 04:09:42
+Email: nurulkhairiyah88@gmail.com
+FullName: Nurul Khairiyah
+NickName: Uyunritonga
+Password(bcrypt): $2y$10$GsR4ZJjE6VZgmi3KlUNese7.NkdC3mxZlfFvRXs/BfUi/OpGG5WgK
+
+
+
+
+BSI Bank (1 results):
+Record #1
+Email: ayurrasyida@gmail.com
+FullName: RASYIDA AYU RITONGA | istri ega
+LoginCount: 0
+Phone: 082277581890
+RegDate: 2018-09-12 12:25:02.183
+
+==================================================
+
+Bankbsi.co.id (1 results):
+Record #1
+Email: ayurrasyida@gmail.com 
+FullName: RASYIDA AYU RITONGA
+NickName: bsmcs12201
+Phone: 082277581890
+RegDate: 2018-09-12
+
+==================================================
+
+YouthManual (1 results):
+Record #1
+BDay: 1996-10-31
+City: Kota Medan
+Email: ayurrasyida@gmail.com
+FullName: Rasyida Ayu Ritonga
+Gender: F
+LastActive: 2018-08-26 11:19:39
+Password(SHA1+Salt): aa936f72fc4b0de7a0c6be49829e737362fc22c0
+Phone: 082277581890
+RegDate: 2018-08-25 21:19:29
+Salt: 96b5dd170e793b13c0a5c3c107ba182e15f361d4
+
+
+
+tautan nur : https://ins.ms/r?i=OZKTWH&lt=url
+
+
+082168351553 fadilah
+0895322202836 samuel
+895321882844
+
+////////////////////////////////////////////
+-------------------------------
+19desember 2025
+Token Voucher breach forum
+J66OG6Z
+
+
+--------------------------000webhost (1 results):
+Record #1
+Email: ariel_hamzah@yahoo.com
+IP: 121.52.130.234
+NickName: indra faiz alfarizy
+Password: apaaja0160
+
+==================================================
+
+Bankbsi.co.id (3 results):
+Record #1
+FullName: FAIZ INDRA KUSUMA
+NickName: WENDY SARASWATI
+Phone: 081249323838
+RegDate: 2021-08-13
+
+Record #2
+Email: faizindraw@gmail.com 
+FullName: FAIZ INDRA WIJAYA
+NickName: NOVIANA PUTRI NARYUN
+Phone: 6281336943722
+RegDate: 2021-11-25
+
+Record #3
+Email: indra1265@gmail.com 
+FullName: INDRA FAIZAL
+NickName: bsmcs04901
+Phone: 081363535387
+RegDate: 2017-12-13
+
+==================================================
+
+BukalaPak (2 results):
+Record #1
+Email: lemurian270811@gmail.com
+FullName: indra faizal
+NickName: lemurian
+Password(bcrypt): e9b89841a9d88fa835e272e2496a817315aa08f16221a572e8ae1849e270f2867e7ecb7be377d9ac4239545e248248796ab7ff884c3dd215f0f16a9135850e34
+Salt: MkMQcxSjLbM4EgHIJ4lR
+
+Record #2
+Email: faiz.indra@ymail.com
+FullName: faiz indra irsyad
+NickName: faiz_indra
+Password(bcrypt): 5a7655168ca70c78b6f67bd772094066e24c4e86d6a47885bc589168d94c3eccff07ec9f03f59291db8a97eb01bad33cac70fd9fd5ba752da7a1f918a3669045
+Salt: voeygQj9waDg7eI0
+
+==================================================
+
+Cerebrum.id (1 results):
+Record #1
+Email: indranurfaz@gmail.com
+FullName: Indra Faizullah Nurali
+LastActive: 2021-01-29 00:55:33 
+RegDate: 2021-01-29 00:55:33
+
+==================================================
+
+Cutout.pro (1 results):
+Record #1
+Email: lemurian270811@gmail.com
+IP: 114.5.251.134
+NickName: Indra Faizal
+RegDate: 26/9/2023 23:41:10
+Salt: b77703b637d82916f134
+
+==================================================
+
+Deezer (1 results):
+Record #1
+Country: MY
+Email: indrafaiz20@gmail.com
+FullName: faiz indra
+Gender: M
+Lang: en
+NickName: indra faiz
+RegDate: 2014-04-06
+
+==================================================
+
+Dukcapil (6 results):
+Record #1
+Address: tanjungrejo
+BDay: 01-06-2003
+District: tanjungrejo
+FullName: indra faizatun nisa
+Gender: male
+Location: jekulo
+Passport: 3319064106030001
+Phone: 0000
+Region: kudus
+
+Record #2
+Address: jl. sumbodro rt 5 rw 4 slerok tegal timur kota tegal jawa tengah
+BDay: 23-03-1987
+District: slerok
+FullName: indra faizah
+Gender: female
+Location: tegal timur
+Passport: 3376026303870001
+Phone: 6285742544556
+Region: kota tegal
+
+Record #3
+Address: kauman rt 3 rw 3 kauman widodaren ngawi jawa timur
+BDay: 05-02-2001
+District: kauman
+FullName: indra faizullah nurali
+Gender: male
+Location: widodaren
+Passport: 3521120502010002
+Phone: 00000000000000
+Region: ngawi
+
+Record #4
+Address: jl anggrek ii no.14 rt 3 rw 9 kapuk cengkareng kota adm. jakarta barat dki jakarta
+BDay: 09-03-1969
+District: kapuk
+FullName: indra faizal se
+Gender: male
+Location: cengkareng
+Passport: 3173010903690013
+Phone: 00000
+Region: kota adm. jakarta barat
+
+Record #5
+Address: pondok serut rt 3 rw 3 pondok kacang timur pondok aren kota tangerang selatan banten
+BDay: 12-11-1988
+District: pondok kacang timur
+FullName: indra faizal
+Gender: male
+Location: pondok aren
+Passport: 3674031211880004
+Phone: 6281295470859
+Region: kota tangerang selatan
+
+Record #6
+Address: gajahan rt 3 rw 1 kebongembong pageruyung kendal jawa tengah
+BDay: 11-08-2001
+District: kebongembong
+FullName: faiz indra musyafa&#39
+Gender: male
+Location: pageruyung
+Passport: 3324021108010001
+Phone: 0000000000
+Region: kendal
+
+==================================================
+
+Facebook (1 results):
+Record #1
+FacebookID: 100027794602188
+FullName: Faiz Indra
+Gender: male
+Phone: 60169017182
+
+==================================================
+
+IndonesiaCarOwner (7 results):
+Record #1
+Address: TAMAN KIRANA SURYA BLOK D 12/28 RT. 003 RW. 008 PASANGGRAHAN SOLEAR
+AutoBrand: HONDA
+AutoNumber: B6823GUG
+BPKB: L13661015
+Color: HITAM||HITAM
+EngineNumber: JBG1E1183966
+FullName: INDRA FAIZ MAULANA
+Type: NF12A1CF M/T
+VIN: MH1JBG117FK186285
+VehicleYear: 2015||125
+
+Record #2
+Address: JL.MAKMUR NO.02 RT.08 KEL.TJ.PALAS DUMAI
+AutoBrand: HONDA
+AutoNumber: BM3539RR
+Color: HITAM KUNING||HITAM
+EngineNumber: JB81E-1159678
+FullName: INDRA FAIZAL
+Type: NF 125 TD
+VIN: MH1JB81178K162917
+VehicleYear: 2008||100
+
+Record #3
+Address: KRAJAN RT/RW 05/03 DS MENTORO PACITAN PACITAN
+AutoBrand: YAMAHA
+AutoNumber: AE2506YD
+BPKB: N03299934
+Color: HITAM||HITAM
+EngineNumber: G3E4E0475546
+FullName: FAIZ INDRA PRATAMA
+Type: 2DP NON ABS
+VIN: MH3SG3120HK338013
+VehicleYear: 2017||155
+
+Record #4
+Address: BARAN JURANG RT 01/06 BARAN AMBARAWA - KAB. SEMARANG
+AutoBrand: HONDA
+AutoNumber: H2712OC
+BPKB: O0144344I
+Color: MERAH||(TAK DIISI)
+EngineNumber: JFC1E1189039
+FullName: FAIZ INDRA MURTANTO
+NIK: -
+Type: NC12A1CBF A/T
+VIN: MH1JFC112DK189170
+VehicleYear: 2013||125
+
+Record #5
+Address: JL.KUANTAN I NO.11 RT.02/01 P.BARU
+AutoBrand: HONDA
+AutoNumber: BM4911AY
+BPKB: 8314762D
+Color: HITAM||HITAM
+EngineNumber: NFGBE-1011680
+FullName: INDRA FAIZAL.SE
+Type: ASTREA C 100
+VIN: NFGB14WK011609
+VehicleYear: 1998||100
+
+Record #6
+Address: LK RONA RT/RW 03/07 PULAU KEC. BANGKINANG SEBERANG KAB. KAMPAR
+AutoBrand: TOYOTA
+AutoNumber: BM1348ZQ
+BPKB: M11632964
+Color: ABU ABU METALIK||HITAM
+EngineNumber: 1TR6976753
+FullName: INDRA FAIZAL
+NIK: 1401151804870001
+Type: KIJANG INNOVA E (TGN40R-GKMRKD 10)
+VIN: MHFXW41G1A0041503
+VehicleYear: 2010||1998
+
+Record #7
+Address: PERUM MANGKALAYA RT 002 RW 003 CIBOLANG GUNUNG GURUH KAB SUKABUMI
+AutoBrand: HONDA
+AutoNumber: F1059OU
+BPKB: O02825363
+Color: PUTIH||HITAM
+EngineNumber: L12B31905269
+FullName: INDRA FAIZAL GUNAWAN
+NIK: 3202271008920003
+Type: BRIO SATYA 1.2EMT
+VIN: MHRDD1750JJ705204
+VehicleYear: 2018||1198
+
+==================================================
+
+LinkedIn Scraped Data (1 results):
+Record #1
+CompanyName: jm morizz sdn bhd
+CompanyRegion: kuala lumpur
+CompanySize: 11-50
+Continent: asia
+Country: malaysia
+FullName: indra faizal
+Industry: design
+JobCompanyName: jm morizz sdn bhd
+JobTitle: driver
+LinkedinID: 370026429
+LoginCount: 0
+NickName: indra-faizal-7b9b07a3
+Summary: driver di pantrans haulage
+Title: driver
+
+==================================================
+
+MyPertamina (3 results):
+Record #1
+Email: indrafaizinr@gmail.com
+FullName: INDRA FAIZI NUR RISKY
+Income: 0
+LastActive: 2022-07-19 16:03:29
+Phone: +6287833573896
+Phone2: +6219563818312
+RegDate: 2021-02-16 13:52:53
+
+Record #2
+Email: faizindrap@gmail.com
+FullName: FAIZ INDRA PRATAMA
+Income: 0
+Phone: +6287854360143
+Phone2: +6219564077263
+RegDate: 2020-01-22 16:55:24
+
+Record #3
+Email: mr.indrafaizal@gmail.com
+FullName: INDRA FAIZAL
+Income: 0
+LastActive: 2022-07-24 19:54:20
+Phone: +6287823670870
+Phone2: +6219562637399
+RegDate: 2019-10-23 11:11:03
+
+==================================================
+
+MyQuranEdu.com (3 results):
+Record #1
+Email: indrafaizah24@gmail.com
+FullName: indra faizah
+LastActive: 2025-02-12 15:17:48
+RegDate: 2025-02-12 15:17:48
+
+Record #2
+Email: indraf1265@gmail.com
+FullName: Indra Faizal
+LastActive: 2023-07-12 05:56:19
+RegDate: 2023-07-12 05:56:19
+
+Record #3
+Email: indrafaiz333@gmail.com
+FullName: Indra Faiz
+LastActive: 2025-06-03 21:19:56
+RegDate: 2025-06-03 21:19:56
+
+==================================================
+
+PdiPerjuangan.id 2025 (26 results):
+Record #1
+Age: 19
+City: PURBALINGGA
+District: PURBALINGGA
+FullName: INDRA FAIZAL SAPUTRA
+Gender: L
+Location: BOJONG
+Region: BOJONG
+State: Jateng 
+
+Record #2
+Age: 27
+City: TANGERANG
+District: SOLEAR
+FullName: INDRA FAIZ MAULANA
+Gender: L
+Location: PASANGGRAHAN
+Region: PASANGGRAHAN
+State: Tangerang 
+
+Record #3
+Age: 36
+City: KAMPAR
+District: BANGKINANG
+FullName: INDRA FAIZAL
+Gender: L
+Location: PULAU
+Region: PULAU
+State: Riau 
+
+Record #4
+Age: 16
+City: KOTA BANDAR LAMPUNG
+District: SUKABUMI
+FullName: FAIZ INDRA SAKSANA
+Gender: L
+Location: SUKABUMI
+Region: SUKABUMI
+State: Lampung 
+
+Record #5
+Age: 19
+City: MALANG
+District: GONDANGLEGI
+FullName: INDRA FAIZIN
+Gender: L
+Location: GONDANGLEGI WETAN
+Region: GONDANGLEGI WETAN
+State: Jatim 
+
+Record #6
+Age: 25
+City: PONOROGO
+District: SIMAN
+FullName: FAIZ INDRA WIJAYA
+Gender: L
+Location: PIJERAN
+Region: PIJERAN
+State: Jatim 
+
+Record #7
+Age: 36
+City: KOTA TEGAL
+District: TEGAL TIMUR
+FullName: INDRA FAIZAH
+Gender: P
+Location: SLEROK
+Region: SLEROK
+State: Jateng 
+
+Record #8
+Age: 22
+City: NGAWI
+District: WIDODAREN
+FullName: INDRA FAIZULLAH NURALI
+Gender: L
+Location: KAUMAN
+Region: KAUMAN
+State: Jatim 
+
+Record #9
+Age: 25
+City: PACITAN
+District: PACITAN
+FullName: FAIZ INDRA PRATAMA
+Gender: L
+Location: MENTORO
+Region: MENTORO
+State: Jatim 
+
+Record #10
+Age: 51
+City: PESISIR SELATAN
+District: BATANG KAPAS
+FullName: INDRA FAIZAL
+Gender: L
+Location: KOTO NAN DUO IV KOTO HILIE
+Region: KOTO NAN DUO IV KOTO HILIE
+State: Sumbar 
+
+Record #11
+Age: 47
+City: KARIMUN
+District: BURU
+FullName: INDRA FAIZAL
+Gender: L
+Location: BURU
+Region: BURU
+State: Kepri 
+
+Record #12
+Age: 22
+City: KENDAL
+District: PAGERUYUNG
+FullName: FAIZ INDRA MUSYAFA'
+Gender: L
+Location: KEBONGEMBONG
+Region: KEBONGEMBONG
+State: Jateng 
+
+Record #13
+Age: 17
+City: KOTA SALATIGA
+District: TINGKIR
+FullName: FAIZ INDRA WIJAYA
+Gender: L
+Location: SIDOREJO KIDUL
+Region: SIDOREJO KIDUL
+State: Jateng 
+
+Record #14
+Age: 34
+City: KOTA TANGERANG SELATAN
+District: PONDOK AREN
+FullName: INDRA FAIZ ALBAR
+Gender: L
+Location: JURANG MANGU BARAT
+Region: JURANG MANGU BARAT
+State: Banten 
+
+Record #15
+Age: 46
+City: KOTA JAKARTA BARAT
+District: PAL MERAH
+FullName: INDRA FAIZAL
+Gender: L
+Location: KOTA BAMBU SELATAN
+Region: KOTA BAMBU SELATAN
+State: Dki 
+
+Record #16
+Age: 35
+City: KOTA TANGERANG SELATAN
+District: PONDOK AREN
+FullName: INDRA FAIZAL
+Gender: L
+Location: PONDOK KACANG TIMUR
+Region: PONDOK KACANG TIMUR
+State: Banten 
+
+Record #17
+Age: 23
+City: BANDUNG
+District: PAMEUNGPEUK
+FullName: INDRA FAIZAL GUNAWAN
+Gender: L
+Location: RANCATUNGKU
+Region: RANCATUNGKU
+State: Jabar 
+
+Record #18
+Age: 17
+City: KARAWANG
+District: RENGASDENGKLOK
+FullName: INDRA FAIZ RABANI
+Gender: L
+Location: RENGASDENGKLOK UTARA
+Region: RENGASDENGKLOK UTARA
+State: Jabar 
+
+Record #19
+Age: 21
+City: KUDUS
+District: JEKULO
+FullName: INDRA FAIZATUN NISA
+Gender: P
+Location: TANJUNGREJO
+Region: TANJUNGREJO
+State: Jateng 
+
+Record #20
+Age: 25
+City: SEMARANG
+District: AMBARAWA
+FullName: FAIZ INDRA MURTANTO
+Gender: L
+Location: BARAN
+Region: BARAN
+State: Jateng 
+
+Record #21
+Age: 45
+City: LAHAT
+District: KIKIM TIMUR
+FullName: INDRA FAIZAL
+Gender: L
+Location: LINGGAR JAYA
+Region: LINGGAR JAYA
+State: Sumsel 
+
+Record #22
+Age: 19
+City: BLITAR
+District: SELOREJO
+FullName: FAIZ INDRA SAPUTRA
+Gender: L
+Location: SUMBERAGUNG
+Region: SUMBERAGUNG
+State: Jatim 
+
+Record #23
+Age: 39
+City: KOTA BANDUNG
+District: SUKASARI
+FullName: INDRA FAIZAL
+Gender: L
+Location: SARIJADI
+Region: SARIJADI
+State: Jabar 
+
+Record #24
+Age: 30
+City: PURWOREJO
+District: PITURUH
+FullName: INDRA FAIZYAL
+Gender: L
+Location: GIRIGONDO
+Region: GIRIGONDO
+State: Jateng 
+
+Record #25
+Age: 17
+City: NGANJUK
+District: LOCERET
+FullName: FAIZ INDRA NUGRAHA
+Gender: L
+Location: SUKOREJO
+Region: SUKOREJO
+State: Jatim 
+
+Record #26
+Age: 43
+City: KOTA TANGERANG
+District: CIBODAS
+FullName: INDRA FAIZAL
+Gender: L
+Location: CIBODAS BARU
+Region: CIBODAS BARU
+State: Banten 
+
+==================================================
+
+PeopleDataLabs (3 results):
+Record #1
+Address: indonesia
+FullName: indra faizin
+
+Record #2
+Address: central java, indonesia
+Email: bajasamudera@gmail.com
+FullName: indra faizal
+
+Record #3
+Address: indonesia
+FullName: faiz indra
+
+==================================================
+
+Pizap (1 results):
+Record #1
+Email: faiz.indra@ymail.com
+FacebookID: 100002014310259
+FullName: Faiz Indra
+NickName: 100002014310259
+Points: 26
+
+==================================================
+
+Selatan.jakarta.go.id (2 results):
+Record #1
+Address: JL.KIAPANG NO.12
+BDay: 28|07|1977
+City: JAKARTA
+District: KOTA BAMBU SELATAN 
+FullName: INDRA FAIZAL
+Gender: L
+Passport: 3173072807770004
+Region: Jakarta Barat
+
+Record #2
+Address: GG.ANWAR II NO.14
+BDay: 08|01|1973
+City: JAKARTA
+District: KAMPUNG MELAYU 
+FullName: INDRA FAIZAL
+Gender: L
+Passport: 3175030801730006
+Region: Jakarta Timur
+
+==================================================
+
+TigoDating.com (1 results):
+Record #1
+Avatar: https://res.tigodating.com/img/2022-07-10/398a399ac7d3af6eaa7e1c96a25454fe.jpg
+Country: ID
+CountryCode: ID
+Date: 2022-07-10T23:18:23
+Device: Xiaomi_Redmi 7A
+FullName: Faiz Indra Nugraha
+Gender: 1
+IP: 182.1.114.96
+LastActive: 2022-07-10T23:21:53
+NickName: Indra Nugraha
+RegDate: 2022-07-10T23:16:20
+RegIP: 182.1.114.96
+Type: facebook
+
+==================================================
+
+Tokopedia (24 results):
+Record #1
+BDay: 1998-09-06
+Email: indrafaiz25@gmail.com
+FullName: Faiz Indra
+Gender: 1
+Lang: en
+LastActive: 2017-12-18 11:36:06.059469
+Password(Hash): 5521474391573725e924167c8bb688199b1f096ac15a6e02c837ef2f48ed8f5fbdd239bf5403c09f8aea72f2751d6ae2
+Phone: 6283850349057
+RegDate: 2017-09-13 02:55:26.171392
+Salt: f394
+
+Record #2
+Email: indrafaizza@gmail.com
+FullName: Indra Faizza
+Gender: 0
+RegDate: 2019-10-03 21:59:30
+
+Record #3
+Email: indramfaizal@gmail.com
+FullName: indra faizal
+Gender: 0
+RegDate: 2020-01-19 22:51:58
+
+Record #4
+Email: 6285347899865
+FullName: Indra Faizal
+Gender: 0
+LastActive: 2019-07-12 19:19:36.02084
+Phone: 6285347899865
+RegDate: 2019-07-09 11:22:05
+
+Record #5
+Email: 6289612772062
+FullName: Faiz Indra
+Gender: 0
+LastActive: 2019-03-03 06:34:34.677859
+Phone: 6289612772062
+RegDate: 2019-03-03 06:34:12
+
+Record #6
+BDay: 1996-12-31
+Email: indrafaizmaulana@yahoo.co.id
+FullName: Indra Faiz Maulana
+Gender: 0
+RegDate: 2019-07-13 00:01:45
+
+Record #7
+Email: Indrafaiz345@gmail.com
+FullName: Indra Faiz
+Gender: 0
+Password(Hash): 6859c99aad184e6fc92ead6d0e723e4a7cf5c5240e865c28012682e37c5be8788f89c0a11d6d5cba40468869cd5687b5
+Phone: 6285773984174
+RegDate: 2018-06-05 00:19:32
+Salt: 39c0
+
+Record #8
+BDay: 1990-11-22
+Email: faizindrawanyusuf@gmail.com
+FullName: Faiz Indrawan Yusuf
+Gender: 1
+Password(Hash): dd095b66edb3365ec9a937937482dfee0f0e7daa5fdeb79daac688a739c802e71c33c45dd0053944b86696aaa350a6df
+RegDate: 2019-06-08 15:50:28
+Salt: 14e3
+
+Record #9
+BDay: 1992-11-05
+Email: lemurian270811@gmail.com
+FullName: Indra Faizal
+Gender: 1
+LastActive: 2019-10-02 13:16:14.444433
+Password(Hash): 06fec5ecb8ba05117c840c6a563651afda21be58f858f95dbd956d52f32354507c59638f3abbb9afe0f6a551b4ea8ac3
+Phone: 6285724124931
+RegDate: 2016-02-28 15:13:28.575457
+Salt: 57fb
+
+Record #10
+Email: 6287854360143
+FullName: Faiz Indra
+Gender: 0
+LastActive: 2019-11-10 04:02:03.782111
+Phone: 6287854360143
+RegDate: 2019-11-10 04:02:03
+
+Record #11
+Email: 6287809816387
+FullName: Indra Faizal
+Gender: 0
+Password(Hash): a2f64a5f8fc3f5ab990d8eede2967d3d5d5bb1537372a6574dd8a9e4afb23595c2614d2817bf9a894d91d815d1b2d47e
+Phone: 6287809816387
+RegDate: 2018-11-23 13:54:09
+Salt: 0aed
+
+Record #12
+Email: faizalindra733@gmail.com
+FullName: indra faizal
+Gender: 0
+RegDate: 2019-01-05 13:11:11
+
+Record #13
+Email: faizindrap@gmail.com
+FullName: Faiz Indra Pratama
+Gender: 0
+LastActive: 2019-04-23 13:33:19.020993
+Phone: 628993183734
+RegDate: 2019-04-23 13:31:11
+
+Record #14
+Email: ziafd290@gmail.com
+FullName: Faiz Indra Saputra
+Gender: 0
+RegDate: 2019-03-25 18:36:40
+
+Record #15
+Email: pediatoko45@gmail.com
+FullName: Indra Faiz
+Gender: 0
+Password(Hash): cdcb56017749b24c8e5c247281a9ffee7f5560a68a71ed7abb6ce9350818e07a3b8016aeb3a6114d1b6c9f38ba487970
+Phone: 6285878561787
+RegDate: 2017-12-10 17:22:10.745649
+Salt: 7c84
+
+Record #16
+Email: faizindrakharisma@gmail.com
+FullName: Faiz Indrakharisma
+Gender: 0
+RegDate: 2019-02-14 09:07:55
+
+Record #17
+Email: indrafaiz64@gmail.com
+FullName: Indra Faiz
+Gender: 0
+RegDate: 2018-02-05 03:21:25.635502
+
+Record #18
+BDay: 1998-09-06
+Email: privacy.faizindrapratama@gmail.com
+FullName: Faiz Indra Pratama
+Gender: 1
+LastActive: 2019-04-08 05:36:41.565148
+Phone: 6282232028812
+RegDate: 2019-04-06 20:16:58
+
+Record #19
+BDay: 1993-04-27
+Email: faiz.indra@ymail.com
+FullName: Faiz Indra
+Gender: 1
+LastActive: 2018-05-15 16:04:18.246964
+Password(Hash): db156e5bda22eeb46f733182d8fcef2d6b3f99271aa8c8cada75a1e2a28bf5cf4b21f5607162e39641f1ab7e28b8ec90
+Phone: 6281335971034
+RegDate: 2018-05-15 16:02:33.902028
+Salt: 631d
+
+Record #20
+Email: faizalindra779@gmail.com
+FullName: Indra faizal
+Gender: 0
+LastActive: 2017-10-24 11:07:20.377005
+Password(Hash): e576953df9404773a519a7b44371e7fed582def2106501128aea97b8f4f42432fc3e4a2e081e4b4908fefdba3d1cd664
+Phone: 6283876610711
+RegDate: 2017-07-20 09:06:00.41932
+Salt: 65b9
+
+Record #21
+Email: faizalindra9@gmail.com
+FullName: Indra faizal
+Gender: 0
+LastActive: 2019-10-03 13:19:59.448962
+Phone: 628989929804
+RegDate: 2019-02-02 17:47:51
+
+Record #22
+Email: faiz090606@gmail.com
+FullName: Faiz Indrawan
+Gender: 0
+RegDate: 2019-03-09 14:05:43
+
+Record #23
+BDay: 1995-03-24
+Email: faizindraw@gmail.com
+FullName: Faiz Indra Wijaya
+Gender: 1
+LastActive: 2018-09-29 16:02:20.286229
+Password(Hash): a6c636cd80b7685343a3628e48f73cffe195709e4dc23aef6cbcf1d1c594990467b1e56353b8ae5447294030a5dd88bf
+Phone: 6281336943722
+RegDate: 2017-05-17 14:47:22.080307
+Salt: a0ce
+
+Record #24
+BDay: 1992-11-05
+Email: kiandra270811@gmail.com
+FullName: Indra Faizal
+Gender: 1
+LastActive: 2016-03-26 04:37:34.751607
+Password(Hash): 79bcafdf98c47d4b9e7dc75110aaaa9bb09677fc3c1dd543d52820af1e8b7ca0d87dbd8409e4d23b385bbac40dfae314
+Phone: 081947179171
+RegDate: 2016-03-26 04:35:10.530556
+Salt: 933a
+
+==================================================
+
+Twitter 200M (1 results):
+Record #1
+Email: faizindra@gmail.com
+Followers: 0
+FullName: faiz indra 
+NickName: faizindra87
+RegDate: 06.03.2013 17:57:20
+
+==================================================
+
+VK 2014-2018 (1 results):
+Record #1
+Avatar: https://pp.vk.me/c314418/v314418506/44e1/ad5kSqzSXKw.jpg
+BDay: 27.4.1999
+City: Surabaya
+Country: Индонезия
+Description: Play Game Point Blank In Clan INCREDIBLE710
+FavBooks: Naruto Shipudent
+FavGames: Point Blank
+FavMovies: GKids and Horor Movie
+FavMusic: Bands
+FavTvShows: MNCTV RCTI
+Followers: 6
+FullName: Indra Faizal
+GraduationYear: 2007
+Hobbies: No Cry No taxi Gkids
+HomePhone: 089636744140
+Lang: Basa Jawa
+LastActive(UNIX): 1387256977
+Login: faizal1927
+School: SMP Negeri 6
+University: STIE Perbanas Surabaya
+VkID: 235080506
+
+==================================================
+
+VK 2024 (1 results):
+Record #1
+Avatar: https://pp.userapi.com/c314418/v314418506/44e2/Qj_LqI6WaxA.jpg 
+FullName: Indra Faizal
+Gender: 1
+VkID: 235080506
+
+==================================================
+
+VK Parsing 2023 (2 results):
+Record #1
+BDay: 11.5.1993
+Followers: 0
+FullName: Indra Faizal 
+Gender: 2
+VkID: 476799361
+
+Record #2
+BDay: 25.9.1995
+Followers: 0
+FullName: Faiz Indra 
+Gender: 2
+VkID: 740644957
+
+==================================================
+
+Wahana Express (1 results):
+Record #1
+Address: Komp. Bukit Padjadjaran no. 103  Ds Cikadut, Kec. Cimenyan  Pasir Impin, Bandung 40194
+Category: buku
+City: Jawa Barat
+Company: AGEN WPL JAKARTA APARTEMENT PAKUBUWONO TERRACE
+CompanyName: SysAdmin
+Date: 2021-03-08T12:46:30.529Z
+District: Cikadut
+FullName: Indra Faizal G. Broto
+LastActive(UNIX): 2021-03-08T05:39:01
+Location: 2B PENERUS 333 BANDUNG
+NickName: Amy
+Phone: 081394934545
+Phone2: 0813947622116
+Price: 100000
+Region: Cimenyan
+ShippingAddress: Jawa Barat, Kab. Bandung, Cimenyan, Cikadut
+Size: 23x21x5
+Status: Selesai
+Type: mta_ttk_aktif
+
+==================================================
+
+YouthManual (2 results):
+Record #1
+BDay: 2011-08-01
+City: Kabupaten Kendal
+Email: faizindra1780@gmail.com
+FullName: Faiz Indra
+Gender: M
+Password(SHA1+Salt): 5bd6dc71e69f610b634c205dfb0ac19b5240cb34
+Phone: 087833397182
+RegDate: 2018-10-21 13:08:14
+Salt: 3f1b0c290d9611d83c6face840124481557ee4b9
+
+Record #2
+BDay: 1998-08-12
+City: Kabupaten Aceh Besar
+Email: agusansyahh@outlook.com
+FullName: faiz indra
+Gender: M
+LastActive: 2017-05-23 02:46:25
+Password(SHA1+Salt): 372c0965534bb21884deead776b32b57750901d0
+Phone: 088270657
+RegDate: 2017-05-23 02:45:33
+Salt: 0bfcd43402c17692043b886f308fc01975a8b6c2
+
+
+===========================================
+/////////////////////////////////////////////////
+
+target baru hendro
+KomInfo Indonesia (6 results):
+Record #1
+Passport: 3204461102680002
+Phone: 6281313263590
+Provider: TELKOMSEL
+RegDate: 2019-10-24
+
+Record #2
+Passport: 3204461102680002
+Phone: 6282119509913
+Provider: TELKOMSEL
+RegDate: 2018-08-01
+
+Record #3
+Passport: 3204461102680002
+Phone: 6282129627590
+Provider: TELKOMSEL
+RegDate: 2019-01-14
+
+Record #4
+Passport: 3204461102680002
+Phone: 6285220900932
+Provider: TELKOMSEL
+RegDate: 2018-04-13
+
+Record #5
+Passport: 3204461102680002
+Phone: 6285314942130 
+Provider: TELKOMSEL
+RegDate: 2017-11-26
+
+Record #6
+Passport: 3204461102680002
+Phone: 6285314942130
+Provider: TELKOMSEL
+RegDate: 2018-02-25
+
+
+
+Alien TxtBase (1 results):
+Record #1
+NickName: indra nurdin
+Password: anelidam1994 
+Url: max.makerstudios.com/signup
+
+==================================================
+
+BSI Bank (1 results):ustad ini
+Record #1
+Email: indranurdin151196@gmail.com
+FullName: INDRA NURDIN
+LoginCount: 0
+Phone: 0895801212068
+RegDate: 2020-03-13 11:10:18.153
+
+==================================================
+
+Bankbsi.co.id (1 results):makasar ini
+Record #1
+FullName: INDRA NURDIN
+NickName: LISA PUJI LESTARI
+Phone: 085398277275
+RegDate: 2022-06-30
+
+==================================================
+
+BukalaPak (3 results):
+Record #1
+Email: mrxaited@gmail.com
+FullName: Indra nurdin
+NickName: indra_nurdin105
+Password(bcrypt): $2a$10$Js9PFrDX9.sE/5c7mGTkPujPuiqW8G84X8cKFDnYu9xEXyDTHCm1G
+Salt: PKoWHOoZoO2a1TTV35Z
+
+Record #2
+Email: indranurdin666@gmail.com
+FullName: indra nurdin
+NickName: indranurdin912
+Password(bcrypt): c733ed2935ed950126d0a99373fb334fce1e495e172fff5ae5da179dcb6834714e69bfdaad02c230a8729c8cf1bdba9fe57232cb3bfd48c067216febc7fc15ff
+Salt: JPaFaI88Mcr8HawpSXf
+
+Record #3
+Email: indra_takiyagenji@yahoo.com
+FullName: indra nurdini
+NickName: indranurdini
+Password(bcrypt): $2a$10$uupGOoiYrAmZb2XwqAqdmOLkxP8nLw7T1QUco5w1IbVgn4s5tyto2
+Salt: eMhrNZtQ6OfPHrMV3EI
+
+==================================================
+
+Cutout.pro (1 results):
+Record #1
+Email: indra11rmr@gmail.com
+IP: 219.92.148.236
+NickName: indra nurdin
+RegDate: 25/1/2021 18:47:49
+Salt: 37d843870a3e9ac90df5
+
+==================================================
+
+Dukcapil (2 results):
+Record #1
+Address: lansano rt null rw null lurah ampalu vii koto sungai sarik padang pariaman sumatera barat
+BDay: 05-05-1996
+District: lurah ampalu
+FullName: indra nurdin
+Gender: male
+Location: vii koto sungai sarik
+Passport: 1305050505960001
+Phone: 6281372765226
+Region: padang pariaman
+
+Record #2
+Address: jl.kerinci viii/57 rt 10 rw 2 gunung kebayoran baru kota adm. jakarta selatan dki jakarta
+BDay: 03-05-1960
+District: gunung
+FullName: indra nurdin
+Gender: male
+Location: kebayoran baru
+Passport: 3174070305600005
+Phone: 62818896778
+Region: kota adm. jakarta selatan
+
+==================================================
+
+Gravatar scrape 2023 (2 results):
+Record #1
+Avatar: https://secure.gravatar.com/avatar/fd76057a7b798f73fc2c713252662407
+Description: Just call me ENDE....
+Email: indrajayanurdin@yahoo.com
+FullName: Nurdin Indrajaya
+NickName: nicedreampictures
+
+Record #2
+Avatar: https://secure.gravatar.com/avatar/2e91bdba69000e488739889024b2011d
+Email: indrajayanurdin@gmail.com
+FullName: Nurdin Indrajaya
+NickName: nicedreamages
+
+==================================================
+
+IndonesiaCarOwner (19 results):
+Record #1
+Address: KP.SUKAASIH RT.002 RW.005 CIKALONG - KEC. CIMAUNG KAB. BANDUNG
+AutoBrand: SUZUKI
+AutoNumber: D4494ZBI
+BPKB: K11150975
+Color: HITAM||HITAM
+EngineNumber: G427ID271070
+FullName: INDRA NURDIN
+NIK: 3204172109950003
+Type: FU 150 SCD2
+VIN: MH8BG41EAEJ261410
+VehicleYear: 2014||150
+
+Record #2
+Address: JL. KERINCI VIII NO.57 RT. 010 RW. 002 KEL. GUNUNG KEC. KEBAYORAN BARU JAKARTA SELATAN
+AutoBrand: TOYOTA
+AutoNumber: B138JTW
+BPKB: L02935653
+Color: SILVER METALIK||HITAM
+EngineNumber: 2AZE170396
+FullName: INDRA NURDIN
+NIK: 3174070305600005
+Type: NEW CAMRY 2.4 V AT
+VIN: MR053BK40A9008321
+VehicleYear: 2010||2362
+
+Record #3
+Address: CIEURIH RT. 01/07 KERSANAGARA CIBEUREUM KOTA TASIKMALAYA
+AutoBrand: HONDA
+AutoNumber: Z3189LO
+BPKB: L01441563
+Color: BIRU||HITAM
+EngineNumber: JFK1E1105414
+FullName: INDRA NURDIN
+NIK: 3278060101780013
+Type: ACB2J22B03 A/T
+VIN: MH1JFK113EK107295
+VehicleYear: 2014||125
+
+Record #4
+Address: PARAKAN KEMBBANG RT5/1 SUKARAJ A BGR
+AutoBrand: HONDA
+AutoNumber: F3007KY
+BPKB: F3314742H
+Color: BIRU||HITAM
+EngineNumber: HB62E1546875
+FullName: INDRA NURDIN
+Type: NF 100 TD
+VIN: MH1HB62188K553186
+VehicleYear: 2008||100
+
+Record #5
+Address: BLOK SINGASARI RT/RW 001/006 DS.SUKAMENAK KEC.BANTARUJEG KAB.MAJALENGKA
+AutoBrand: YAMAHA
+AutoNumber: E6616XF
+BPKB: K07689766
+Color: PUTIH BIRU||HITAM
+EngineNumber: 1FD002791
+FullName: INDRA NURDIN
+NIK: 3210021505930021
+Type: 1FD
+VIN: MH31FD004DJ002784
+VehicleYear: 2013||115
+
+Record #6
+Address: JLN.KERINCI VIII NO.57 RT. 010 RW. 002 KEL. GUNUNG KEC. KEBAYORAN BARU JAKARTA SELATAN
+AutoBrand: PIAGGIO
+AutoNumber: B4757SBQ
+BPKB: N02271534
+Color: KUNING||HITAM
+EngineNumber: M66BM5002695
+FullName: INDRA NURDIN
+NIK: 3174070305600005
+Type: VESPA LX IGET 125 3V IE A/T
+VIN: RP8M66700HV000945
+VehicleYear: 2017||125
+
+Record #7
+Address: JL.CISANGKAN HILIR NO.105/91 RT.002/019
+AutoBrand: SUZUKI
+AutoNumber: D6058SR
+BPKB: C0594853H
+Color: BIRU||HITAM
+EngineNumber: E109ID687598
+FullName: INDRA NURDIN
+Type: FD 110 (SHOGUN)
+VIN: MH8FD110X1J689677
+VehicleYear: 2001||110
+
+Record #8
+Address: JL.DATUK LAKSAMANA GG.MUSHOLLA AL HIDAYAH NO.5 RT.004 RW.003 KEL.SUKA MAJU KEC.SAIL P.BARU
+AutoBrand: HONDA
+AutoNumber: BM3905AG
+BPKB: A3291365D
+Color: HITAM||HITAM
+EngineNumber: NFE-1185324
+FullName: INDRA NURDIN
+NIK: 1471031206660001
+Type: ASTREA C100
+VIN: MH1NF000SSK184844
+VehicleYear: 1995||100
+
+Record #9
+Address: DUSUN SIMPANG ROWO RT/RW 020/006 KEL DADAPAN KEC SUMBEREJO KAB TANGGAMUS
+AutoBrand: YAMAHA
+AutoNumber: BE2601VG
+BPKB: K12168868F
+Color: BIRU||HITAM
+EngineNumber: 4D7076978
+FullName: INDRA NURDIN
+NIK: 1806131010940001
+Type: 4D7 VEGA R 110 cc
+VIN: MH34D70016J076925
+VehicleYear: 2006||110
+
+Record #10
+Address: JL DAHLIA RT8/4 JAKTIM
+AutoBrand: HONDA
+AutoNumber: B3368OT
+BPKB: C1926752G
+Color: HITAM||(TAK DIISI)
+EngineNumber: KEV8E1191517
+FullName: INDRA NURDIN TANJUNG
+Type: NF100
+VIN: MHIKEV81X2K190542
+VehicleYear: 2002||100
+
+Record #11
+Address: KP.CIKADU RT.13/03 DS.CIKADU KEC.CISAYONG KAB.TASIKMALAYA
+AutoBrand: HONDA
+AutoNumber: Z6126HW
+Color: PUTIH||HITAM
+EngineNumber: JF12E16930
+FullName: INDRA NURDIN. S. SOS. I
+Type: NC110 D AT (VARIO)
+VIN: MH1JF12189K692826
+VehicleYear: 2009||110
+
+Record #12
+Address: JL DAHLIA G 21 CJT II RT8/4 JAKTIM
+AutoBrand: HONDA
+AutoNumber: B6184SAV
+BPKB: C9537237G
+Color: HITAM||(TAK DIISI)
+EngineNumber: JB21E1498173
+FullName: INDRA NURDIN TANJUNG
+Type: NF 125 D
+VIN: MHJB21144K503746
+VehicleYear: 2004||125
+
+Record #13
+Address: JLN. CIBIUK RT. 002 RW. 013 DS. PASAWAHAN - KEC. DAYEUHKOLOT KAB. BANDUNG
+AutoBrand: HONDA
+AutoNumber: D2516ZDC
+BPKB: O04979828
+Color: MERAH PUTIH||HITAM
+EngineNumber: JM11E1843848
+FullName: INDRA NURDIN AMIN .
+NIK: 3204121504970001
+Type: D1B02N13L2 AT
+VIN: MH1JM111XJK860817
+VehicleYear: 2018||108
+
+Record #14
+Address: JL. DATUK LAKSAMANA GG. MUSHOLLA AL HIDAYAH NO. 5 RT/RW 004/003 KEL. SUKA MAJU KEC. SAIL KOTA PEKANB
+AutoBrand: KAWASAKI
+AutoNumber: BM6278TC
+BPKB: L06574834D
+Color: HIJAU||HITAM
+EngineNumber: KR150LEPF1902
+FullName: INDRA NURDIN
+NIK: 1471031206660001
+Type: KR150N (NINJA SS) CKD
+VIN: MH4KR150NEKP34907
+VehicleYear: 2014||150
+
+Record #15
+Address: JL.MERAK GG.FERRY NO.5 X KAMPUNG BUGIS SGR
+AutoBrand: SUZUKI
+AutoNumber: DK3777VQ
+BPKB: D1666110O
+Color: HITAM||HITAM
+EngineNumber: F403-ID313295
+FullName: NURDIN INDRA
+NIK: 5108062702600003
+Type: FD 125 XSD
+VIN: MH8FD125X4J-312183
+VehicleYear: 2004||125
+
+Record #16
+Address: DSN I RT03/01 GB III KEC SEP SURABAYA LAMTENG
+AutoBrand: SUZUKI
+AutoNumber: BE5567HU
+BPKB: 3768649F
+Color: BIRU HITAM||HITAM
+EngineNumber: F405ID503363
+FullName: INDRA NURDIN
+Type: EN 125 A
+VIN: MH8EN125A8J503615
+VehicleYear: 2008||125
+
+Record #17
+Address: KEL. LALOSABILA KEC. WAWOTOBIKAB. KONAWE
+AutoBrand: SUZUKI
+AutoNumber: DT5264DA
+BPKB: I10754785
+Color: MERAH HITAM||HITAM
+EngineNumber: G420-ID-870285
+FullName: INDRA NURDIN
+NIK: 742031507900002
+Type: FU 150 SCD
+VIN: MH8BG41CACJ-810055
+VehicleYear: 2012||150
+
+Record #18
+Address: JL. KOPO GG. PARASDI II NO.37 RT.04 RW.08 KEL SITUSAEUR KEC BOJONGLOA KIDUL KOTA BANDUNG
+AutoBrand: HONDA
+AutoNumber: D2072IG
+BPKB: O03299976
+Color: MERAH ABU ABU||HITAM
+EngineNumber: KC31E1088118
+FullName: NURDIN INDRA SONJAYA
+NIK: 3273172810850004
+Type: GL15A1RR M/T
+VIN: MH1KC3117BK088538
+VehicleYear: 2011||150
+
+Record #19
+Address: JL.SAWAHAN DALAM IV/23 RT.3/5 KE PD TIMUR KOTA PADANG
+AutoBrand: HONDA
+AutoNumber: BA2648AV
+BPKB: 9745867C
+Color: HITAM SILVER||HITAM
+EngineNumber: JB81E1154710
+FullName: INDRA NURDIN
+Type: NF125 TD
+VIN: MH1JB81148K157786
+VehicleYear: 2008||125
+
+==================================================
+
+LinkedIn Scraped Data (1 results):
+Record #1
+Continent: asia
+Country: indonesia
+FullName: indra nurdin
+NickName: indra-fajar-nurdin-a8b914132
+
+==================================================
+
+MyPertamina (1 results):
+Record #1
+Email: indranurdin100@gmail.com
+FullName: INDRA NURDIN
+Income: 0
+LastActive: 2019-04-10 18:32:57
+Phone: +6289523458329
+Phone2: +6219564023487
+RegDate: 2019-01-22 16:26:33
+
+==================================================
+
+MyQuranEdu.com (1 results):
+Record #1
+Email: indranurdin611@gmail.com
+FullName: Indra Nurdin
+LastActive: 2025-03-03 13:39:45
+RegDate: 2021-04-13 12:45:34
+
+==================================================
+
+PdiPerjuangan.id 2025 (29 results):
+Record #1
+Age: 35
+City: KOTA BEKASI
+District: JATIASIH
+FullName: NURDIN INDRA PRATAMA
+Gender: L
+Location: JATIMEKAR
+Region: JATIMEKAR
+State: Jabar 
+
+Record #2
+Age: 40
+City: BANDUNG
+District: PACET
+FullName: INDRA NURDIN SALIM
+Gender: L
+Location: MEKARSARI
+Region: MEKARSARI
+State: Bandung 
+
+Record #3
+Age: 28
+City: BANDUNG
+District: CIPARAY
+FullName: INDRA NURDIN
+Gender: L
+Location: GUNUNGLEUTIK
+Region: GUNUNGLEUTIK
+State: Bandung 
+
+Record #4
+Age: 20
+City: BANDUNG
+District: BANJARAN
+FullName: INDRA NURDIN
+Gender: L
+Location: SINDANGPANON
+Region: SINDANGPANON
+State: Bandung 
+
+Record #5
+Age: 69
+City: BOGOR
+District: JONGGOL
+FullName: INDRA NURDIN
+Gender: L
+Location: SUKAMAJU
+Region: SUKAMAJU
+State: Jabar 
+
+Record #6
+Age: 27
+City: KOTA DEPOK
+District: TAPOS
+FullName: INDRA NURDIN
+Gender: L
+Location: LEUWINANGGUNG
+Region: LEUWINANGGUNG
+State: Jabar 
+
+Record #7
+Age: 27
+City: GARUT
+District: SINGAJAYA
+FullName: INDRA NURDIN
+Gender: L
+Location: SINGAJAYA
+Region: SINGAJAYA
+State: Jabar 
+
+Record #8
+Age: 32
+City: KONAWE
+District: ABUKI
+FullName: INDRA NURDIN
+Gender: L
+Location: ARUBIA JAYA
+Region: ARUBIA JAYA
+State: Sultra 
+
+Record #9
+Age: 41
+City: GARUT
+District: CIBATU
+FullName: NURDIN INDRA SUTRISNA
+Gender: L
+Location: SINDANGSUKA
+Region: SINDANGSUKA
+State: Jabar 
+
+Record #10
+Age: 28
+City: BANDUNG
+District: CIPARAY
+FullName: INDRA NURDIN
+Gender: L
+Location: GUNUNGLEUTIK
+Region: GUNUNGLEUTIK
+State: Jabar 
+
+Record #11
+Age: 30
+City: ENDE
+District: ENDE UTARA
+FullName: INDRA NURDIN
+Gender: L
+Location: KOTA RATU
+Region: KOTA RATU
+State: Ntt 
+
+Record #12
+Age: 31
+City: TASIKMALAYA
+District: CIAWI
+FullName: INDRA NURDINI
+Gender: L
+Location: MARGASARI
+Region: MARGASARI
+State: Jabar 
+
+Record #13
+Age: 26
+City: ENDE
+District: NANGAPANDA
+FullName: INDRA NURDIN
+Gender: L
+Location: NDETUREA
+Region: NDETUREA
+State: Ntt 
+
+Record #14
+Age: 63
+City: BULELENG
+District: BULELENG
+FullName: NURDIN INDRA
+Gender: L
+Location: KAMPUNG BUGIS
+Region: KAMPUNG BUGIS
+State: Bali 
+
+Record #15
+Age: 24
+City: KUTAI KARTANEGARA
+District: MARANG KAYU
+FullName: INDRA NURDIN
+Gender: L
+Location: SEBUNTAL
+Region: SEBUNTAL
+State: Kaltim 
+
+Record #16
+Age: 35
+City: KOTA JAKARTA UTARA
+District: CILINCING
+FullName: INDRA NURDIN
+Gender: L
+Location: KALIBARU
+Region: KALIBARU
+State: Dki 
+
+Record #17
+Age: 19
+City: GARUT
+District: SUKARESMI
+FullName: INDRA NURDIN
+Gender: L
+Location: SUKALILAH
+Region: SUKALILAH
+State: Jabar 
+
+Record #18
+Age: 34
+City: KOTA BEKASI
+District: RAWALUMBU
+FullName: INDRA NURDIN
+Gender: L
+Location: SEPANJANGJAYA
+Region: SEPANJANGJAYA
+State: Jabar 
+
+Record #19
+Age: 27
+City: PADANG PARIAMAN
+District: VII KOTO SUNGAI SARIK
+FullName: INDRA NURDIN
+Gender: L
+Location: LURAH AMPALU
+Region: LURAH AMPALU
+State: Sumbar 
+
+Record #20
+Age: 32
+City: BANDUNG
+District: CIPARAY
+FullName: INDRA NURDIN SETIAWAN
+Gender: L
+Location: MEKARSARI
+Region: MEKARSARI
+State: Jabar 
+
+Record #21
+Age: 20
+City: KOTA SUKABUMI
+District: GUNUNGPUYUH
+FullName: INDRA NURDIN
+Gender: L
+Location: KARANG TENGAH
+Region: KARANG TENGAH
+State: Jabar 
+
+Record #22
+Age: 69
+City: BOGOR
+District: JONGGOL
+FullName: INDRA NURDIN
+Gender: L
+Location: SUKAMAJU
+Region: SUKAMAJU
+State: Bogor 
+
+Record #23
+Age: 20
+City: BANDUNG
+District: BANJARAN
+FullName: INDRA NURDIN
+Gender: L
+Location: SINDANGPANON
+Region: SINDANGPANON
+State: Jabar 
+
+Record #24
+Age: 30
+City: GARUT
+District: CIKAJANG
+FullName: INDRA NURDIN
+Gender: L
+Location: MARGAMULYA
+Region: MARGAMULYA
+State: Jabar 
+
+Record #25
+Age: 44
+City: SUKABUMI
+District: SUKARAJA
+FullName: NURDIN INDRAWAN
+Gender: L
+Location: MARGALUYU
+Region: MARGALUYU
+State: Jabar 
+
+Record #26
+Age: 39
+City: TASIKMALAYA
+District: CISAYONG
+FullName: INDRA NURDIN
+Gender: L
+Location: CISAYONG
+Region: CISAYONG
+State: Jabar 
+
+Record #27
+Age: 50
+City: MALANG
+District: GONDANGLEGI
+FullName: NURDIN INDRAYADI
+Gender: L
+Location: PUTUKREJO
+Region: PUTUKREJO
+State: Jatim 
+
+Record #28
+Age: 46
+City: KOTA TASIKMALAYA
+District: CIBEUREUM
+FullName: INDRA NURDIN
+Gender: L
+Location: KERSANAGARA
+Region: KERSANAGARA
+State: Jabar 
+
+Record #29
+Age: 32
+City: BANDUNG
+District: CIPARAY
+FullName: INDRA NURDIN SETIAWAN
+Gender: L
+Location: MEKARSARI
+Region: MEKARSARI
+State: Bandung 
+
+==================================================
+
+PeopleDataLabs (1 results):
+Record #1
+Address: indonesia
+FullName: indra nurdin
+
+==================================================
+
+Qraved (1 results):
+Record #1
+Email: indrawan.nurdin@yahoo.co.id
+FullName: Nurdin Indrawan
+Password(MD5): 4fbaa3e54b1b596b0277b2c076fc2f23
+RegDate: 2017-04-29 08:02:43
+
+==================================================
+
+RedDoorz (2 results):
+Record #1
+Email: indrafn81@gmail.com
+FullName: Nurdin Indra
+Phone: 6281221476852
+RegDate: 2019-10-22 10:37:10
+
+Record #2
+Email: nourdien_joaquin@yahoo.co.id
+FullName: Indra Nurdin
+Gender: male
+Password(bcrypt): $2a$10$Tbs/FOy3fL1UqCrwJ2pbXO8W9TGIRj277R6EDbUqdDAA53hG.YU1K
+Provider: facebook
+RegDate: 2016-08-13 12:20:23
+
+==================================================
+
+Selatan.jakarta.go.id (1 results):
+Record #1
+Address: "JL. KALIBARU TIMUR IV G NO
+BDay: 20|06|1988
+City: BOGOR
+District: Jakarta Utara 
+FullName: INDRA NURDIN
+Gender: L
+Passport: 3271022006880006
+Region: 23"
+
+==================================================
+
+Tokopedia (13 results):
+Record #1
+Email: indranurdin666@gmail.com
+FullName: indra nurdin
+Gender: 1
+LastActive: 2020-03-16 12:57:05.147129
+Password(Hash): 483f12a05e80d6bb577b52672cb5ae397120a58f82373c239b8ed4e3e5e8e8c77e6f32fbcc2f87edcb1bdcc96b7be5f6
+Phone: 6285366572788
+RegDate: 2016-10-25 22:45:01.611734
+Salt: ed51
+
+Record #2
+BDay: 1976-07-29
+Email: indranurdin611@gmail.com
+FullName: Indra Nurdin
+Gender: 1
+LastActive: 2018-03-23 23:03:39.037896
+Password(Hash): cd601c820bca5a575bac9cac7349876bd025d1520f4892518c411bcc8c3e1dd1b6f11cfa54fecdd5c9503ceef3c8901d
+Phone: 6282311325803
+RegDate: 2018-03-23 22:55:58.061583
+Salt: 34c7
+
+Record #3
+Email: 6283861276867
+FullName: Indra Nurdin
+Gender: 0
+LastActive: 2019-08-28 05:59:37.574433
+Phone: 6283861276867
+RegDate: 2019-08-18 21:30:34
+
+Record #4
+Email: sage_coganz@yahoo.com
+FullName: Indra Nurdin
+Gender: 1
+Password(Hash): 28b025970bcb559ac9855b1f5caf80d45d1171c378364419e2283d05783d11f62b2bcb5e31424c3464ce97d6630f3cca
+RegDate: 2018-05-28 09:22:26.232694
+Salt: b74b
+
+Record #5
+Email: 6281999964903
+FullName: Nurdin Indra
+Gender: 0
+Phone: 6281999964903
+RegDate: 2018-11-14 15:04:19
+
+Record #6
+Email: 6285398277275
+FullName: Indra Nurdin
+Gender: 0
+LastActive: 2020-02-07 13:26:22.604582
+Phone: 6285398277275
+RegDate: 2020-02-07 13:26:22
+
+Record #7
+Email: 6281313963002
+FullName: Indra Nurdin
+Gender: 0
+Phone: 6281313963002
+RegDate: 2018-08-16 13:37:15
+
+Record #8
+Email: indranurdin93@gmail.com
+FullName: Indra Nurdin
+Gender: 1
+LastActive: 2017-05-06 13:43:03.66996
+Password(Hash): aad03eff96893933084c522eb5dddb61cf8c4f29ce6f63bdb0e87cce2f83214707c616df3c6a5ba285c0c8e6f3694b4d
+Phone: 082240100556
+RegDate: 2017-05-06 13:40:27.332731
+Salt: 329e
+
+Record #9
+Email: ndra.nurdin@gmail.com
+FullName: indra nurdin
+Gender: 1
+RegDate: 2018-03-14 18:49:21.712496
+
+Record #10
+BDay: 1989-12-15
+Email: indranurdin07.in@gmail.com
+FullName: Indra nurdin
+Gender: 1
+LastActive: 2020-02-17 08:08:11.904683
+Password(Hash): 680b6b599eb64ed04b170746e9fabce2d151b39cf46f990e3326e46fcee876680d600faeb87e9d7d71ea51c620ec3440
+Phone: 6289652008632
+RegDate: 2015-07-26 10:31:44.680772
+Salt: 1e19
+
+Record #11
+Email: 6285719735202
+FullName: Nurdin IndraJaya kusuma
+Gender: 0
+LastActive: 2019-09-29 09:13:53.896739
+Phone: 6285719735202
+RegDate: 2019-09-29 09:13:53
+
+Record #12
+Email: indrabhoke@gmail.com
+FullName: Indra Nurdin
+Gender: 0
+RegDate: 2020-01-31 18:17:24
+
+Record #13
+BDay: 1986-10-28
+Email: nurdinindra86@gmail.com
+FullName: Nurdin Indra B
+Gender: 1
+LastActive: 2015-05-07 21:29:08.286627
+Password(Hash): 4e886961ea003d26ae38e5146c129f6c79e48009e01bcbb71f0c2a27df8c019f0be8ce95825a9db5abebd89f61c74b41
+Phone: 085694937133
+RegDate: 2015-05-07 21:06:48.594503
+Salt: 318F
+
+==================================================
+
+Tri.co.id (1 results):
+Record #1
+Address: Jl.letnan Arsyad gang Doyok RT/RW 003/024 no 55 Kayuringin jaya Bekasi Selatan, Bekasi, Bekasi Selatan, Kayuringin Jaya, Jawa Barat, 17144
+Amount: 37000
+Date: Aug 3, 2020 12:51:06 PM
+Email: indranurdin07.in@gmail.com
+FullName: Indra Nurdin
+Status: canceled
+
+==================================================
+
+Wahana Express (3 results):
+Record #1
+Address: JL JATISARI RT.1/3 KUTAWARINGIN BANDUNG JABAR 40911
+Category: POMPA SEPEDA
+City: Jawa Barat
+Company: AGEN WPL JAKARTA PANGERAN JAYAKARTA PINANGSIA
+CompanyName: Wawan
+Date: 2021-09-21T17:55:25.066Z
+District: Jatisari
+FullName: INDRA NURDIN
+LastActive(UNIX): 2021-09-21T10:54:01
+Location: 2B.1.2.752 (BANDUNG KAB SOREANG)
+NickName: ROCKBROS CYCLE
+Phone: 085723465079
+Phone2: 085221360020
+Price: 199000
+Region: Kutawaringin
+ShippingAddress: Jawa Barat, Kab. Bandung, Kutawaringin, Jatisari
+Size: 36x8x7
+Status: Selesai
+Type: mta_ttk_aktif
+
+Record #2
+Address: toko nadhira kp jati timur 01/03 ds jatisari Kutawaringin 
+Category: ACC MOTOR
+City: Jawa Barat
+Company: AGEN WPL BANDUNG SETIA BUDI ISOLA
+CompanyName: Wawan
+Date: 2021-09-21T17:55:25.045Z
+District: Jatisari
+FullName: Indra nurdin
+LastActive(UNIX): 2021-09-21T10:54:01
+Location: 2B.1.2.752 (BANDUNG KAB SOREANG)
+NickName: Ledeng Motor Bandung
+Phone: 6285723465079
+Phone2: 087885555071
+Region: Kutawaringin
+ShippingAddress: Jawa Barat, Kab. Bandung, Kutawaringin, Jatisari
+Size: 15x10x5
+Status: Selesai
+Type: mta_ttk_aktif
+
+Record #3
+Address: JALAN JATI SARI KUTAWARINGIN BANDUNG,  TOKO NADHIRA KO JATI TIMUR 01/03 DS JATISARI
+Category: ASESORIS HP
+City: Jawa Barat
+Company: AGEN WPL JAKARTA RAYA BOGOR KM 11 KRAMATJATI
+CompanyName: Wawan
+Date: 2021-06-07T08:46:45.173Z
+District: Kutawaringin
+FullName: INDRA NURDIN
+LastActive(UNIX): 2021-05-17T09:18:01
+Location: 2B.1.2.752 (BANDUNG KAB SOREANG)
+NickName: INDO ELECTRO88 = koh ajim
+Phone: 085723465079
+Phone2: 087721886368
+Price: Sesuai harga Tokopedia
+Region: Kutawaringin
+ShippingAddress: Jawa Barat, Kab. Bandung, Kutawaringin, Kutawaringin
+Size: 15_ x 15 x 15
+Status: Selesai
+Type: mta_ttk_aktif
+
+
+
+JL JATISARI RT.1/3 KUTAWARINGIN BANDUNG JABAR 40911
+ JALAN JATI SARI KUTAWARINGIN BANDUNG,  TOKO NADHIRA KO JATI TIMUR 01/03 DS JATISARI
+
+
+
+ ------------------------------------------------
+ 1Win (1 results):
+Record #1
+Amount: 0 
+Country: TJ
+Currency: TJS
+Email: solihov-s@mail.ru
+FullName: Насим
+IP: 62.89.210.29
+Password(SHA256): fbcacca33fe009867f3a3107b18031f07469190e4449d90a48494e2d4ccf7b0e
+Phone: 992948102000
+RegDate: 2023-02-28 13:44:46
+
+==================================================
+
+Alien TxtBase (18 results):
+Record #1
+Email: solihov2020@bk.ru
+Password: 3778657AB 
+Url: account.mail.ru/login
+
+Record #2
+NickName: solihov2022
+Password: 90119011Ab 
+Url: mylocaldates1s.com/l/25/casualdate2/2-w2/ru/
+
+Record #3
+Email: solihov2020@bk.ru
+Password: 70117011A 
+Url: olx.uz/account/password/
+
+Record #4
+NickName: solihov2020
+Password: 8398657a 
+Url: stackoverflow.com/users/signup
+
+Record #5
+Email: solihov64@inbox.ru
+Password: 70117011Ab 
+Url: accounts.binance.com/en/register-person
+
+Record #6
+Email: solihov2022@bk.ru
+Phone: 0113490
+Url: facebook.com/r.php 
+
+Record #7
+Email: solihov2020@bk.ru
+Password: 8398657A 
+Url: my.air.io/
+
+Record #8
+NickName: solihov2022
+Password: 8398657Ab 
+Url: cabinet.mtxpro.net/signup
+
+Record #9
+NickName: solihov2020
+Password: 8398657A 
+Url: travelpayouts.com/auth/registration
+
+Record #10
+Email: Solihov377@gmail.com
+Password: 8398657A 
+Url: mediacube.id/ru/auth/registration
+
+Record #11
+NickName: solihov2023
+Password: ab762 
+Url: bozorcha.uz/login.html
+
+Record #12
+NickName: solihov2020
+Password: 3778657AB 
+Url: proxy-sale.com/login
+
+Record #13
+Email: solihov2020@bk.ru
+Password: 8398657Ab 
+Url: signup.fiestabliss.net/ru/html/sf/registration/e6.html
+
+Record #14
+NickName: solihov2020
+Password: 8398657A 
+Url: freebitco.in/
+
+Record #15
+NickName: solihov2020
+Password: 8398657A 
+Url: free-downloads.online/194326-4-78bb585e/signup-blitz/
+
+Record #16
+NickName: solihov2020
+Password: 3778657AB 
+Url: jolly.me/ac/c83326a766cc35ad22d2f8deddc624405e1cc0abc
+
+Record #17
+NickName: solihov2023
+Password: 77117711Ab 
+Url: moemnenie.ru/ru/
+
+Record #18
+Email: solihov6@gmail.com
+Password: m20011986 
+Url: didox.uz/registration
+
+==================================================
+
+ApexSMS (1 results):
+Record #1
+Address: 930 east 300 south 14
+City: Bayside
+Country: US
+Email: najibsolih@gmail.com
+FullName: Solihov Najib
+Phone: 9179633294
+PostCode: 11361
+Region: New York
+State: NY
+
+==================================================
+
+BigBasket (1 results):
+Record #1
+Address: 901
+Address2: sector 134
+Credits: 0.00
+Email: solehovsuhrob@gmail.com
+Email2: solehovsuhrob@gmail.com
+FullName: Solihov Suhrob
+IP: 103.83.130.95
+Landmark: jaypee klassic road
+LastLogin: 2020-03-25 10:20:11
+Password(SHA1): sha1$15baf$9b166593783f993aab6d0230726510f14901a27c
+Phone: 9674178908
+Phone2: 9674178908
+PinCode: 6267
+PostCode: 201304
+RegDate: 2020-03-25 10:20:11
+Region: sector 134 Jaypee hospital camp
+
+==================================================
+
+CDEK (1 results):
+Record #1
+FullName: Solihov Kurbonali S.
+Phone: 79518535066
+
+==================================================
+
+Cloudata (3 results):
+Record #1
+Email: solihov2020@bk.ru
+Password: 90119011A
+
+Record #2
+Email: solihov2020@bk.ru
+Password: 8398657a
+
+Record #3
+Email: solihov.12@mail.ru
+Password: 1111111111
+
+==================================================
+
+Collection (2 results):
+Record #1
+CollectionNumbers: 2,4
+Email: solihov2009@mail.ru
+Password: 994858
+
+Record #2
+Email: solihov-s@mail.ru
+Password: shamshod1111
+
+==================================================
+
+Collection #2 (2 results):
+Record #1
+Email: solihov99@ya.ru
+Password: 26051979mA
+
+Record #2
+Email: solihov00@bk.ru
+Password: solihov
+
+==================================================
+
+Facebook (2 results):
+Record #1
+Date: 1/1/0001 12
+FacebookID: 100031996973838
+FullName: Solihov Sjorgatay
+Gender: male
+Phone: 77025461559
+
+Record #2
+Date: 2/17/2018 12
+FacebookID: 100024459136268
+FullName: Solihov Xaytboy
+Gender: male
+Phone: 79033761994
+
+==================================================
+
+Foreign citizens RF (2 results):
+Record #1
+Address: г Санкт-Петербург, ул Верности д 16, кв 35
+BDay: 08.02.1983
+Category: Нет
+Citizenship: Таджикистан
+Company: Анушова Людмила Семеновна, 23.07.1950
+Consultant: Проказова Анна Алексеевна
+Date: 04.07.2019
+Desire: Работа
+DocType: Иностранный паспорт
+FullName: Solihov Tolibjon Fathuddinovich 1983
+Gender: М
+IssuedAt: 15.01.2019
+Passport: 402465340
+RegDate: 12.07.2019
+RouteTravel: -
+
+Record #2
+Address: г Санкт-Петербург, п Усть-Ижора, ул Максима Горького д 13, лит А
+BDay: 10.12.1985
+Category: Нет
+Citizenship: Таджикистан
+Company: Андреева Ольга Владимировна, 12.03.1974
+Consultant: Михайлова Суна Халидовна
+Date: 11.05.2019
+Desire: Работа
+DocType: Национальный заграничный паспорт
+FullName: Solihov Rustam Muborakshoevich 1985
+Gender: М
+IssuedAt: 19.12.2014
+Passport: 400382849
+RouteTravel: -
+
+==================================================
+
+Ga$$Pacc (2 results):
+Record #1
+Email: solihov.1985@mail.ru
+LeakSite: Cfire.mail.ru
+Password: muminobodkulob
+
+Record #2
+Email: solihov99@bk.ru
+LeakSite: Cfire.mail.ru
+Password: 26051979m
+
+==================================================
+
+GetContact (1 results):
+Record #1
+Phone: 79407379306
+Tags: Solihov Saloh
+
+==================================================
+
+GoGames 2020 (1 results):
+Record #1
+Email: solihov.12@mail.ru
+NickName: kopaniya
+Password(MD5+Salt): c5a8249b1442c16dad1482e96144f584
+Salt: b8af93 
+
+==================================================
+
+JoyGames 2022 (1 results):
+Record #1
+Email: solihov.12@mail.ru
+Password: 1111111111
+
+==================================================
+
+MIX Database (1 results):
+Record #1
+Email: solihov-s@mail.ru
+Password: shamshod1111
+
+==================================================
+
+MM.ru (1 results):
+Record #1
+Date(UNIX): 1653725361925
+DeliveryDate(UNIX): 1653771600000
+DeliveryType: DELIVERY_POINT
+Email: solihov-sa@mail.ru
+FirstName: Сайфудин
+LastName: солихов
+OS: ANDROID
+PaymentType: PREPAYMENT
+Phone: 9085703490
+Price: 15350
+Status: COMPLETED
+
+==================================================
+
+Mail.ru (1 results):
+Record #1
+Email: solihov1980@mail.ru
+Password: as1
+
+==================================================
+
+Mail.ru 2022 (3 results):
+Record #1
+Email: solihov.81@mail.ru
+ID: 215735464 
+Phone: 79253298411
+
+Record #2
+Email: solihov90@mail.ru
+ID: 215735489 
+Phone: 992985903092
+
+Record #3
+Email: solihov.orifchon@mail.ru
+ID: 58926669 
+Phone: 79262697726
+
+==================================================
+
+MirTesen (1 results):
+Record #1
+Email(MD5): b4e0b60f8470b0fdaeeeea1defa3907c
+FullName: Solihov Yorqinbek
+Url: https://mirtesen.ru/people/296286636
+
+==================================================
+
+Pay System (2 results):
+Record #1
+Amount: 32000
+CreditCard: 546972******9500
+Date: 2021-08-10 19:12:04.520588
+Email: solihov306@gmail.com
+Phone: 79511281030
+Type: lk
+
+Record #2
+Amount: 30000
+CreditCard: 546972******9500
+Date: 2021-07-11 23:10:38.700371
+Email: solihov306@gmail.com
+Phone: 79511281030
+Type: lk
+
+==================================================
+
+RockYou 2024 (16 results):
+Record #1
+Password: solihov1958
+
+Record #2
+Password: solihov1960
+
+Record #3
+Password: solihov1975
+
+Record #4
+Password: Solihov2012
+
+Record #5
+Password: Solihov1944
+
+Record #6
+Password: solihov1984
+
+Record #7
+Password: Solihov64
+
+Record #8
+Password: Solihov1921
+
+Record #9
+Password: solihov1978
+
+Record #10
+Password: solihov1996
+
+Record #11
+Password: solihov35
+
+Record #12
+Password: Solihov1946
+
+Record #13
+Password: Solihov2004
+
+Record #14
+Password: Solihov9
+
+Record #15
+Password: solihov1957
+
+Record #16
+Password: Solihov1978
+
+==================================================
+
+RtTax.com (1 results):
+Record #1
+Country: UZ
+Date: 2019-12-03 15:45:08
+Email: solihov7228@mail.ru
+FirstName: Abdumannop
+Lang: ru
+LastName: Solikhov
+Phone: +998998277228
+RegDate: 2019-12-02 15:47:12
+
+==================================================
+
+Sirena 2006 (3 results):
+Record #1
+Airline: ДОМОДЕДОВСКИЕ АВИАЛИНИИ
+ArrivalAirport: ДУШАНБЕ
+DepartureAirport: МОСКВА (ДОМОДЕДОВО)
+DocType: НП
+FullName: SOLIHOV SHERALI 20МАЙ71
+Passport: 225952
+
+Record #2
+Airline: Красноярские авиалинии
+ArrivalAirport: ХУДЖАНД
+DepartureAirport: ЕМЕЛЬЯНОВО
+DocType: НП РФ
+FullName: SOLIHOV MUHAMMADSHARIF
+Passport: 824740
+
+Record #3
+Airline: ДОМОДЕДОВСКИЕ АВИАЛИНИИ
+ArrivalAirport: ДУШАНБЕ
+Date: 29.11.2006
+DepartureAirport: МОСКВА (ДОМОДЕДОВО)
+DocType: СПР
+FullName: SOLIHOV SADRIDDIN 13DEC72
+Passport: 0083358
+
+==================================================
+
+Sirena 2023 (4 results):
+Record #1
+Airline: 520
+Company: MOSKOVIA
+Currency: UZS
+Date: 2007-02-23 08:25:31.000
+Description: 35МОЮ 23 ФЕВ 07 ОАО"АК ЛИИ ИМ.ГРОМОТАШКЕНТ УЗ 3Р500011 0025
+Destination: MOW
+EndDate: VALID 12MONTH
+FlightNumber: 35МОЮ
+FullName: SOLIHOV/KURBON MR
+Passport: PSPCS0828642
+PlaceDeparture: TMJ
+
+Record #2
+Airline: 195
+Company: GTK RUSSIA
+Currency: RUB
+Date: 2007-01-20 09:49:55.000
+Description: 01СПТ ТКП "ЦАВС" САНКТ ПЕТЕРБУРГ РФ 00200351 0340
+Destination: SKD
+FlightNumber: 01СПТ
+FullName: SOLIHOV/ABDUVAKIL MR 22YRS
+Passport: NPCM1213288
+PlaceDeparture: LED
+
+Record #3
+Airline: 502
+Company: TAJIK AIR
+Currency: RUB
+Date: 2007-02-03 11:42:12.000
+Description: 02ДШБ ТКП АТА - ДУШАНБЕ МОСКВА РФ 92321025 0107
+Destination: DYU
+FlightNumber: 02ДШБ
+FullName: SOLIHOV/SALIMJON MR 04MAY83
+Passport: PS667951
+PlaceDeparture: MOW
+
+Record #4
+Airline: 413
+Company: SOMON AIR
+Currency: RUB
+Date: 2023-09-08 15:03:18.000
+Description: 63DSB 08 SEP 23 ООО "АВС РУС" ST PETERSBURG RU 41303924  3924
+Destination: DYU
+FlightNumber: 63ДШБ
+FullName: SOLIHOV/SUBHON MR
+Passport: NP403055121
+PlaceDeparture: MOW
+
+==================================================
+
+VK 1.2023 (3 results):
+Record #1
+Avatar: https://sun4.userapi.com/sun4-11/s/v1/if1/tguKRWfKoyvTj09Egjn-yynGNKufMh0CjKAgKVB3sDaW4qbMrL8aik5lnSnYOrxIiOHtWUul.jpg?size=400x400&quality=96&crop=1,1,1021,1021&ava=1
+BDay: 23.12.1988
+FullName: Solihov Nazar
+Gender: M
+VkID: 529163955
+
+Record #2
+FullName: Solihov Mullohakim
+VkID: 620316278
+
+Record #3
+Avatar: https://sun4-12.userapi.com/s/v1/ig2/LTjYzrds0Tll90D704m0dPLZ0QLUkEA-sWviq2G6GAyycIk2W_uYd45pB8DtWOXT8YmRluJ2cvhYybP07MSooHzV.jpg?size=400x400&quality=96&crop=0,0,656,656&ava=1
+BDay: 5.1.2002
+Education: ,Школа № 1,,,
+FullName: Solihov Salexov
+Gender: M
+NickName: solihov_ooo7
+VkID: 666338679
+
+==================================================
+
+VK 2013 (1 results):
+Record #1
+BDay: 1987-01-06
+City: Москва
+Country: Россия
+FullName: Solihov Yusuf
+Gender: Мужской
+Relationship: Скрыто
+VkID: 542125498
+
+==================================================
+
+VK 2014-2018 (2 results):
+Record #1
+About: спакоени добри
+City: Екатеринбург
+Class: а
+Country: Россия
+FavBooks: трэлер
+FavMovies: ахота на зюбра
+FavMusic: рок
+FavTvShows: аефон
+Followers: 0
+FullName: Solihov Sadr
+GraduationYear: 1994
+Hobbies: природа
+Interests: дизанер
+LastActive(UNIX): 1321997431
+School: № 1
+Text: гонка
+VkID: 116420549
+
+Record #2
+City: Душанбе
+Country: Таджикистан
+Followers: 0
+FullName: Solihov Qobil
+LastActive(UNIX): 1392203088
+Photo: https://pp.vk.me/c617429/v617429563/1ead/kMfiqy7XrcY.jpg
+VkID: 242184563
+
+==================================================
+
+VK 2024 (6 results):
+Record #1
+Avatar: https://pp.userapi.com/c637418/v637418712/31afe/IE4h-WOVT6w.jpg 
+FullName: Solihov Saidakram
+Gender: 1
+VkID: 338250712
+
+Record #2
+Avatar: https://pp.userapi.com/c637223/v637223331/3a820/-a8RosUEPqE.jpg 
+FullName: Solihov Muhammadali
+Gender: 1
+VkID: 371543331
+
+Record #3
+FullName: Solihov Yigit
+Gender: 1
+VkID: 304099170
+
+Record #4
+FullName: Solihov Shuhrat
+Gender: 1
+VkID: 210344630
+
+Record #5
+FullName: Solihov Shohinjon
+Gender: 1
+VkID: 426980242
+
+Record #6
+Avatar: https://pp.userapi.com/c631631/v631631640/343be/grsmKscY4tk.jpg 
+FullName: Solihov Mirza
+Gender: 1
+VkID: 370573640
+
+==================================================
+
+VK Parsing 2023 (17 results):
+Record #1
+Followers: 0
+FullName: Solihov Maksim 
+Gender: 2
+VkID: 440847568
+
+Record #2
+Followers: 0
+FullName: Solihov Navruz 
+Gender: 2
+VkID: 399382464
+
+Record #3
+City: Dushanbe
+Country: Tajikistan
+Followers: 0
+FullName: Solihov Suhrob 
+Gender: 2
+School: Школа № 92
+VkID: 299757281
+
+Record #4
+BDay: 3.6.1979
+Followers: 1
+FullName: Solihov Shirinbeg 
+Gender: 0
+VkID: 294053195
+
+Record #5
+Followers: 1
+FullName: Solihov Sharif 
+Gender: 2
+Status: Если любишь - люби без обмана. Если веришь - то верь до конца. Ненавидишь-скажи это прямо. А если смеёшься - то смейся в глаза.
+VkID: 300924127
+
+Record #6
+BDay: 30.8.2007
+Followers: 0
+FullName: Solihov Rasul 
+Gender: 2
+VkID: 672294363
+
+Record #7
+City: Kulob
+FullName: Solihov Lutfullo 
+Gender: 2
+VkID: 482556776
+
+Record #8
+BDay: 17.7.1999
+Followers: 2
+FullName: Solihov Mehrob 
+Gender: 2
+VkID: 761349256
+
+Record #9
+BDay: 11.11.1993
+Followers: 1
+FullName: Solihov Salohiddin 
+Gender: 2
+Status: Всем salam alekum
+VkID: 421654899
+
+Record #10
+BDay: 4.4.2000
+City: Dushanbe
+Country: Tajikistan
+Followers: 2
+FullName: Solihov Saifiddin 
+Gender: 2
+VkID: 676846976
+
+Record #11
+BDay: 27.10.2004
+City: Fayzabad
+Country: Tajikistan
+Followers: 0
+FullName: Solihov Muhammad 
+Gender: 2
+School: Школа № 1
+Status: i AM  FAIN
+VkID: 518470364
+
+Record #12
+BDay: 1.2.2000
+Followers: 3
+FullName: Solihov Umed-Jon 
+Gender: 2
+VkID: 525476177
+
+Record #13
+BDay: 24.1.2002
+City: Moscow
+Country: Russia
+Followers: 9
+FullName: Solihov Masrur 
+Gender: 2
+VkID: 528043047
+
+Record #14
+Followers: 3
+FullName: Solihov Sattor 
+Gender: 2
+Status: 901818241
+VkID: 444738429
+
+Record #15
+BDay: 8.7.1983
+City: Tashkent
+Country: Uzbekistan
+Faculty: Факультет фармации
+Followers: 11
+FullName: Solihov Nosir 
+Gender: 2
+University: ТашФармИ
+VkID: 562323857
+
+Record #16
+Followers: 0
+FullName: Solihov Odil 
+Gender: 2
+VkID: 447378250
+
+Record #17
+BDay: 31.7.1990
+Country: Russia
+Followers: 0
+FullName: Solihov Said 
+Gender: 2
+VkID: 657156611
+
+
+
+
+
+
+kp. sodong rt 4 rw 5 buninagara kutawaringin bandung jawa barat
+
+
+
+orang yg dari kampung yg sama:Dukcapil (1 results):
+Record #1
+Address: kp. sodong rt 4 rw 5 buninagara kutawaringin bandung jawa barat
+BDay: 11-02-1968
+District: buninagara
+FullName: umar sumarna
+Gender: male
+Location: kutawaringin
+Passport: 3204461102680003
+Phone: 6285886990580
+Region: bandung
+
+
+
+INDRA NURDIN
+
+Perguruan Tinggi
+
+Universitas Islam Negeri Sunan Gunung Djati
+
+Jenis Kelamin
+
+Laki-laki
+
+Tanggal Masuk
+
+5 September 2022
+
+NIM
+
+1226000078
+
+Jenjang - Program Studi
+
+Sarjana - Psikologi
+
+Status Awal Mahasiswa
+
+Peserta didik baru
+
+Status Terakhir Mahasiswa
+
+Aktif-2025/2026 Ganjil
+
+
+
+
+
+
+
+-----------------------------------
+Tokopedia (1 results):
+Record #1
+BDay: 1996-05-23
+Email: sugamaginting@gmail.com
+FullName: Sugama Ginting
+Gender: 1
+LastActive: 2020-03-02 20:34:32.745155
+Password(Hash): 65face6503c33decfcf055d3c00be8284bee4202d7d5597aa676c6abb578928bb481cae24abbd53e6323da7bf4f0522a
+Phone: 6282110018568
+RegDate: 2019-01-05 22:50:54
+Salt: 299daa34642ac40f1230414fe9346f6cd0db392c78cef2b0c4134840b7b83867
+
+
+KomInfo Indonesia (1 results):
+Record #1
+Passport: 1271172305960001
+Phone: 6282110018568
+Provider: TELKOMSEL
+RegDate: 2018-04-15
+
+==================================================
+
+MyPertamina (1 results):
+Record #1
+Email: sugamaginting@gmail.com
+FullName: SUGAMA
+Income: 0
+Phone: 6282110018568
+Phone2: +6219566877361
+RegDate: 2018-02-13 23:59:27
+
+==================================================
+
+Tokopedia (1 results):
+Record #1
+BDay: 1996-05-23
+Email: sugamaginting@gmail.com
+FullName: Sugama Ginting
+Gender: 1
+LastActive: 2020-03-02 20:34:32.745155
+Password(Hash): 65face6503c33decfcf055d3c00be8284bee4202d7d5597aa676c6abb578928bb481cae24abbd53e6323da7bf4f0522a
+Phone: 6282110018568
+RegDate: 2019-01-05 22:50:54
+Salt: 299daa34642ac40f1230414fe9346f6cd0db392c78cef2b0c4134840b7b83867
+
+
+
+Subjek:6281313263590
+
+NIK: 3204461102680002
+Nama: Indra Nurdin
+Location: 2B.1.2.752 (BANDUNG KAB SOREANG)
+JL JATISARI RT.1/3 KUTAWARINGIN BANDUNG JABAR 40911
+
+indikasi kuat penipuan 
+
+
+
+
+
+
+KomInfo Indonesia (3 results):
+Record #1
+Passport: 3202320305960002
+Phone: 6285723465079
+Provider: INDOSAT
+RegDate: 2018-02-17
+
+Record #2
+Passport: 3204132802970005
+Phone: 6285723465079
+Provider: INDOSAT
+RegDate: 2019-05-05
+
+Record #3
+Passport: 3603141703660001
+Phone: 6285723465079
+Provider: INDOSAT
+RegDate: 2018-05-01
+
+==================================================
+
+Tokopedia (1 results):
+Record #1
+BDay: 2003-08-21
+Email: 6285723465079
+FullName: Indra Nurdin
+Gender: 1
+LastActive: 2019-06-23 13:06:22.721365
+Phone: 6285723465079
+RegDate: 2019-06-23 13:06:22
+
+==================================================
+
+Wahana Express (4 results):
+Record #1
+Address: JALAN JATI SARI KUTAWARINGIN BANDUNG,  TOKO NADHIRA KO JATI TIMUR 01/03 DS JATISARI
+Category: ASESORIS HP
+City: Jawa Barat
+Company: AGEN WPL JAKARTA RAYA BOGOR KM 11 KRAMATJATI
+CompanyName: Wawan
+Date: 2021-06-07T08:46:45.173Z
+District: Kutawaringin
+FullName: INDRA NURDIN
+LastActive(UNIX): 2021-05-17T09:18:01
+Location: 2B.1.2.752 (BANDUNG KAB SOREANG)
+NickName: INDO ELECTRO88
+Phone: 6285723465079
+Phone2: 087721886368
+Price: Sesuai harga Tokopedia
+Region: Kutawaringin
+ShippingAddress: Jawa Barat, Kab. Bandung, Kutawaringin, Kutawaringin
+Size: 15_ x 15 x 15
+Status: Selesai
+Type: mta_ttk_aktif
+
+Record #2
+Address: toko nadhira kp jati timur 01/03 ds jatisari Kutawaringin 
+Category: ACC MOTOR
+City: Jawa Barat
+Company: AGEN WPL BANDUNG SETIA BUDI ISOLA
+CompanyName: Wawan
+Date: 2021-09-21T17:55:25.045Z
+District: Jatisari
+FullName: Indra nurdin
+LastActive(UNIX): 2021-09-21T10:54:01
+Location: 2B.1.2.752 (BANDUNG KAB SOREANG)
+NickName: Ledeng Motor Bandung
+Phone: 6285723465079
+Phone2: 087885555071
+Region: Kutawaringin
+ShippingAddress: Jawa Barat, Kab. Bandung, Kutawaringin, Jatisari
+Size: 15x10x5
+Status: Selesai
+Type: mta_ttk_aktif
+
+Record #3
+Address: PONDOK RIZKI, JL. LINGKAR SELATAN KEC. SETU, KOTA TANGERANG SELATAN BANTEN. (PONDOK TAHFIZ WADIL AL-QURAN) SETU KOTA TANGERANG SELATAN 15314 BANTEN
+Category: MUK
+City: Banten
+Company: AGEN WPL JAKARTA PLUIT SAKTI RAYA
+CompanyName: DRP
+Date: 2021-07-17T14:43:12.940Z
+District: Muncul
+FullName: SURYA SYAF PUTRA
+LastActive(UNIX): 2021-07-17T07:42:01
+Location: 1D.1.4.KHA (TANG-SEL SETU)
+NickName: maxx kitchen
+Phone: 6285723465079
+Phone2: 081315232323
+Price: 190000
+Region: Setu
+ShippingAddress: Banten, Kota Tangerang Selatan, Setu, Muncul
+Size: 17x10x12
+Status: Selesai
+Type: mta_ttk_aktif
+
+Record #4
+Address: JL JATISARI RT.1/3 KUTAWARINGIN BANDUNG JABAR 40911
+Category: POMPA SEPEDA
+City: Jawa Barat
+Company: AGEN WPL JAKARTA PANGERAN JAYAKARTA PINANGSIA
+CompanyName: Wawan
+Date: 2021-09-21T17:55:25.066Z
+District: Jatisari
+FullName: INDRA NURDIN
+LastActive(UNIX): 2021-09-21T10:54:01
+Location: 2B.1.2.752 (BANDUNG KAB SOREANG)
+NickName: ROCKBROS CYCLE
+Phone: 6285723465079
+Phone2: 085221360020
+Price: 199000
+Region: Kutawaringin
+ShippingAddress: Jawa Barat, Kab. Bandung, Kutawaringin, Jatisari
+Size: 36x8x7
+Status: Selesai
+Type: mta_ttk_aktif
+
+
+
+BDay: 2000-09-22
+Email: timothyronaldbusiness@gmail.com
+FullName: Timothy Ronald
+Gender: 1
+Lang: id
+LastActive: 2019-05-10 19:26:43.647634
+Password(Hash): c86f7d2b734fded9734f194df71b4da56df2e03b36a2a22527fcbbc16077e91dc6ca3a9f71659d53f2cc760d2a2f0deb
+Phone: 6281282468766
+RegDate: 2017-11-11 22:05:36.197572
+Salt: 3d26
+
+
+
+
+
+------------------------------------------
+LAPORAN INTELIJEN 
+Subjek: IDOAN GUSTI RANDA TAMPUBOLON
+
+I. DATA PRIBADI
+
+Nama: IDOAN GUSTI RANDA TAMPUBOLON
+
+Tempat/Tanggal Lahir: Tidak tercatat, namun teridentifikasi melalui data operasional: 10 Juni 1995
+
+Jenis Kelamin: Laki-laki
+
+NIM: 1615310632
+
+Perguruan Tinggi: Universitas Pembangunan Panca Budi
+
+Program Studi: Sarjana Manajemen (Fakultas Sosial dan Sains)
+
+Status Akademik:
+
+Tanggal Masuk: 29 Agustus 2016
+
+Status Awal: Peserta Didik Baru
+
+Status Terakhir: Dikeluarkan/Dropout pada tahun 2024 (Semester Ganjil 2023/2024)
+
+Dosen Pembimbing: Efrizal Adil, SE, MM
+
+II. INFORMASI KONTAK DAN KELUARGA
+
+Alamat (2019): Bagan Batu, Riau
+
+Keluarga:
+
+Ayah: Jonggi Tampubolon
+
+Adik: Ien Lim Dianata Tampubolon (meninggal)
+
+Nomor Telepon:
+
+Menggunakan nomor adik (+62 812-6958-1787) yang telah meninggal, menunjukkan kemungkinan penggunaan identitas lain.
+
+III. AKTIVITAS DAN GAYA HIDUP
+
+Penampilan:
+
+Memakai baju bergambar Che Guevara (pemimpin revolusioner Marxis asal Argentina).
+
+Merokok merek Sampoerna.
+
+Aktivitas Perjalanan:
+
+Pernah mengunjungi:
+
+The Legend Hot Pot, Jl. Adam Malik
+
+Kantor Pusat PUPR, Jakarta
+
+Raja Ampat, Papua (lokasi "Piyename")
+
+Status Pendidikan:
+
+Dinyatakan tidak lagi bersekolah (dropout dari Universitas Panca Budi).
+
+IV. DATA OPERASIONAL DAN KEUANGAN
+
+Rekening/Kartu:
+
+No. Operasional: 1682
+
+No. Kartu: 3021810829659133
+
+Atas Nama: IDOAN GUSTI RANDA
+
+Tanggal Lahir Terdaftar: 1995-06-10
+
+Posisi: Pengawai Administras (diduga Administrasi)
+
+V. DOKUMENTASI DAN JEJAK DIGITAL
+
+Foto di Rumah Sakit:
+
+Terdapat satu foto yang terkonfirmasi valid dari RS Advent melalui jejak digital.
+
+VI. ANALISIS AWAL
+
+Subjek menunjukkan ketertarikan pada ideologi revolusioner melalui simbol yang dipakai.
+
+Penggunaan nomor telepon orang yang telah meninggal menimbulkan kecurigaan adanya upaya penyamaran atau penggunaan identitas ganda.
+
+Perjalanan ke lokasi strategis (Kantor PUPR, Raja Ampat) memerlukan pemantauan lebih lanjut.
+
+Status dropout dan aktivitasnya perlu ditelusuri untuk potensi risiko atau pelanggaran.
+
+
+
+--------------------------------
+Dukcapil (1 results):
+Record #1
+Address: jln.sisingamangaraja no.115 rt 0 rw null pagagan julu i sumbul dairi sumatera utara
+BDay: 18-06-1994
+District: tualang
+FullName: gracye bernadetha sirait
+Gender: female
+Location: perbaungan
+Passport: 1218025806940003
+Phone: 6282285638121
+Region: serdang bedagai
+
+==================================================
+
+PdiPerjuangan.id 2025 (1 results):
+Record #1
+Age: 29
+City: DAIRI
+District: SUMBUL
+FullName: GRACYE BERNADETHA SIRAIT
+Gender: P
+Location: PEGAGAN JULU I
+Region: PEGAGAN JULU I
+State: Sumut 
