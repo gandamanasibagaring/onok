@@ -72953,6 +72953,121 @@ Salt: 756231bd44f64e45cc2ad5d60622cd391b494be1cb599cee7f889ef7b7de2227
 
 
 
+Alien TxtBase (3 results):
+Record #1
+Email: rasyaleonard2@gmail.com
+Password: Sibagariang83 
+Url: m.facebook.com
+
+Record #2
+Email: rasyaleonard2@gmail.com
+Password: Sibagariang83 
+Url: m.facebook.com/
+
+Record #3
+Email: rasyaleonard8@gmail.com
+Password: Sibagariang88 
+Url: m.facebook.com/
+
+==================================================
+
+BukalaPak (1 results):
+Record #1
+Email: sibagariang_herlina@yahoo.com
+FullName: Herlina Sibagariang
+NickName: herlinasibagariang
+Password(bcrypt): $2a$10$7rCjvEbeuOC0js2S01zvEuE1WsLETnVOKApUVBQPxJQWqhxaDCF1q
+Salt: o83lTtET1lEO7tnwlNNZ
+
+==================================================
+
+Canva (1 results):
+Record #1
+Email: sibagariangleonardo@gmail.com
+Lang: en
+NickName: sibagariangleonardo
+Password: $2a$10$nazv/m5LhQbYORudKKDTjuFdc9GXy5AeH0RDP91s2wOQW/.bki89i
+RegDate: 2018-01-30 07:43:08
+
+==================================================
+
+JobStreet (2 results):
+Record #1
+Email: sibagariangleopoldparulian@yahoo.com
+FullName: Sibagariang Parulian
+Gender: 0
+LastActive: 2010-10-24 08:53:57
+NickName: sibagariangleopoldparulian@yahoo.com
+Password(Hash): L3ldrdn6trLo4P/gxXOZr/Cog+B8tlbR
+RegDate: 2010-10-24 08:53:57
+
+Record #2
+Email: sibagariangleopoldparulian@yahoo.com
+FirstName: Parulian
+Gender: 0
+LastActive: 2010-10-24 08:53:57
+LastName: Sibagariang
+NickName: sibagariangleopoldparulian@yahoo.com
+Password(Hash): L3ldrdn6trLo4P/gxXOZr/Cog+B8tlbR
+RegDate: 2010-10-24 08:53:57
+
+==================================================
+
+Qraved (1 results):
+Record #1
+Email: francisnapoleon923@gmail.com
+FullName: Sibagariang Juni Agatha
+Password(MD5): b8862392d12e08e49085a43abc326258
+RegDate: 2017-10-23 12:50:53
+
+==================================================
+
+RedDoorz (2 results):
+Record #1
+Avatar: https://lh5.googleusercontent.com/-a2nBrgRN8-M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllMgRmSNOKo6HQbdE7qrup2h5-yQ/s96-c/photo.jpg
+Email: sibagariang86@gmail.com
+FullName: Sibagariang Leonard
+Password(bcrypt): $2a$10$zjoYboa1mdJH/TIVRcHYsu50uDkq9LuCkoJROFzpiK29loxMkfphO
+Phone: 6282163623054
+Provider: Google
+RegDate: 2020-08-21 13:17:08
+
+Record #2
+Avatar: https://lh5.googleusercontent.com/-a2nBrgRN8-M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucllMgRmSNOKo6HQbdE7qrup2h5-yQ/s96-c/photo.jpg
+Email: sibagariang86@gmail.com
+FirstName: Leonard
+LastName: Sibagariang
+Password(bcrypt): $2a$10$zjoYboa1mdJH/TIVRcHYsu50uDkq9LuCkoJROFzpiK29loxMkfphO
+Phone: 6282163623054
+Provider: Google
+RegDate: 2020-08-21 13:17:08
+
+==================================================
+
+Tokopedia (2 results):
+Record #1
+Email: sibagariang86@gmail.com
+FullName: Leonard Hamonangan
+Gender: 0
+Password(Hash): 6722a5836ce1a48c8a44218d3b0e744215d536d9e935adf047d046ebb7f9c2805020c9cdc52b567773bd697657811824
+RegDate: 2019-11-14 11:30:28
+Salt: 287cd56f553898fbb5558fb564abc7424014ac6b41b8d544c362a69ade412d61
+
+Record #2
+Email: sibagariangleonardo@gmail.com
+FullName: leonardo rossel sibagariang
+Gender: 0
+RegDate: 2019-04-14 19:32:51
+
+==================================================
+
+VK 2012 (1 results):
+Record #1
+Email: leo_caem@yahoo.com
+FullName: Sibagariang Leonard
+Password: leonard
+Phone: 0
+VkID: 66551552
 
 Tokopedia (2 results):
 Record #1
@@ -73156,3 +73271,119 @@ Phone: 6282166447722
 RegDate: 2014-07-18 15:35:05.302101
 Salt: ba3d135d5af7fc4b337022844b7de0fd7f67078f3e07b974b5f4e24ffe359f60
 School: College
+
+
+
+BukalaPak (1 results):
+Record #1
+Email: sibagariangsiti12@gmail.com
+FullName: Dknyshopp
+NickName: sitisbgrg
+Password(bcrypt): 4fc9814fb02fb94ed0870892b67dcbcb47035941de47cd35e26430a608dfca09a3d319836ef823ccf88649179eeb70bc818c777fbc5d8660fbfb02ad4e4c2d5d
+Salt: Xb0VIdk5ks3J50yY8lJi
+
+==================================================
+
+Dubsmash (1 results):
+Record #1
+Email: sibagariangsiti12@gmail.com
+Lang: en
+Password(pbkdf2): pbkdf2_sha256$15000$0FSA5l8skOrd$Jy0c9SbodXRskR0jw4/heiUc46YK5V4+dZFVQ5Yyn9w=
+
+==================================================
+
+LinkedIn Scraped Data (2 results):
+Record #1
+FullName: siti sibagariang
+Gender: female
+JobTitle: volunteer
+NickName: siti-hardiyanti-sibagariang-6...
+Title: volunteer
+
+Record #2
+Continent: asia
+Country: indonesia
+FullName: siti sibagariang
+Gender: female
+JobTitle: volunteer
+Locality: sumatera utara
+Location: north sumatra
+NickName: siti-hardiyanti-sibagariang-6a7325188
+Region: north sumatra, indonesia
+Title: volunteer
+
+==================================================
+
+PdiPerjuangan.id 2025 (1 results):
+Record #1
+Age: 59
+City: ACEH BESAR
+District: DARUL IMARAH
+FullName: SITI SIBAGARIANG
+Gender: P
+Location: PUNIE
+Region: PUNIE
+State: Aceh 
+
+==================================================
+
+Telegram Chats (1 results):
+Record #1
+ChannelID: 1080809969
+FullName: sibagariang siti
+TelegramChannel: telkomselttp
+TelegramID: 1277473896
+Title: Telkomsel Trainee Program
+
+==================================================
+
+Tokopedia (2 results):
+Record #1
+BDay: 1997-06-17
+Email: sibagariangsiti12@gmail.co.id
+FullName: siti sibagariang
+Gender: 2
+Password(Hash): e7f5f21b727c126f86f8c347af30c6934c410b1cc4f7d85a1e97141dbd12bf4b43d19150007abcd6cccb549b9b6da649
+Phone: 082388469629
+RegDate: 2016-11-04 09:14:23.837583
+Salt: ff5f
+
+Record #2
+BDay: 1997-06-17
+Email: sibagariangsiti12@gmail.com
+FullName: Siti Sibagariang
+Gender: 2
+LastActive: 2016-11-04 09:16:13.05932
+Password(Hash): 5a35edce56c261203efd1dc44932ef174ed417e73932e340e947c17bb4a172cd09b7bad8b49f10de2f078cbc673a0c9b
+Phone: 082388469629
+RegDate: 2016-01-30 00:30:29.744024
+Salt: 0C46
+
+
+
+
+
+-------------------------------
+Otak manusia TIDAK didesain murni jahat
+
+Secara evolusi, manusia bertahan hidup karena:
+
+kerja sama
+
+empati
+
+kelekatan sosial
+
+➡️ Artinya, sirkuit “baik” selalu ada secara biologis.
+
+Area otak yang mendasari “kebaikan”:
+
+Prefrontal cortex (PFC) → kontrol diri & moral
+
+Anterior cingulate cortex (ACC) → rasa bersalah & empati
+
+Insula → merasakan penderitaan orang lain
+
+Sistem oksitosin → kelekatan & kepercayaan
+
+Ini default hardware manusia.
