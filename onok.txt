@@ -72445,7 +72445,7 @@ District: batang beruh
 FullName: basar sibagariang
 Gender: male
 Location: sidikalang
-Passport: 1211012811710004
+Passport: 1211012811710004 lorbidi
 Phone: 1211012811710004
 Region: dairi
 
@@ -73387,3 +73387,32 @@ Insula → merasakan penderitaan orang lain
 Sistem oksitosin → kelekatan & kepercayaan
 
 Ini default hardware manusia.
+
+
+
+
+
+Jenis	Fungsi utama
+Metformin	Kurangi gula dari hati
+Sulfonilurea	Paksa pankreas kerja
+DPP-4	Perpanjang insulin
+SGLT-2	Buang gula lewat urin
+GLP-1	Insulin + kenyang
+TZD	Sensitifkan insulin
+Insulin	Ganti hormon insulin
+
+
+
+Tanggal/Waktu	Situasi	Pikiran Otomatis	Emosi	Intensitas	Perilaku	Pikiran Alternatif
+
+
+PO:aku berfikir tentang kesalahan amabgborou dan bou yg menghancurkan hiudpku
+Perilaku:gelisah
+PA
+
+-------------------------------
+2026 
+1januari
+
+habiskerja.com
+jujur passowrny
