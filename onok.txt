@@ -69351,8 +69351,7 @@ tautan nur : https://ins.ms/r?i=OZKTWH&lt=url
 -------------------------------
 19desember 2025
 Token Voucher breach forum
-3Z1X35B
-
+J6256BX
 
 --------------------------000webhost (1 results):
 Record #1
@@ -73410,9 +73409,482 @@ PO:aku berfikir tentang kesalahan amabgborou dan bou yg menghancurkan hiudpku
 Perilaku:gelisah
 PA
 
--------------------------------
-2026 
-1januari
+
 
 habiskerja.com
 jujur passowrny
+email nya emuskik@gmail.com
+
+codingstudio
+email gandamanasibagaring pass jujur
+
+-----------------------------------
+
+b 1241 hzh
+
+
+# Panduan Operasional & Fitur Aplikasi Jemaat
+
+Dokumen ini berfungsi sebagai panduan pengguna untuk menjalankan operasional sehari-hari menggunakan **Aplikasi Jemaat**.
+
+## 1. Dashboard & Navigasi Awal
+Saat pertama kali login, Anda akan disambut oleh halaman Dashboard.
+*   **Fungsi Utama:** Memantau statistik terkini (Total Keluarga, Dana Bakti, dll).
+*   **Quick Actions:** Gunakan tombol cepat di bagian atas untuk akses instan ke:
+    *   `+ Keluarga Baru`: Mendaftarkan jemaat baru.
+    *   `Daftar Anggota`: Mencari data jemaat.
+    *   `Pending Submissions`: Memverifikasi data masuk.
+
+---
+
+## 2. Manajemen Data Keluarga & Anggota
+
+### A. Menambah Keluarga Baru
+1.  Klik tombol **+ Keluarga Baru** di Dashboard atau menu samping.
+2.  Isi formulir data keluarga:
+    *   **Nomor Register**: (Auto-generated atau manual).
+    *   **Kepala Keluarga**: Pilih peran (Ayah/Ibu).
+    *   **Alamat & Lingkungan**: Wajib diisi untuk pengelompokan.
+3.  Klik **Simpan/Submit**.
+    *   *Catatan:* Jika Anda login sebagai user biasa/publik, data akan masuk ke **Pending Submissions** (Staging) dan belum tampil di database utama sampai disetujui.
+
+### B. Menambah Anggota Keluarga
+1.  Buka detail keluarga yang sudah dibuat.
+2.  Klik **Tambah Anggota**.
+3.  Isi detail personal: Nama, Tgl Lahir, Hubungan (Anak, Tanggungan, dll), Status Sidi.
+4.  **Upload Dokumen**: Anda dapat mengunggah scan surat baptis/sidi/nikah di bagian ini.
+
+### C. Verifikasi Data (Khusus Admin/Majelis)
+Data yang diinput oleh jemaat atau user non-admin perlu diverifikasi.
+1.  Masuk ke menu **Pending Submissions** (tanda lonceng di dashboard biasanya menyala jika ada data baru).
+2.  Review data yang masuk (Perubahan atau Data Baru).
+    *   **Approve**: Data masuk ke database utama (`families` / `family_members`).
+    *   **Reject**: Data ditolak dan tidak disimpan.
+
+### D. Mengedit & Mencari Data
+1.  Buka menu **Daftar Anggota**.
+2.  Gunakan kolom pencarian untuk nama, alamat, atau nomor register.
+    *   *Tips Filter:* Ketik `umur:17-25` untuk mencari pemuda, atau pilih filter Lingkungan.
+3.  Klik tombol **Mata (👁️)** untuk melihat detail, atau **Pensil (✏️)** untuk mengedit data.
+
+---
+
+## 3. Manajemen Keuangan (Dana Bakti & Jurnal)
+
+### A. Input Dana Bakti Tahunan
+Pembayaran Dana Bakti dicatat per keluarga per tahun.
+1.  Buka halaman **Edit Keluarga** (tombol Pensil) atau Detail Keluarga.
+2.  Cari bagian **Kontribusi / Dana Bakti**.
+3.  Masukkan nominal untuk tahun yang sesuai (default: Rp 0 berarti belum bayar).
+4.  Data akan tersimpan otomatis atau klik Simpan.
+    *   Di daftar anggota, status akan berubah menjadi lencana **Hijau (Lunas)** atau **Merah (Belum)**.
+
+### B. Laporan & Jurnal Keuangan
+1.  Buka menu **Laporan Keuangan Lenkap**.
+2.  **Filter Laporan**: Pilih Tahun dan Bulan, serta Jenis Jurnal (Pemasukan/Pengeluaran).
+3.  **Export**:
+    *   Klik **PDF** untuk cetak laporan resmi yang rapi.
+    *   Klik **Excel** untuk analisa data lebih lanjut.
+
+---
+
+## 4. Manajemen Acara & Absensi
+
+### A. Membuat Jadwal Ibadah/Acara
+1.  Masuk ke menu **Events / Acara**.
+2.  Klik **Tambah Acara**.
+3.  Isi Nama Acara, Tanggal, dan Lokasi.
+
+### B. Mencatat Kehadiran
+1.  Pilih acara yang sedang berlangsung dari daftar.
+2.  Gunakan fitur **Check-in** atau scan (jika tersedia) untuk menandai kehadiran jemaat.
+3.  Laporan kehadiran akan terupdate real-time.
+
+---
+
+## 5. Keamanan & Backup Data
+Sangat disarankan untuk melakukan backup rutin.
+
+### A. Melakukan Backup Manual
+1.  Buka menu **Backup Database** (Admin only).
+2.  Klik tombol **Backup Manual**.
+3.  Sistem akan membuat file `.sql` yang berisi seluruh data jemaat, keuangan, dan log.
+4.  Simpan file tersebut di tempat aman (komputer lokal atau cloud storage gereja).
+
+### B. Restore Data
+*   Jika terjadi kesalahan fatal, gunakan file `.sql` terakhir untuk memulihkan kondisi sistem melalui menu Restore (Hubungi Superadmin untuk tindakan ini).
+
+
+
+--------------------------------------
+7januari
+
+gloria salon tiktok:
+nomor: 0895321882844
+
+
+nethercap evil twin pass: deauther
+
+
+
+
+
+Dukcapil (1 results):
+Record #1
+Address: jl. raya bina marga no. 49 blok. c2 rt 3 rw 6 cipayung cipayung kota adm. jakarta timur dki jakarta
+BDay: 12-01-1995
+District: cipayung
+FullName: ivan marthin mangalinang
+Gender: male
+Location: cipayung
+Passport: 3175091201950007
+Phone: 6281574516160
+Region: kota adm. jakarta timur
+
+==================================================
+
+KomInfo Indonesia (1 results):
+Record #1
+Passport: 3175091201950007
+Phone: 6281574516160
+Provider: INDOSAT
+RegDate: 2018-02-28
+
+==================================================
+
+RedDoorz (1 results):
+Record #1
+Email: ivanmarthin@yahoo.com
+FirstName: Ivan
+LastName: Marthin
+Password(bcrypt): $2a$10$kSSlxAvBLxFgbJmUDnGBM.taIq0YokoTKegE72unFdixlP9X3XSsO
+Phone: 6281574516160
+RegDate: 2019-11-21 14:55:33
+
+==================================================
+
+Tokopedia (1 results):
+Record #1
+BDay: 1995-01-14
+Email: ivanmarthin@yahoo.com
+FullName: Ivan M
+Gender: 1
+LastActive: 2019-11-28 09:07:17.874789
+Password(Hash): 78633a19958a31a6ef52a682bae13cf80b949565b69ec0b5d1df84c0124e8fd86ef00270cb2ad6cf48c29c13a994829a
+Phone: 6281574516160
+RegDate: 2016-02-02 11:05:10.073773
+Salt: 2D23
+
+
+Pak Ivan Cpm (14)
+Pak Ivan (8)
+Ivan Jakarta Fttm (7)
+Ivan (7)
+Cpm Ivan M (6)
+Ivan Martin (6)
+Ivan Marthin Mangalinang (5)
+Cpm Pak Ivan (5)
+Cpm Ivan (5)
+Ivan M (5)
+Cpm Ppd Ivan (4)
+Ivan M Cpm (4)
+Marthin Mht (4)
+Ivan Cpm (4)
+Pak Ivan Met Cpm (3)
+Ivan Martin Mangalinang (3)
+Ui Teknik Ivan (3)
+Brm Ivan M (3)
+Bang Martin (3)
+Ivan Matin (3)
+Cpm_pakivan (3)
+Peserta Diklat B Ivan Marthin Magalinang (2)
+Pak Ivan Martin (2)
+Pak Ivan Pabrik (2)
+Bang Ivan Cpm (2)
+Bang Ivan Mg (2)
+Cpm Pak Ifan (2)
+Ivan Met Cpm (2)
+Pak Ivan Met (2)
+C. Cpm Ivan (2)
+Ivan M Ppd (2)
+Mht Marthin (2)
+Ifan Cpm (2)
+Ivan Mht (2)
+Ka Ivan (2)
+Marthin (2)
+Irvan Pt. Citra Palu Minerals
+Pt. Cpm Pak Ivan Metalorgi
+Cpm Met Lab Ivan M
+Ivan Marthin Mangalinang Promet--
+Cadeb Ivan Marthin Mangalinang
+Deb Ivan Marthin Mangalinang
+Mht Ivan Marthin Mangalinang
+Cpm Ivan Martin Mangalinang
+Cpm Ivan Marthin Goldroom
+Ivan Martin Metalurgi Cpm
+Ar Ivan Marthin Goldroom
+Pak Ivan Metalurgist Cpm
+Mas Ivan Metalurgis Cpm
+Pak Ivan Processing Cpm
+Ivan Marthin Spk Veloz
+Cpm Ivan Proses Plant
+Ivan Anak Pak Thamrin
+Ivan M Process Plant
+Cpm Pak Ivan Pabrik
+Ivan M Cpm Kultom
+Pt Cpm Pak Ivan
+Cpm Met Ivan M
+Ivan M Cpm Met
+Ivan M Ppd Cpm
+Pak Ivan M Cpm
+Ivan Marthin Sianipar
+Cpm Ivan (metalurgi)
+Nasabah Ivan Marthin
+Ivan Metallurgy Cpm
+Pak Ivan Supervicer
+Cpm Irvan Marthen
+Ian Lord Sianipar
+Ivan Process Plan
+Metcup Mbah Dukun
+Pak Ivan Metalugi
+Ivan M Agincourt
+Ivan Marthin Cpm
+Ivan Marthin Mg'
+Ivan Marthin Mht
+Mht Ivan Marthin
+Bang Martin Mht
+Cpm Ivan Martin
+Cpm Ivan Pabrik
+Ivan Marin. Ppd
+Ivan Martin Mg
+Mg Ivan Martin
+Bang Ivan Mg'
+Cpm Palu Ivan
+Pak Ivan Yoga
+Ptar Pak Ivan
+Cpm Ivan Met
+Cpm Ivan Ppd
+Pak Ifan Cpm
+Pak Ipan Cpm
+Pak Ivan Ppd
+Cpm. Ivan M
+Xpm Ivan M
+Ivan Mangalinang
+Cpm_pakivan Ppd
+Ivan Metalugist
+Ivan Metalurgi
+Ivan Engineer
+Ivan Sianipar
+Cpm_pak Ivan
+Cpm-ivan Ppd
+Ian Sianipar
+Netflix Mei
+Abang Ivan
+Mtlgs Ivan
+Rqxdxw Nov
+Bang Ipan
+Bang Ivan
+Fttm Ivan
+Abg Ipan
+Ifan Spv
+Kak Teti
+Mas Ivan
+Pak Ifan
+Ivan Mg
+Ivan X-
+Ivan-mandiri
+Martin
+
+
+Nomor Rekam Medis (MRN) IVAN MARTHIN MANGALINANG 000000000629726 Umum 
+tahun 2020 Kode Faskes: 01138121
+NIM: 12513036
+
+Institusi: Institut Teknologi Bandung (ITB)
+
+Fakultas/Jurusan: Teknik Metalurgi (FTTM)
+
+Riwayat tambahan:
+
+Pernah mengambil Teknik Kimia ±1 tahun, lalu Drop Out
+Confidence akademik: ±80%
+
+pekerjaan:
+Metalurgis / Engineer Process Plant
+ level supervisor / senior staff
+
+PT CPM
+
+PT Agincourt
+1671 MDP-4-02845
+
+
+Internal Group / Diklat
+
+Peserta Diklat B
+
+Cadeb / Deb
+
+MHT / PPD / MET
+lisensi: ID Kredensial 07120 2L43 4 00038542022
+suka nonton netflix
+
+
+
+ 
+Address: JL. DEWA UJUNG NO. 44-46 RT. 014 RW. 007 KEL. CIRACAS KEC. CIRACAS JAKARTA TIMUR
+AutoBrand: YAMAHA
+AutoNumber: B4961TCE
+BPKB: L02884114
+Color: BIRU||HITAM
+EngineNumber: 2BU106342
+FullName: IVAN MARTHIN MANGALINANG
+NIK: 3175091201950007
+Type: 2BU
+VIN: MH32BU001EJ106330
+VehicleYear: 2014||113
+
+
+AntiPublic (2 results):
+Record #1
+Email: ivanmarthin@yahoo.com
+Password: kristian
+
+Record #2
+Email: ivanmarthin@yahoo.com
+Password: Kristian
+
+==================================================
+
+BukalaPak (1 results):
+Record #1
+Email: ivanmarthin@yahoo.com
+FullName: Ivan M
+NickName: mangals
+Password(bcrypt): $2a$10$sfIwi47pUJW/dUkwdUBZpeuXAai2sofBmzM3levWjN7KF3ohcZSGi
+Salt: CrtYXju9eCA6iFehp76P
+
+==================================================
+
+Canva (1 results):
+Record #1
+Email: ivanmarthin@yahoo.com
+Lang: en
+NickName: ivanmarthin
+Password: $2a$10$vvP00i4wMBk7NyK2OsdiMOg1OURmQkJSE7/XL9rJ7kTqRPZOpbKom
+RegDate: 2016-09-26 08:42:20
+
+==================================================
+
+Cit0Day (1 results):
+Record #1
+Category: Games
+Email: ivanmarthin@yahoo.com
+LeakSite: gamesfree.ca
+Password: kristian
+
+==================================================
+
+Collection (2 results):
+Record #1
+CollectionNumbers: 1,2
+Email: ivanmarthin@yahoo.com
+Password: Kristian
+
+Record #2
+CollectionNumbers: 1,2,4
+Email: ivanmarthin@yahoo.com
+Password: kristian
+
+==================================================
+
+Exploit.In (1 results):
+Record #1
+Email: ivanmarthin@yahoo.com
+Password: kristian
+
+==================================================
+
+RedDoorz (1 results):
+Record #1
+Email: ivanmarthin@yahoo.com
+FirstName: Ivan
+LastName: Marthin
+Password(bcrypt): $2a$10$kSSlxAvBLxFgbJmUDnGBM.taIq0YokoTKegE72unFdixlP9X3XSsO
+Phone: 6281574516160
+RegDate: 2019-11-21 14:55:33
+
+==================================================
+
+TeraBase64 (2 results):
+Record #1
+Email: ivanmarthin@yahoo.com
+Password: Kristian
+
+Record #2
+Email: ivanmarthin@yahoo.com
+Password: kristian
+
+==================================================
+
+Tokopedia (1 results):
+Record #1
+BDay: 1995-01-14
+Email: ivanmarthin@yahoo.com
+FullName: Ivan M
+Gender: 1
+LastActive: 2019-11-28 09:07:17.874789
+Password(Hash): 78633a19958a31a6ef52a682bae13cf80b949565b69ec0b5d1df84c0124e8fd86ef00270cb2ad6cf48c29c13a994829a
+Phone: 6281574516160
+RegDate: 2016-02-02 11:05:10.073773
+Salt: 2D23
+
+
+Dukcapil (1 results):
+Record #1
+Address: jl. raya bina marga no. 49 blok. c2 rt 3 rw 6 cipayung cipayung kota adm. jakarta timur dki jakarta
+BDay: 12-01-1995
+District: cipayung
+FullName: ivan marthin mangalinang
+Gender: male
+Location: cipayung
+Passport: 3175091201950007
+Phone: 6281574516160
+Region: kota adm. jakarta timur
+
+==================================================
+
+KomInfo Indonesia (3 results):
+Record #1
+Passport: 3175091201950007
+Phone: 6281395854270
+Provider: TELKOMSEL
+RegDate: 2017-12-19
+
+Record #2
+Passport: 3175091201950007
+Phone: 6281395854270
+Provider: TELKOMSEL
+RegDate: 2018-02-26
+
+Record #3
+Passport: 3175091201950007
+Phone: 6281574516160
+Provider: INDOSAT
+RegDate: 2018-02-28
+
+==================================================
+
+Selatan.jakarta.go.id (1 results):
+Record #1
+Address: Jl. Raya Bina Marga No. 49
+BDay: 12|01|1995
+City: Jakarta
+District: CIPAYUNG 
+FullName: IVAN MARTHIN MANGALINANG
+Gender: L
+Passport: 3175091201950007
+Region: Jakarta Timur
+
+
+19300811300000169 IVAN MARTHIN MANGALINANG RABU, 12 FEBRUARI 2020
