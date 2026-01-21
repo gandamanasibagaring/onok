@@ -10779,7 +10779,7 @@ Sub InisialisasiUraian(dict As Object)
 End Sub
 
 ---------------
-password bpjs kak loli Gloria123
+password bpjs kak loli Gloria2508
 
 
 
@@ -25412,7 +25412,7 @@ End Sub
 
 
 ------------------------------
-JKN BPJS 0002445680441 password Gloria123
+JKN BPJS 0002445680441 password Gloria2508
 
 
 ---------------------
@@ -78248,4 +78248,63 @@ Password: Sunarmi93$
 
 
 
-d
+
+
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/gkpimeda/.ssh/id_rsa.
+Your public key has been saved in /home/gkpimeda/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:QSETuXAj4OPrqVf+9i46/bHg3Ub1K/SwYRiOyaEpIWw 
+The key's randomart image is:
++---[RSA 2048]----+
+|  ..  +oo.       |
+| .  o ++         |
+| .o  + o.        |
+| .E.. . ... .    |
+| ... . +S= + .   |
+|   .o o + + = .  |
+|  .o o. .. o = . |
+| ...o.+o +. o o  |
+|.oo .=o=*..  .   |
++----[SHA256]-----+
+
+
+
+
+
+Dukcapil (1 results):
+Record #1
+Address: jl.garuda mas blok d5 no.3 rt 2 rw 1 tanjung barat jagakarsa kota adm. jakarta selatan dki jakarta
+BDay: 29-11-1964
+District: tanjung barat
+FullName: muhammad herindra
+Gender: male
+Location: jagakarsa
+Passport: 3175053011640004
+Phone: 62811938001
+Region: kota adm. jakarta selatan
+
+==================================================
+
+PdiPerjuangan.id 2025 (1 results):
+Record #1
+Age: 59
+City: KOTA JAKARTA SELATAN
+District: JAGAKARSA
+FullName: MUHAMMAD HERINDRA
+Gender: L
+Location: TANJUNG BARAT
+Region: TANJUNG BARAT
+State: Dki 
+
+==================================================
+
+Pizap (1 results):
+Record #1
+Email: herindra_wijaya@yahoo.com
+FacebookID: 100003356265352
+FullName: Muhammad Herindra Wijaya
+NickName: 100003356265352
+Points: 26
