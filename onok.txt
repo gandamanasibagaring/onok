@@ -78308,3 +78308,156 @@ FacebookID: 100003356265352
 FullName: Muhammad Herindra Wijaya
 NickName: 100003356265352
 Points: 26
+
+
+ssh ke gkpimedan.com
+ssh -i id_rsa -p 64000 gkpimeda@36.50.77.63 
+
+donloat file 
+scp -i id_rsa -P 64000 gkpimeda@36.50.77.63:~/public_html.zip .
+
+
+// [AKTIF] Gunakan ini saat website live
+// define('APP_ENV', 'production');
+// define('DB_HOST', 'localhost');
+// define('DB_NAME', 'gkpimeda_db');
+// define('DB_USER', 'gkpimeda_superadmin');
+// define('DB_PASS', 'XL2its5qrf2wigr');
+// define('BASE_URL', 'https://gkpimedan.com/');
+
+
+Login MySQL
+mysql -u gkpimeda_superadmin -p
+
+drop database:DROP DATABASE gkpimeda_db;
+CREATE DATABASE gkpimeda_db
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_unicode_ci;
+EXIT;
+
+
+
+---------------------------------
+25 januari 2026
+
+Oke, aku bagi **buku wajib psikologi** yang biasanya dianggap *core* — dipakai di kampus, sering dikutip di jurnal, dan jadi fondasi kalau mau mikir psikologi secara ilmiah. Aku kelompokkan biar rapi 👇
+
+---
+
+## 📘 DASAR & PENGANTAR PSIKOLOGI (WAJIB BANGET)
+
+Ini hampir pasti dipakai di tahun awal S1 Psikologi.
+
+1. **Atkinson & Hilgard – *Introduction to Psychology***
+
+   * Kitab klasik.
+   * Bahas: persepsi, belajar, memori, emosi, kepribadian, psikopatologi.
+   * Banyak dipakai di UI, UGM, ITB (psikologi kognitif).
+
+2. **David G. Myers – *Psychology***
+
+   * Lebih “ramah pembaca”.
+   * Cocok buat pemula tapi tetap ilmiah.
+   * Banyak contoh kasus sehari-hari.
+
+3. **Gerrig & Zimbardo – *Psychology and Life***
+
+   * Hubungkan teori dengan kehidupan nyata.
+   * Zimbardo = peneliti Stanford Prison Experiment.
+
+---
+
+## 🧠 PSIKOLOGI KOGNITIF & OTAK
+
+Kalau kamu suka bahas neuron, kesadaran, memori, ini penting.
+
+4. **Goldstein – *Cognitive Psychology***
+
+   * Wajib untuk kognitif.
+   * Persepsi, atensi, memori, bahasa, problem solving.
+
+5. **Gazzaniga, Ivry, Mangun – *Cognitive Neuroscience***
+
+   * Hubungan otak ↔ pikiran.
+   * Banyak dipakai di neuropsikologi.
+
+6. **Bear, Connors, Paradiso – *Neuroscience: Exploring the Brain***
+
+   * Neuro dasar + klinis.
+   * Cocok kalau sering bahas epilepsi, neurotransmitter, dll.
+
+---
+
+## 🧬 PSIKOLOGI BIOLOGIS & PERILAKU
+
+7. **Carlson & Birkett – *Physiology of Behavior***
+
+   * Jalur saraf, hormon, obat psikiatri.
+   * Sering jadi rujukan farmakologi dasar.
+
+---
+
+## 🧩 KEPRIBADIAN
+
+8. **Feist, Feist, Roberts – *Theories of Personality***
+
+   * Freud, Jung, Adler, Rogers, Big Five.
+   * Perbandingan teori secara kritis.
+
+---
+
+## 🧠 PSIKOPATOLOGI (GANGGUAN JIWA)
+
+Ini wajib kalau bahas “normal vs abnormal”.
+
+9. **DSM-5-TR – *Diagnostic and Statistical Manual of Mental Disorders***
+
+   * Standar diagnosis global.
+   * Bukan buku teori, tapi klasifikasi klinis.
+
+10. **Barlow & Durand – *Abnormal Psychology***
+
+* Teori + kasus gangguan mental.
+* Lebih ilmiah daripada sekadar DSM.
+
+---
+
+## 🧪 METODOLOGI & RISET (INI SERING DIREMEHKAN, PADAHAL PENTING)
+
+11. **Gravetter & Forzano – *Research Methods for the Behavioral Sciences***
+
+* Cara baca jurnal dengan benar.
+* Statistik dasar + desain eksperimen.
+
+12. **Coolican – *Research Methods and Statistics in Psychology***
+
+* Banyak dipakai di kampus Eropa & Asia.
+
+---
+
+## 📚 KLASIK FILSAFAT & KRITIS (OPSIONAL TAPI “BERISI”)
+
+Kalau kamu suka bahas kritik sains & kesadaran:
+
+13. **William James – *The Principles of Psychology***
+
+* Akar psikologi modern.
+
+14. **B.F. Skinner – *Science and Human Behavior***
+
+* Behaviorisme murni.
+
+15. **V.S. Ramachandran – *Phantoms in the Brain***
+
+* Kasus neurologi aneh tapi ilmiah.
+
+---
+
+### 🔍 Mau aku bikinin:
+
+* 📌 **versi “wajib S1 Psikologi Indonesia”**
+* 📌 **versi neuro & otak-heavy**
+* 📌 **versi klinis / psikiatri**
+* 📌 **versi kritis (debunking, placebo, religiusitas, kesadaran)**
+
+Tinggal bilang mau fokus ke mana.
