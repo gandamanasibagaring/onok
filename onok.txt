@@ -78561,7 +78561,7 @@ Kalau kamu mau, aku bisa:
 
 Tinggal bilang mau yang mana.
 
-
+codingstudio coding studio
 
 cara install dvwa di docker:
 docker pull vulnerables/web-dvwa
@@ -78579,3 +78579,49 @@ To access your account, simply copy your password below and login.
 Do not refresh as you will not be able to revisit this link.
 
 9$XMK2y.#s2RSifd6c4)6^iW4WN|c9H5
+
+
+cybersecurity
+nmap → untuk mengecek port terbuka dan layanan apa saja yang jalan di server
+
+whois → untuk melihat informasi pemilik domain atau IP (registrar, negara, dll)
+
+dirsearch → untuk mencari folder atau file tersembunyi di website
+
+subdomain enumeration (sublist3r) → untuk mencari subdomain milik suatu domain
+
+google hacking → memanfaatkan Google untuk menemukan data sensitif yang terbuka tanpa sadar
+
+kalilinux
+cara cek path suatu web:
+dirsearch example.com 
+sublist3r
+
+
+xss dom:
+pada url di cek dulu tes <script>alert(document.cookie)</script>
+berfungsi mengeceka paakah dia bisa injeck xss dan ambil session cookie saya
+
+pada dvwa hasilnya portal_session=sbge8etatjq4vnghbpsl00lj85; PHPSESSID=6btj8p7mna01ssg45r18j84q32; security=low
+
+klo dia ada validasi filter maka jgn pake script tp pake sprt ini di option yg bisa di ubah2:
+</option></select><img src=x onerror=alert(1)>
+
+
+
+xss reflected:
+coba isi input nya apakah dia akan menghasilkan tampilan yg sama dgn kata2 yg di isi tadi
+bisa di masukkan script di input nya cth  <script>alert(document.cookie)</script>
+
+
+klo dia di validasi filter <script> nya maka ubah jadi ada huruf besar huruf kecil
+cth harusnya <script> jadi <ScrIpt>
+
+
+
+xss stored:
+coba aja <script>alert(document.cookie)</script>
+
+klo kena validasi maka pake besar kecil huruf.
+ganti ke input yg lain jgn di message tp di input username.
+nanti hasilnya aka di simpan di db
