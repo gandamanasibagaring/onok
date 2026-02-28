@@ -79327,4 +79327,302 @@ ID	Username	Role	Super Admin	Church	Neighborhood ID	Created	Last Seen
 
 
 
+instagram kirana amelia
 
+ly30254
+Ly cia
+2 posts
+248 followers
+187 following
+
+
+
+
+08116154111
+
+
+
+ngisi kabar pelayanan td gagal. 
+status signle 
+ubah 
+
+
+
+
+fitur bakti bulaannan di 2 apk
+klo kembali ga tersave
+distribus umur blm
+buat fitur print per lingkungan dan per keluarga
+alert pas dihapus kasi nama
+hapus dan view data keluarga blm
+http://localhost/jemaat/edit_family.php?id=3 zona hapus kasi alert yakin?
+
+
+
+teste terakhir:
+teste-14-Februari-v4
+
+sql teste terakhir:
+gereja (5).sql
+
+jemaat terakhir:
+jemaat_manual_backup_2026-02-15_14-11-20.sql ->dari gkpimedan.com 15feb
+
+
+
+
+sql jemaat terakhir:
+jemaat_db (51) itu di backup tanggal 24 februari
+jemaat_manual_backup_2026-02-24_15-11-04 di backup dari gkpimedan.com tanggal 24 feb
+
+
+
+pergantian upload gkpimedan.com jemaat terakhir 23 feb:
+udah backup di download tanggal 22 feb
+public_html_backup_20260222.zip
+
+
+upload file jemaat-22-Februari-v5
+
+
+ekstrak public_html gkpimedan.com:
+zip -r public_html_backup_$(date +%Y%m%d).zip public_html/
+
+donloat:
+scp -P 64000 -i id_rsa gkpimeda@36.50.77.63:~/public_html_backup_$(date +%Y%m%d).zip ./
+
+masuk ke mysql ssh 
+mysql -u gkpimeda_superadmin -p gkpimeda_db
+passw  XL2its5qrf2wigr
+
+
+
+
+
+
+6282123492759 stefen guru
+
+
+
+
+ tombol tambah anaknya dek pindahkan aja di sebelah tombol lannjut ke finalisasi biar gk jauh kali naik ke atas jika ingin menambahkan data anak lagi ya dek
+
+itu ada request dari user admin lingkungan. coba jelaskan apa maksudnya coba aku ga paham tp jangan langsung eksekusi
+
+Saat ini, di bagian "Anggota Keluarga Lainnya" (Step 2), tombol "+ Tambah Anak" terletak di bagian atas (di header seksi Anak-Anak). Jika pengguna sudah memasukkan banyak data anak, mereka harus men-scroll layar kembali ke atas jauh jika ingin menambah data anak baru.
+
+Admin ingin tombol tersebut dipindahkan ke bawah, tepat di samping tombol "Lanjut ke Finalisasi". Dengan begitu, setelah selesai mengisi data anak terakhir, mereka bisa langsung menambah anak lagi tanpa harus scroll. Hal ini akan mempercepat proses input data keluarga besar.
+
+
+add form php: daftar file terkait:
+Berikut adalah daftar program (file) yang terkait langsung maupun tidak langsung dengan halaman 
+add_form.php
+:
+
+1. Halaman Antarmuka Utama (Frontend)
+add_form.php
+: Halaman utama yang menampilkan formulir pendaftaran anggota. File ini berisi struktur HTML, logika JavaScript untuk pindah step, dan pengaturan tampilan (CSS).
+header.php: Bagian atas halaman yang berisi logo, menu navigasi, dan meta tags.
+footer.php: Bagian bawah halaman yang menutup tag HTML dan biasanya berisi script tambahan.
+2. Pemrosesan Data (Backend)
+add_member_public.php
+: Script tujuan saat formulir dikirim (form action). Tugasnya memproses input POST, mengunggah file dokumen, dan menyimpan data ke database.
+merge_family_data.php: Script pendukung (sering dipanggil oleh 
+add_member_public.php
+) untuk menggabungkan data anggota keluarga baru ke dalam database keluarga yang sudah ada berdasarkan Nomor Register.
+3. API & Layanan Real-time (AJAX)
+api/get_next_register_number.php
+: Digunakan untuk mengambil nomor register urutan berikutnya secara otomatis saat halaman dimuat.
+api/check_register_number.php
+: Melakukan pengecekan apakah nomor register yang diketik sudah dipakai atau masih tersedia.
+api/reserve_number.php
+: Digunakan oleh fitur "Auto & Aman" untuk memberikan nomor register unik kepada pengguna.
+api_get_neighborhoods.php: Mengambil daftar Lingkungan dari database berdasarkan Gereja yang dipilih oleh pengguna.
+4. Konfigurasi & Keamanan (System)
+config/config.php
+: File konfigurasi utama untuk koneksi database (PDO) dan pengaturan sesi.
+config/multi_tenant.php
+: Mengelola sistem multi-church agar data antar gereja tidak bercampur.
+config/csrf_helper.php
+: Menyediakan token keamanan (CSRF) agar formulir tidak bisa disubmit oleh pihak luar yang tidak sah.
+config/url_helper.php
+: Membantu dalam pembuatan URL dan proses redirect antar halaman.
+5. File Log & Debug (Opsional)
+debug_files.log: Tempat mencatat data yang masuk (POST & FILES) jika terjadi masalah saat proses simpan data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+fitur edit oleh admin lingkungan gimana? aman ga?
+tes quick link bisa ga
+pemilihan gimana
+buat event gimana?
+
+
+
+
+ram and susana 
+ramelia
+
+concrete angelgareth emely
+
+
+Berikut adalah daftar file yang saya modifikasi dan tambahkan untuk mengimplementasikan fitur Admin Edit Request:
+
+1. 
+edit_family.php
+Modifikasi Access Control: Mengizinkan user dengan role admin untuk masuk ke halaman edit.
+Logika Penyimpanan: Menambahkan fungsi upsertStagingEditFamily khusus untuk admin. Jika admin yang mengedit, data tidak langsung ke tabel utama, melainkan disimpan ke tabel staging_families dengan tanda (type) edit.
+Pesan Sukses: Menyesuaikan notifikasi agar admin tahu bahwa perubahan mereka sedang menunggu verifikasi superadmin.
+2. 
+members.php
+Tampilan Tombol: Membuka blokir tombol Edit sehingga muncul untuk role admin.
+Judul Tombol: Menambahkan tooltip "Request Edit" khusus untuk admin agar fungsinya jelas.
+3. 
+admin_pending_submissions.php
+Identifikasi Pengajuan: Menambahkan visualisasi berupa Badge "Edit Request" berwarna kuning jika pengajuan tersebut adalah hasil edit data lama.
+Pesan Khusus: Menambahkan teks permintaan bantuan ke Superadmin agar daftar pengajuan edit terlihat lebih manusiawi dan mudah dibedakan dari input data jemaat baru.
+4. 
+approve_member.php
+Logika Approval: Ini adalah perbaikan paling krusial. Saya menambahkan pengecekan: jika tipe pengajuan adalah edit, maka perintah SQL bukan lagi INSERT (buat baru), melainkan UPDATE pada family_id yang bersangkutan.
+Refresh Anggota: Sistem akan menghapus data anggota lama di tabel main dan menggantinya dengan data anggota baru yang sudah diverifikasi dari staging.
+Bypass Cek Register: Mengizinkan penggunaan nomor register yang sama jika itu memang milik keluarga yang sedang diedit (menghindari error duplikat).
+5. 
+migrate_edit_requests.php
+ (File Baru/Script Migrasi)
+Script ini saya buat untuk memperbarui struktur database Anda, yaitu menambahkan kolom submission_type dan original_family_id pada tabel staging_families.
+[!TIP] Semua perubahan ini dirancang agar data Anda tetap aman (data integrity) karena setiap perubahan dari level Admin harus melewati "pintu" verifikasi Superadmin terlebih dahulu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Walkthrough: Prevent Duplicate Register Number Submissions
+Problem
+Shared quick links allowed two different admin/users to submit data with the same register number, causing duplicate entries in staging_families.
+
+What Was Built
+1. Database: reserved_registers Table
+Created via 
+database/create_reserved_registers.sql
+. Stores active reservations with a UNIQUE KEY on 
+(register_number, church_id)
+ preventing simultaneous reservations.
+
+Column	Purpose
+register_number	The reserved number
+church_id	Scoped per church (multi-tenant safe)
+reserved_by	NULL = anonymous; user_id = logged-in admin
+is_used	Set to 1 after successful submission
+expiry_at	Auto-expires after 30 minutes
+2. API: 
+api/reserve_number.php
+ (rewritten)
+Cleans up expired reservations first
+Finds the next available number from families + staging_families + reserved_registers
+Uses MySQL NOW() + INTERVAL 30 MINUTE for expiry (fixes PHP/MySQL timezone mismatch)
+Atomically inserts a reservation row; if a race-condition duplicate occurs, tries the next number
+3. API: 
+api/check_register_number.php
+ (updated)
+Now returns color-coded status:
+
+available — free to use 🟢
+reserved — locked by another admin ⏳
+reserved_own — locked by current user ✅
+pending / terpakai — in use 🔴
+4. 
+add_member_public.php
+ (server-side block)
+Blocks submissions where a logged-in user tries to submit a number reserved by a different admin.
+
+5. 
+add_form.php
+ (PHP + JS updates)
+PHP auto-number also excludes numbers with active reservations
+JS checkRegisterRealtime shows color-coded UI feedback for all reservation states
+Verification ✅
+Two consecutive API calls return different numbers:
+
+Call 1 → { register_number: 2356 } (reserved, stored in DB with +30min expiry)
+Call 2 → { register_number: 2357 } (reserved, stored separately in DB)
+Two admins clicking "Auto & Aman" simultaneously will always receive unique register numbers.
+
+
+Comment
+Ctrl+Alt+M
+
+
+
+
+
+
+sblm di kompres:sebelumnya udah ada program kompres nya blm? soalnya hasil filenya ku cek filesizenya sprt ini:  ls -al                                                                                          total 131048                                                                                                            drwxr-xr-x  3 gkpimeda gkpimeda   16384 Feb 27 15:19 .                                                                  drwxr-x--- 23 gkpimeda nobody     16384 Feb 27 23:23 ..                                                                 -rw-r--r--  1 gkpimeda gkpimeda   11383 Oct 20 00:36 68e1698f68d40_1759603087.png                                       -rw-r--r--  1 gkpimeda gkpimeda  519603 Feb 23 08:38 BAPTIS_ANAK_1_Dafin_Caleb_Purba_2265_bb5f80_20260223_013851.pdf    -rw-r--r--  1 gkpimeda gkpimeda 1357677 Feb 24 14:52 BAPTIS_ANAK_1_James_Sihar_Gabriel__1832_919e21_20260224_075209.pdf -rw-r--r--  1 gkpimeda gkpimeda  848556 Feb 13 22:22 BAPTIS_ANAK_1_Janice_Michela_Simat_1878_8e90d8_20260213_152248.jpg -rw-r--r--  1 gkpimeda gkpimeda  610850 Feb 12 14:46 BAPTIS_ANAK_1_Joel_Askal_Brakha_Si_2345_24d823_20260212_074658.jpg -rw-r--r--  1 gkpimeda gkpimeda  396284 Feb 26 15:16 BAPTIS_ANAK_1_Jonathan_Victor_Maru_1736_254347_20260226_081650.jpg -rw-r--r--  1 gkpimeda gkpimeda  574768 Feb 24 11:43 BAPTIS_ANAK_1_Jordan_Bosur_Ritonga_2032_94628a_20260224_044321.jpg -rw-r--r--  1 gkpimeda gkpimeda  701075 Feb 23 17:29 BAPTIS_ANAK_1_JORDAN_BOSUR_RITONGA_2032_f3e775_20260223_102935.jpg -rw-r--r--  1 gkpimeda gkpimeda  694364 Feb 18 18:19 BAPTIS_ANAK_1_Marcello_Oliver_Marb_1930_15ec0d_20260218_111945.jpeg-rw-r--r--  1 gkpimeda gkpimeda  751264 Feb 14 14:34 BAPTIS_ANAK_1_Marisha_Happy_Dyandr_1956_a3c304_20260214_073418.jpg -rw-r--r--  1 gkpimeda gkpimeda  557186 Feb 27 15:19 BAPTIS_ANAK_1_Muswenly_Sanry_Emzan_1849_4dc445_20260227_081900.jpg -rw-r--r--  1 gkpimeda gkpimeda  424606 Feb 24 22:09 BAPTIS_ANAK_1_Mutiara_sari_Situmea_1298_e591cb_20260224_150918.jpg -rw-r--r--  1 gkpimeda gkpimeda  746894 Feb 24 10:01 BAPTIS_ANAK_1_Raffael_Alexander_si_1987_792a6c_20260224_030127.jpg -rw-r--r--  1 gkpimeda gkpimeda  233185 Feb 13 19:06 BAPTIS_ANAK_1_samuel_2349_65937e_20260213_120646.png               -rw-r--r--  1 gkpimeda gkpimeda 1620324 Feb 23 09:07 BAPTIS_ANAK_1_Shireen_Bunga_Paras_2073_724920_20260223_020719.jpeg -rw-r--r--  1 gkpimeda gkpimeda  752699 Feb 23 17:29 BAPTIS_ANAK_2_ABEL_OCTAVIANO_RITON_2032_04b669_20260223_102936.jpg -rw-r--r--  1 gkpimeda gkpimeda  621225 Feb 24 11:43 BAPTIS_ANAK_2_Abel_Octaviano_Riton_2032_a74e9c_20260224_044322.jpg -rw-r--r--  1 gkpimeda gkpimeda  605888 Feb 18 18:19 BAPTIS_ANAK_2_Audrey_Alexandra_Mar_1930_1b908a_20260218_111945.jpeg-rw-r--r--  1 gkpimeda gkpimeda  672419 Feb 23 08:38 BAPTIS_ANAK_2_Devina_Kezia_Purba_2265_bb7d45_20260223_013851.pdf   -rw-r--r--  1 gkpimeda gkpimeda  921898 Feb 13 22:22 BAPTIS_ANAK_2_Faristha_Abigail_Sim_1878_a10461_20260213_152250.jpg -rw-r--r--  1 gkpimeda gkpimeda 1769425 Feb 23 09:07 BAPTIS_ANAK_2_Gohan_Arbyano_Paras_2073_8d2e79_20260223_020720.jpeg -rw-r--r--  1 gkpimeda gkpimeda 1445076 Feb 24 14:52 BAPTIS_ANAK_2_Jennifer_Ibrina_Tamb_1832_91ca83_20260224_075209.pdf -rw-r--r--  1 gkpimeda gkpimeda 1248094 Feb 24 10:01 BAPTIS_ANAK_2_Raquel_Abigetha_siha_1987_8ac190_20260224_030128.jpg -rw-r--r--  1 gkpimeda gkpimeda  540299 Feb 26 15:16 BAPTIS_ANAK_2_Yolanda_Margarenta_H_1736_2dfe1a_20260226_081650.jpg -rw-r--r--  1 gkpimeda gkpimeda 1752578 Feb 23 09:07 BAPTIS_ANAK_3_Aurora_Giselle_Paras_2073_ab132d_20260223_020722.jpeg-rw-r--r--  1 gkpimeda gkpimeda  882508 Feb 24 14:52 BAPTIS_ANAK_3_Juan_Kano_Tanbuban_1832_91df2e_20260224_075209.pdf   -rw-r--r--  1 gkpimeda gkpimeda  701225 Feb 23 14:51 BAPTIS_ANAK_3_Marshell_Syaputra_Lu_1897_bd8026_20260223_075139.jpg -rw-r--r--  1 gkpimeda gkpimeda 1331590 Feb 24 10:01 BAPTIS_ANAK_3_Russel_Abraham_sihal_1987_9dceb2_20260224_030129.jpg -rw-r--r--  1 gkpimeda gkpimeda  848203 Feb 24 10:01 BAPTIS_BAPAK_Candara_gubta_sihalo_1987_2da018_20260224_030122.jpg  -rw-r--r--  1 gkpimeda gkpimeda  492859 Feb 18 18:19 BAPTIS_BAPAK_Coki_Christian_Marbu_1930_fcc07c_20260218_111943.jpeg -rw-r--r--  1 gkpimeda gkpimeda 3179331 Feb 13 22:22 BAPTIS_BAPAK_Freddy_Sarhap_Martua_1878_72056f_20260213_152231.jpg  -rw-r--r--  1 gkpimeda gkpimeda  295959 Feb 26 14:44 BAPTIS_BAPAK_gandahera_2356_45f953_20260226_084436.png             -rw-r--r--  1 gkpimeda gkpimeda    7420 Oct 20 00:36 BAPTIS_BAPAK_geri_tee0435345_a32616_20251019_193626.jfif           -rw-r--r--  1 gkpimeda gkpimeda  577163 Feb 27 15:18 BAPTIS_BAPAK_Jonny_Sitorua_1849_2eb241_20260227_081858.jpg         -rw-r--r--  1 gkpimeda gkpimeda  942711 Feb 14 14:34 BAPTIS_BAPAK_Marudut_Silalahi_1956_77103d_20260214_073415.jpg      -rw-r--r--  1 gkpimeda gkpimeda  950975 Feb 24 14:52 BAPTIS_BAPAK_Michael_Ben_Philip_T_1832_90c14a_20260224_075209.pdf  -rw-r--r--  1 gkpimeda gkpimeda  492395 Feb 24 22:09 BAPTIS_BAPAK_Rades_situmeang_1298_cb6289_20260224_150916.jpg       -rw-r--r--  1 gkpimeda gkpimeda  127049 Feb 12 11:02 BAPTIS_BAPAK_sugan_137_825479_20260212_050200.jfif                 -rw-r--r--  1 gkpimeda gkpimeda  955940 Feb 13 19:06 BAPTIS_BAPAK_tes_2349_6568ef_20260213_120646.png                   -rw-r--r--  1 gkpimeda gkpimeda  199416 Feb 18 11:27 BAPTIS_BAPAK_tesgtre_2353_6b4928_20260218_042750.png               -rw-r--r--  1 gkpimeda gkpimeda  114083 Feb 18 10:40 BAPTIS_BAPAK_yeresa_2352_d1f9e5_20260218_034045.jfif               -rw-r--r--  1 gkpimeda gkpimeda    9090 Oct 30 21:28 BAPTIS_EDIT_Murni_Lestari_0c35d39d_20251030_152820.jfif            -rw-r--r--  1 gkpimeda gkpimeda    9090 Oct 30 21:31 BAPTIS_EDIT_Murni_Lestari_4ce1c0ff_20251030_153139.jfif            -rw-r--r--  1 gkpimeda gkpimeda    7952 Oct 30 21:28 BAPTIS_EDIT_Rina_Lestari_a072f6b8_20251030_152820.jfif             -rw-r--r--  1 gkpimeda gkpimeda    7952 Oct 30 21:31 BAPTIS_EDIT_Rina_Lestari_a6ba3412_20251030_153140.jfif             -rw-r--r--  1 gkpimeda gkpimeda  199416 Feb 26 13:37 BAPTIS_EDIT_terenNAF_d6023eda_20260226_073725.png                  -rw-r--r--  1 gkpimeda gkpimeda 1409919 Feb 24 10:01 BAPTIS_IBU_Anesia_novalia_pangg_1987_531758_20260224_030125.jpg    -rw-r--r--  1 gkpimeda gkpimeda  377060 Feb 26 15:16 BAPTIS_IBU_Elvi_Diana_Saragi_1736_16d4b1_20260226_081649.jpg       -rw-r--r--  1 gkpimeda gkpimeda  720705 Feb 24 14:52 BAPTIS_IBU_Flora_Marantika_Gint_1832_91617d_20260224_075209.pdf    -rw-r--r--  1 gkpimeda gkpimeda  547362 Feb 12 14:22 BAPTIS_IBU_Gere_134_0c9b74_20260212_072208.jpg                     -rw-r--r--  1 gkpimeda gkpimeda   15306 Oct 20 00:36 BAPTIS_IBU_hilda_tee0435345_a63f0f_20251019_193626.jfif            -rw-r--r--  1 gkpimeda gkpimeda  930259 Feb 14 14:34 BAPTIS_IBU_Johanna_Murni_Megawa_1956_8b114e_20260214_073416.jpg    -rw-r--r--  1 gkpimeda gkpimeda 3302204 Feb 13 22:22 BAPTIS_IBU_Juliana_1878_fa2efa_20260213_152239.jpg                 -rw-r--r--  1 gkpimeda gkpimeda 1039820 Feb 27 15:19 BAPTIS_IBU_Nurhayati_br_Sitorus_1849_3d99b1_20260227_081859.jpg    -rw-r--r--  1 gkpimeda gkpimeda  463820 Feb 24 22:09 BAPTIS_IBU_Ramalina_Purba_1298_d948de_20260224_150917.jpg          -rw-r--r--  1 gkpimeda gkpimeda   32899 Feb 12 11:02 BAPTIS_IBU_ros_137_88cfb5_20260212_050200.jpg                      -rw-r--r--  1 gkpimeda gkpimeda  574644 Feb 18 18:19 BAPTIS_IBU_Sarah_Christine_L_To_1930_09ffe3_20260218_111944.jpeg   -rw-r--r--  1 gkpimeda gkpimeda 1659572 Feb 23 09:07 BAPTIS_IBU_Siti_sundari_2073_63f742_20260223_020718.jpeg           -rw-r--r--  1 gkpimeda gkpimeda  257017 Feb 18 16:40 BAPTIS_IBU_testing_2354_3c8efd_20260218_094019.png                 -rw-r--r--  1 gkpimeda gkpimeda  673124 Feb 12 14:47 BAPTIS_TANGGUNGAN_1_Jordan_AXL_Bonardo_S_2345_2a550c_20260212_074658.jpg                                                                                                                   -rw-r--r--  1 gkpimeda gkpimeda  693173 Feb 23 14:51 BAPTIS_TANGGUNGAN_1_Rafael_Sabar_Hamonan_1897_c4bc8a_20260223_075140.jpg                                                                                                                   drwxr-xr-x  2 gkpimeda gkpimeda       6 Dec  2 12:21 distribution_proofs                                                -rw-r--r--  1 gkpimeda gkpimeda     623 Feb  1 16:26 .htaccess                                                          -rw-r--r--  1 gkpimeda gkpimeda  973656 Feb 23 08:38 LAHIR_ANAK_1_Dafin_Caleb_Purba_2265_bb5854_20260223_013851.pdf     -rw-r--r--  1 gkpimeda gkpimeda  793740 Feb 24 14:52 LAHIR_ANAK_1_James_Sihar_Gabriel__1832_9195f0_20260224_075209.pdf  -rw-r--r--  1 gkpimeda gkpimeda  950318 Feb 13 22:22 LAHIR_ANAK_1_Janice_Michela_Simat_1878_8817e8_20260213_152248.jpg  -rw-r--r--  1 gkpimeda gkpimeda  416239 Feb 24 11:43 LAHIR_ANAK_1_Jordan_Bosur_Ritonga_2032_8cf2f1_20260224_044320.jpg  -rw-r--r--  1 gkpimeda gkpimeda  557450 Feb 23 17:29 LAHIR_ANAK_1_JORDAN_BOSUR_RITONGA_2032_eda038_20260223_102934.jpg  -rw-r--r--  1 gkpimeda gkpimeda  732620 Feb 18 18:19 LAHIR_ANAK_1_Marcello_Oliver_Marb_1930_12813a_20260218_111945.jpeg -rw-r--r--  1 gkpimeda gkpimeda  750589 Feb 14 14:34 LAHIR_ANAK_1_Marisha_Happy_Dyandr_1956_9cfb89_20260214_073417.jpg  -rw-r--r--  1 gkpimeda gkpimeda 1167207 Feb 24 10:01 LAHIR_ANAK_1_Raffael_Alexander_si_1987_70be33_20260224_030127.jpg  -rw-r--r--  1 gkpimeda gkpimeda  611166 Feb 25 15:19 LAHIR_ANAK_1_Vienna_Sri_Yanthy_1627_e25674_20260225_081926.jpg     -rw-r--r--  1 gkpimeda gkpimeda  493017 Feb 23 17:29 LAHIR_ANAK_2_ABEL_OCTAVIANO_RITON_2032_00186e_20260223_102936.jpg  -rw-r--r--  1 gkpimeda gkpimeda  472435 Feb 24 11:43 LAHIR_ANAK_2_Abel_Octaviano_Riton_2032_a0d095_20260224_044322.jpg  -rw-r--r--  1 gkpimeda gkpimeda  581859 Feb 18 18:19 LAHIR_ANAK_2_Audrey_Alexandra_Mar_1930_18dc57_20260218_111945.jpeg -rw-r--r--  1 gkpimeda gkpimeda  201781 Feb 23 08:38 LAHIR_ANAK_2_Devina_Kezia_Purba_2265_bb77eb_20260223_013851.pdf    -rw-r--r--  1 gkpimeda gkpimeda  456201 Feb 13 22:22 LAHIR_ANAK_2_Faristha_Abigail_Sim_1878_9c2e91_20260213_152249.jpg  -rw-r--r--  1 gkpimeda gkpimeda  615266 Feb 24 14:52 LAHIR_ANAK_2_Jennifer_Ibrina_Tamb_1832_91b5ac_20260224_075209.pdf  -rw-r--r--  1 gkpimeda gkpimeda 1153373 Feb 24 10:01 LAHIR_ANAK_2_Raquel_Abigetha_siha_1987_82618f_20260224_030128.jpg  -rw-r--r--  1 gkpimeda gkpimeda  820135 Feb 24 14:52 LAHIR_ANAK_3_Juan_Kano_Tanbuban_1832_91d6af_20260224_075209.pdf    -rw-r--r--  1 gkpimeda gkpimeda 1039172 Feb 24 10:01 LAHIR_ANAK_3_Russel_Abraham_sihal_1987_950005_20260224_030129.jpg  -rw-r--r--  1 gkpimeda gkpimeda  859154 Feb 24 10:01 LAHIR_BAPAK_Candara_gubta_sihalo_1987_251445_20260224_030122.jpg   -rw-r--r--  1 gkpimeda gkpimeda  385586 Feb 18 18:19 LAHIR_BAPAK_Coki_Christian_Marbu_1930_f9bd98_20260218_111943.jpeg  -rw-r--r--  1 gkpimeda gkpimeda   11383 Oct 20 00:36 LAHIR_BAPAK_geri_tee0435345_a30702_20251019_193626.jfif            -rw-r--r--  1 gkpimeda gkpimeda  468546 Feb 24 11:43 LAHIR_BAPAK_Jappen_Ritonga_2032_7271a9_20260224_044319.jpg         -rw-r--r--  1 gkpimeda gkpimeda  415802 Feb 23 17:29 LAHIR_BAPAK_JAPPEN_RITONGA_2032_d430c3_20260223_102933.jpg         -rw-r--r--  1 gkpimeda gkpimeda  749374 Feb 24 14:52 LAHIR_BAPAK_Michael_Ben_Philip_T_1832_909ec5_20260224_075209.pdf   -rw-r--r--  1 gkpimeda gkpimeda  342383 Feb 23 08:38 LAHIR_BAPAK_Sutrisno_Purba_2265_b97c8a_20260223_013851.pdf         -rw-r--r--  1 gkpimeda gkpimeda  453150 Feb 18 17:18 LAHIR_BAPAK_teste_2355_0ca475_20260218_101856.png                  -rw-r--r--  1 gkpimeda gkpimeda 1287330 Feb 24 10:01 LAHIR_IBU_Anesia_novalia_pangg_1987_495362_20260224_030124.jpg     -rw-r--r--  1 gkpimeda gkpimeda 3406034 Feb 23 08:38 LAHIR_IBU_Elfrida_Narwastu_Dam_2265_bb3d74_20260223_013851.pdf     -rw-r--r--  1 gkpimeda gkpimeda  796130 Feb 24 14:52 LAHIR_IBU_Flora_Marantika_Gint_1832_9151c2_20260224_075209.pdf     -rw-r--r--  1 gkpimeda gkpimeda   10534 Oct 20 00:36 LAHIR_IBU_hilda_tee0435345_a3aa9c_20251019_193626.jfif             -rw-r--r--  1 gkpimeda gkpimeda  530970 Feb 24 11:43 LAHIR_IBU_Masna_Maida_2032_82217e_20260224_044320.jpg              -rw-r--r--  1 gkpimeda gkpimeda  554928 Feb 23 17:29 LAHIR_IBU_Masna_Maida_2032_e40d2a_20260223_102934.jpg              -rw-r--r--  1 gkpimeda gkpimeda  606349 Feb 18 18:19 LAHIR_IBU_Sarah_Christine_L_To_1930_06b426_20260218_111944.jpeg    -rw-r--r--  1 gkpimeda gkpimeda 1387162 Feb 24 10:01 NIKAH_BAPAK_Candara_gubta_sihalo_1987_3ee43e_20260224_030123.jpg   -rw-r--r--  1 gkpimeda gkpimeda  632347 Feb 18 18:19 NIKAH_BAPAK_Coki_Christian_Marbu_1930_04139a_20260218_111944.jpeg  -rw-r--r--  1 gkpimeda gkpimeda 3464898 Feb 13 22:22 NIKAH_BAPAK_Freddy_Sarhap_Martua_1878_cd264c_20260213_152236.jpg   -rw-r--r--  1 gkpimeda gkpimeda   10710 Oct 20 00:36 NIKAH_BAPAK_geri_tee0435345_a36521_20251019_193626.jfif            -rw-r--r--  1 gkpimeda gkpimeda  596276 Feb 24 11:43 NIKAH_BAPAK_Jappen_Ritonga_2032_7c021f_20260224_044319.jpg         -rw-r--r--  1 gkpimeda gkpimeda  472912 Feb 23 17:29 NIKAH_BAPAK_JAPPEN_RITONGA_2032_dea488_20260223_102933.jpg         -rw-r--r--  1 gkpimeda gkpimeda  628181 Feb 12 14:46 NIKAH_BAPAK_Jhon_Ferdinan_Simanj_2345_1288ac_20260212_074657.jpg   -rw-r--r--  1 gkpimeda gkpimeda  508529 Feb 27 15:18 NIKAH_BAPAK_Jonny_Sitorua_1849_38f28c_20260227_081859.jpg          -rw-r--r--  1 gkpimeda gkpimeda  201323 Feb 26 15:16 NIKAH_BAPAK_Maruasas_Osiandar_Hu_1736_10c962_20260226_081649.jpg   -rw-r--r--  1 gkpimeda gkpimeda  979287 Feb 14 14:34 NIKAH_BAPAK_Marudut_Silalahi_1956_84ee3a_20260214_073416.jpg       -rw-r--r--  1 gkpimeda gkpimeda  552097 Feb 24 14:52 NIKAH_BAPAK_Michael_Ben_Philip_T_1832_911589_20260224_075209.pdf   -rw-r--r--  1 gkpimeda gkpimeda  752606 Feb 23 10:04 NIKAH_BAPAK_Naek_mariduk_Sinambe_1706_4cbcf1_20260223_030404.jpg   -rw-r--r--  1 gkpimeda gkpimeda  421424 Feb 24 22:09 NIKAH_BAPAK_Rades_situmeang_1298_d51685_20260224_150917.jpg        -rw-r--r--  1 gkpimeda gkpimeda   68836 Feb 12 11:02 NIKAH_BAPAK_sugan_137_8727bd_20260212_050200.png                   -rw-r--r--  1 gkpimeda gkpimeda  182414 Feb 23 08:38 NIKAH_BAPAK_Sutrisno_Purba_2265_b98add_20260223_013851.jpeg        -rw-r--r--  1 gkpimeda gkpimeda  251082 Feb 21 12:03 NIKAH_BAPAK_testinganana_2359_201e33_20260221_060258.png           -rw-r--r--  1 gkpimeda gkpimeda  112010 Feb 18 10:40 NIKAH_BAPAK_yeresa_2352_d21ef4_20260218_034045.jfif                -rw-r--r--  1 gkpimeda gkpimeda 1343605 Feb 24 10:01 NIKAH_IBU_Anesia_novalia_pangg_1987_66cc90_20260224_030126.jpg     -rw-r--r--  1 gkpimeda gkpimeda  490032 Feb 23 10:05 NIKAH_IBU_Arthauly_Hutagalung_1427_65d747_20260223_030510.jpg      -rw-r--r--  1 gkpimeda gkpimeda  243957 Feb 23 08:38 NIKAH_IBU_Elfrida_Narwastu_Dam_2265_bb50c5_20260223_013851.pdf     -rw-r--r--  1 gkpimeda gkpimeda  436492 Feb 26 15:16 NIKAH_IBU_Elvi_Diana_Saragi_1736_20eb8e_20260226_081650.jpg        -rw-r--r--  1 gkpimeda gkpimeda  817289 Feb 23 10:04 NIKAH_IBU_Erida_br_hutajulu_1706_61d304_20260223_030406.jpg        -rw-r--r--  1 gkpimeda gkpimeda  552097 Feb 24 14:52 NIKAH_IBU_Flora_Marantika_Gint_1832_918465_20260224_075209.pdf     -rw-r--r--  1 gkpimeda gkpimeda  263467 Feb 18 17:18 NIKAH_IBU_grtr_2355_0ce6d5_20260218_101856.png                     -rw-r--r--  1 gkpimeda gkpimeda  289321 Feb 21 13:16 NIKAH_IBU_hebat_2356_2055f6_20260221_071650.png                    -rw-r--r--  1 gkpimeda gkpimeda    7915 Oct 20 00:36 NIKAH_IBU_hilda_tee0435345_a687c6_20251019_193626.jfif             -rw-r--r--  1 gkpimeda gkpimeda  940479 Feb 14 14:34 NIKAH_IBU_Johanna_Murni_Megawa_1956_9756b5_20260214_073417.jpg     -rw-r--r--  1 gkpimeda gkpimeda 3464898 Feb 13 22:22 NIKAH_IBU_Juliana_1878_5a67bb_20260213_152245.jpg                  -rw-r--r--  1 gkpimeda gkpimeda  629081 Feb 12 14:46 NIKAH_IBU_Martha_Septianita_Ri_2345_1ead4b_20260212_074657.jpg     -rw-r--r--  1 gkpimeda gkpimeda  534742 Feb 24 11:43 NIKAH_IBU_Masna_Maida_2032_870113_20260224_044320.jpg              -rw-r--r--  1 gkpimeda gkpimeda  514688 Feb 23 17:29 NIKAH_IBU_Masna_Maida_2032_e8a3e4_20260223_102934.jpg              -rw-r--r--  1 gkpimeda gkpimeda  590718 Feb 25 15:19 NIKAH_IBU_Meliana_Sibarani_1627_da0844_20260225_081925.jpg         -rw-r--r--  1 gkpimeda gkpimeda  617334 Feb 27 15:19 NIKAH_IBU_Nurhayati_br_Sitorus_1849_48a9d5_20260227_081900.jpg     -rw-r--r--  1 gkpimeda gkpimeda  453243 Feb 24 22:09 NIKAH_IBU_Ramalina_Purba_1298_e18a08_20260224_150918.jpg           -rw-r--r--  1 gkpimeda gkpimeda  257017 Feb 21 12:28 NIKAH_IBU_rengginas_2359_1a8a82_20260221_062849.png                -rw-r--r--  1 gkpimeda gkpimeda  632347 Feb 18 18:19 NIKAH_IBU_Sarah_Christine_L_To_1930_0f1bf3_20260218_111944.jpeg    -rw-r--r--  1 gkpimeda gkpimeda  730901 Feb 13 19:06 NIKAH_IBU_tes_2349_6581ad_20260213_120646.png                      -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 27 15:18 rate_limit_06ca10624bb2bbe4a7cda98309f1579b.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 12 14:22 rate_limit_22da918090401dca0443f16df6d1aba5.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 23 14:51 rate_limit_2aa7d22ba557e8c0f06036fdd6490625.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 12 14:24 rate_limit_2d41646f0548808cf9afe1031b643f37.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 24 14:52 rate_limit_47cccd4a621b75c4b3207bfe8e89821e.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 24 11:43 rate_limit_4fae75d76c1dbeb3620f20397c872124.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 19 15:14 rate_limit_5642c61c46e586b3268f17788565b1c2.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 24 22:13 rate_limit_5bbcfc6d4920d02736150e2648b3eab2.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 25 15:19 rate_limit_665d2bb63a499142efbcf0a9ce1be9f8.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 23 10:04 rate_limit_7dce66726b9efeafc7657504ca84195f.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 24 10:01 rate_limit_7e0d04112bb535c5b6308b278c9a5381.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 23 08:08 rate_limit_7f1a3293667e2ae75536b420943bce34.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 18 18:48 rate_limit_86369a8b06b00de7d8a74f6255723234.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 13 21:53 rate_limit_8f6a13d3e3955ea8b000e06fbd0dc0cf.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 23 08:38 rate_limit_93c5eac7e4a982e2bea7435376b521f0.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 24 11:27 rate_limit_96219f34ca6fb041eaa6fda6513e8b1a.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 14 14:34 rate_limit_980cfaf1e4c415dcf9c06199043f6ab6.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 14 17:15 rate_limit_9d46587a310185ee08152cd8f3221e69.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 13 19:06 rate_limit_a775837371861267fc245f8f67707781.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 13 19:44 rate_limit_ba4e5aeb08f3731990d4e52d7a294afc.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 12 14:46 rate_limit_d13c3060a451aa2c08ba4f398f41fd38.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 18 18:19 rate_limit_e4d1ad4d3336fa33d8c4657a832947d7.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 23 10:05 rate_limit_f210ae1cfae53a58425d39f79fac1625.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 13 22:22 rate_limit_f4dac8ab8e24f58aef2e35a8cda79df7.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 26 14:44 rate_limit_f528764d624db129b32c21fbca0cb8d6.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 24 22:09 rate_limit_f8121b2ec69e0515c25ac9799f14753f.txt                    -rw-r--r--  1 gkpimeda gkpimeda      41 Feb 23 09:07 rate_limit_fb61da8ad1250cd5a8a5e29a5a6a1d0a.txt                    -rw-r--r--  1 gkpimeda gkpimeda 1646326 Feb 24 14:52 SIDI_ANAK_1_James_Sihar_Gabriel__1832_91a7ce_20260224_075209.pdf   -rw-r--r--  1 gkpimeda gkpimeda 1116394 Feb 13 22:22 SIDI_ANAK_1_Janice_Michela_Simat_1878_95de1b_20260213_152249.jpg   -rw-r--r--  1 gkpimeda gkpimeda  504539 Feb 26 15:16 SIDI_ANAK_1_Jonathan_Victor_Maru_1736_29e6eb_20260226_081650.jpg   -rw-r--r--  1 gkpimeda gkpimeda  548183 Feb 24 11:43 SIDI_ANAK_1_Jordan_Bosur_Ritonga_2032_9b2afa_20260224_044321.jpg   -rw-r--r--  1 gkpimeda gkpimeda  775475 Feb 23 17:29 SIDI_ANAK_1_JORDAN_BOSUR_RITONGA_2032_f9b963_20260223_102935.jpg   -rw-r--r--  1 gkpimeda gkpimeda  776760 Feb 23 14:51 SIDI_ANAK_1_Junitauli_Sastriwati_1897_b023fb_20260223_075139.jpg   -rw-r--r--  1 gkpimeda gkpimeda  609155 Feb 27 15:19 SIDI_ANAK_1_Muswenly_Sanry_Emzan_1849_52f581_20260227_081901.jpg   -rw-r--r--  1 gkpimeda gkpimeda  401997 Feb 24 22:09 SIDI_ANAK_1_Mutiara_sari_Situmea_1298_e95852_20260224_150918.jpg   -rw-r--r--  1 gkpimeda gkpimeda 1970129 Feb 23 09:07 SIDI_ANAK_1_Shireen_Bunga_Paras_2073_7ea817_20260223_020719.jpeg   -rw-r--r--  1 gkpimeda gkpimeda  278042 Feb 18 17:18 SIDI_ANAK_1_yrraa_2355_0d0989_20260218_101856.png                  -rw-r--r--  1 gkpimeda gkpimeda  722985 Feb 23 17:29 SIDI_ANAK_2_ABEL_OCTAVIANO_RITON_2032_0942c5_20260223_102936.jpg   -rw-r--r--  1 gkpimeda gkpimeda  651232 Feb 24 11:43 SIDI_ANAK_2_Abel_Octaviano_Riton_2032_acd5fd_20260224_044322.jpg   -rw-r--r--  1 gkpimeda gkpimeda 1870757 Feb 23 09:07 SIDI_ANAK_2_Gohan_Arbyano_Paras_2073_9b5566_20260223_020721.jpeg   -rw-r--r--  1 gkpimeda gkpimeda  785248 Feb 23 14:51 SIDI_ANAK_2_Jandreas_Pangapul_Lu_1897_b73528_20260223_075139.jpg   -rw-r--r--  1 gkpimeda gkpimeda  503887 Feb 26 15:16 SIDI_ANAK_2_Yolanda_Margarenta_H_1736_339e73_20260226_081651.jpg   -rw-r--r--  1 gkpimeda gkpimeda  466809 Feb 23 14:51 SIDI_BAPAK_Burju_Lumban_Tobing_1897_a4f8d1_20260223_075138.jpg     -rw-r--r--  1 gkpimeda gkpimeda 1399897 Feb 24 10:01 SIDI_BAPAK_Candara_gubta_sihalo_1987_36426c_20260224_030123.jpg    -rw-r--r--  1 gkpimeda gkpimeda  932071 Feb 18 18:19 SIDI_BAPAK_Coki_Christian_Marbu_1930_007402_20260218_111944.jpeg   -rw-r--r--  1 gkpimeda gkpimeda 4078211 Feb 13 22:22 SIDI_BAPAK_Freddy_Sarhap_Martua_1878_9b4e7c_20260213_152233.jpg    -rw-r--r--  1 gkpimeda gkpimeda    7420 Oct 20 00:36 SIDI_BAPAK_geri_tee0435345_a3407e_20251019_193626.jfif             -rw-r--r--  1 gkpimeda gkpimeda  606461 Feb 24 11:43 SIDI_BAPAK_Jappen_Ritonga_2032_771ead_20260224_044319.jpg          -rw-r--r--  1 gkpimeda gkpimeda  774728 Feb 23 17:29 SIDI_BAPAK_JAPPEN_RITONGA_2032_d8fd8e_20260223_102933.jpg          -rw-r--r--  1 gkpimeda gkpimeda 1238110 Feb 12 14:46 SIDI_BAPAK_Jhon_Ferdinan_Simanj_2345_09ae36_20260212_074656.jpg    -rw-r--r--  1 gkpimeda gkpimeda  617388 Feb 27 15:18 SIDI_BAPAK_Jonny_Sitorua_1849_3463dd_20260227_081859.jpg           -rw-r--r--  1 gkpimeda gkpimeda  773139 Feb 14 14:34 SIDI_BAPAK_Marudut_Silalahi_1956_7db14b_20260214_073415.jpg        -rw-r--r--  1 gkpimeda gkpimeda  791321 Feb 24 14:52 SIDI_BAPAK_Michael_Ben_Philip_T_1832_90def1_20260224_075209.pdf    -rw-r--r--  1 gkpimeda gkpimeda  373425 Feb 23 10:04 SIDI_BAPAK_Naek_mariduk_Sinambe_1706_4272bc_20260223_030404.jpg    -rw-r--r--  1 gkpimeda gkpimeda  460724 Feb 24 22:09 SIDI_BAPAK_Rades_situmeang_1298_d08edd_20260224_150917.jpg         -rw-r--r--  1 gkpimeda gkpimeda  940668 Feb 12 11:02 SIDI_BAPAK_sugan_137_82add9_20260212_050200.png                    -rw-r--r--  1 gkpimeda gkpimeda  251082 Feb 18 11:27 SIDI_BAPAK_tesgtre_2353_6b5785_20260218_042750.png                 -rw-r--r--  1 gkpimeda gkpimeda  295959 Feb 21 13:16 SIDI_BAPAK_testing_2356_1eafea_20260221_071649.png                 -rw-r--r--  1 gkpimeda gkpimeda 1102550 Feb 24 10:01 SIDI_IBU_Anesia_novalia_pangg_1987_5dc68d_20260224_030125.jpg      -rw-r--r--  1 gkpimeda gkpimeda  134912 Feb 23 10:05 SIDI_IBU_Arthauly_Hutagalung_1427_64e17c_20260223_030510.jpg       -rw-r--r--  1 gkpimeda gkpimeda  466222 Feb 26 15:16 SIDI_IBU_Elvi_Diana_Saragi_1736_1b74c8_20260226_081649.jpg         -rw-r--r--  1 gkpimeda gkpimeda  459990 Feb 23 10:04 SIDI_IBU_Erida_br_hutajulu_1706_58c7b7_20260223_030405.jpg         -rw-r--r--  1 gkpimeda gkpimeda  543050 Feb 24 14:52 SIDI_IBU_Flora_Marantika_Gint_1832_917285_20260224_075209.pdf      -rw-r--r--  1 gkpimeda gkpimeda  126709 Feb 18 10:40 SIDI_IBU_hereasa_2352_d27915_20260218_034045.jfif                  -rw-r--r--  1 gkpimeda gkpimeda    8514 Oct 20 00:36 SIDI_IBU_hilda_tee0435345_a66310_20251019_193626.jfif              -rw-r--r--  1 gkpimeda gkpimeda  833062 Feb 14 14:34 SIDI_IBU_Johanna_Murni_Megawa_1956_915d99_20260214_073417.jpg      -rw-r--r--  1 gkpimeda gkpimeda  555381 Feb 12 14:24 SIDI_IBU_Juanita_R_Ch_Sidabut_2017_0ef4e9_20260212_072416.jpg      -rw-r--r--  1 gkpimeda gkpimeda 3299092 Feb 13 22:22 SIDI_IBU_Juliana_1878_2b8703_20260213_152242.jpg                   -rw-r--r--  1 gkpimeda gkpimeda 1354742 Feb 12 14:46 SIDI_IBU_Martha_Septianita_Ri_2345_17fafc_20260212_074657.jpg      -rw-r--r--  1 gkpimeda gkpimeda  782298 Feb 23 14:51 SIDI_IBU_Mastaria_Panjaitan_1897_a9abe9_20260223_075138.jpg        -rw-r--r--  1 gkpimeda gkpimeda  810905 Feb 25 15:19 SIDI_IBU_Meliana_Sibarani_1627_d3229d_20260225_081925.jpg          -rw-r--r--  1 gkpimeda gkpimeda  494276 Feb 27 15:19 SIDI_IBU_Nurhayati_br_Sitorus_1849_444d78_20260227_081900.jpg      -rw-r--r--  1 gkpimeda gkpimeda  443720 Feb 24 22:09 SIDI_IBU_Ramalina_Purba_1298_dd0643_20260224_150917.jpg            -rw-r--r--  1 gkpimeda gkpimeda  699455 Feb 18 18:19 SIDI_IBU_Sarah_Christine_L_To_1930_0c2963_20260218_111944.jpeg     -rw-r--r--  1 gkpimeda gkpimeda  292964 Feb 18 11:27 SIDI_IBU_tesrea_2353_6b62c6_20260218_042750.png                    [gkpimeda@rho uploads]$   
+
+
+
+
+
+
+sete
+
+
+
+Tentu, berikut adalah penjelasan dalam bahasa profesional dan terstruktur yang bisa Anda gunakan untuk kebutuhan presentasi umum, misalnya untuk laporan keuangan tim, rapat evaluasi, atau penjelasan kepada klien/pimpinan.
+
+---
+
+### Slide/Poin Presentasi: Analisis Biaya Layanan Domain & Hosting
+**Akun:** gkpimedan.com
+**Periode Tagihan:** 2025–2026
+
+#### 1. Latar Belakang
+Akun domain dan hosting atas nama **gkpimedan.com** tercatat aktif dengan status layanan berjalan normal. Terdapat dua komponen utama dalam akun ini, yaitu layanan **Domain** dan layanan **Hosting**.
+
+#### 2. Ringkasan Biaya Berdasarkan Jenis Layanan
+Berdasarkan data yang terekam di sistem, berikut adalah rincian biaya untuk masing-masing komponen:
+
+| Komponen Layanan | Biaya Tahun Pertama (2025) | Biaya Perpanjangan (2026) | Keterangan |
+| :--- | :--- | :--- | :--- |
+| **Domain** `gkpimedan.com` | Rp 0 | Rp 209.000/tahun | Biaya tahun pertama 0 (promo/inklusi). |
+| **Hosting Super 3.0 - ID** | (Tidak tercatat) | Rp 535.500/tahun | Biaya berlangganan tahunan layanan hosting. |
+| **Total Tahunan** | **Rp 0** | **Rp 744.500** | |
+
+#### 3. Analisis dan Catatan Penting
+1.  **Insentif Tahun Pertama:**
+    Pada saat pendaftaran awal (5 Oktober 2025), pemegang akun mendapatkan insentif berupa keringanan biaya **Rp 0** untuk komponen domain. Hal ini umum terjadi dalam skema promosi "domain gratis" dengan syarat berlangganan hosting.
+2.  **Proyeksi Tagihan Mendatang:**
+    Memasuki tahun kedua berlangganan (Oktober 2026), tidak akan ada lagi insentif promo. Oleh karena itu, akun ini akan dikenakan tagihan normal sebesar **Rp 744.500** yang merupakan akumulasi dari biaya domain Rp 209.000 dan hosting Rp 535.500.
+3.  **Status Layanan:**
+    Saat ini, kedua layanan (Domain dan Hosting) berstatus **Aktif** dan akan terus berjalan hingga periode berlangganan saat ini berakhir.
+
+#### 4. Rekomendasi / Tindak Lanjut
+Kami menyarankan untuk mengalokasikan anggaran sebesar **Rp 744.500** jauh-jauh hari sebelum jatuh tempo pada bulan **Oktober 2026** guna memastikan kelangsungan layanan website dan email tanpa gangguan.
+
+---
+
+Semoga membantu untuk keperluan presentasinya! Ada lagi yang ingin ditambahkan?
