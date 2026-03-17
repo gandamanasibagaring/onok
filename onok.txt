@@ -24038,7 +24038,7 @@ Langkah terbaik adalah:
 
 
 https://coretaxdjp.pajak.go.id/identityproviderportal/Account/Login
-USERNAME 1271170805940002
+USERNAME 1271170805940002 
 PASS: @Lupuslupus123
  npwp pribadi sarwono
  sarwono tamba satria s alamat Jl Villa Nusa Setiabudi B16 npwp 391359148124000
@@ -24046,6 +24046,8 @@ PASS: @Lupuslupus123
 coretax sarwono username 1271170805940002
 pass @Lupuslupus123
 
+coretax gandatech username 0199286097124000
+pass @Lupuslupus123
 
 KPP Administrasi
 KPP PRATAMA MEDAN PETISAH
