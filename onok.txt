@@ -84474,3 +84474,88 @@ Simpan, lalu set permission:
 chmod 600 ~/.ssh/id_rsa
 🚀 Langsung pakai
 ssh -i ~/.ssh/id_rsa -p 64000 gkpimeda@36.50.77.63
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+
+11 mei 2026 
+
+Listed directory htdocs
+Listed directory teste
+Viewed config.php:1-103
+Viewed PENJELASAN_SISTEM_LAPORAN_KEUANGAN.md:1-476
+Viewed dashboard.php:1-756
+
+Saya telah mempelajari struktur dan fungsi dari aplikasi **teste** yang berada di direktori `c:\xampp\htdocs\teste`. Berikut adalah ringkasan sistem tersebut:
+
+### 1. Tujuan Aplikasi
+Aplikasi ini adalah **Sistem Keuangan Gereja** yang dirancang untuk mengelola dan melaporkan transaksi keuangan secara mendetail. Fokus utamanya adalah pembuatan laporan keuangan hierarkis yang rapi (bulanan dan tahunan).
+
+### 2. Arsitektur Teknis
+*   **Bahasa**: PHP (dengan database MySQL/mysqli).
+*   **Database**: Menggunakan database bernama `gereja` dengan tabel utama: `transaksi`, `jurnal`, `kategori`, dan `subkategori`.
+*   **Frontend**: Menggunakan HTML, Bootstrap (untuk UI), dan **Chart.js** untuk grafik performa keuangan di dashboard.
+*   **Keamanan**: Memiliki sistem login (`login.php`) dengan manajemen sesi yang persisten dan fitur logout otomatis.
+
+### 3. Logika Utama (Sistem Kode)
+Sistem ini menggunakan pengkodean 3 tingkat untuk klasifikasi transaksi:
+*   **Level 1 (Kategori)**: Kode 3 digit (contoh: `300` untuk Kebaktian).
+*   **Level 2 (Subkategori)**: Kode `300.01` (contoh: Kebaktian Minggu).
+*   **Level 3 (Detail)**: Kode `300.01.01` (contoh: Persembahan Kantong Hitam).
+Laporan keuangan akan otomatis menjumlahkan data dari Level 3 ke atas secara hierarkis.
+
+### 4. Fitur-Fitur Kunci
+*   **Dashboard Interaktif**: Menampilkan ringkasan transaksi per tahun, grafik bulanan, dan aktivitas terbaru.
+*   **Laporan Otomatis**: Menghitung saldo secara otomatis untuk periode "Bulan Lalu", "Bulan Ini", dan "s/d Bulan Ini".
+*   **Import/Export**: Kemampuan ekspor laporan ke **Excel** dan **PDF**, serta import data dari file Excel jurnal.
+*   **Sistem Backup**: Memiliki fitur backup database otomatis setiap kali admin login, serta fitur restore manual.
+*   **Alat Pemeliharaan**: Tersedia banyak skrip "Fix" dan "Check" untuk memperbaiki data yang janggal atau duplikat (seperti `fix_duplicate_kwitansi.php` atau `check_kategori.php`).
+
+Aplikasi ini tampaknya merupakan lingkungan pengembangan atau versi uji coba (karena namanya `teste`) yang sangat lengkap untuk mengelola keuangan organisasi gereja. Apakah ada bagian spesifik dari aplikasi ini yang ingin Anda modifikasi atau tanyakan lebih lanjut?
+
+
+
+
+
+
+ SQL yang Dijalankan (untuk referensi)
+sql
+-- Kolom 1: diterima_dari (AFTER uraian)
+ALTER TABLE `transaksi`
+  ADD COLUMN `diterima_dari` VARCHAR(255) NULL DEFAULT NULL
+  COMMENT 'Nama pihak yang menerima pembayaran'
+  AFTER `uraian`;
+-- Kolom 2: is_giro_check (AFTER diterima_dari)
+ALTER TABLE `transaksi`
+  ADD COLUMN `is_giro_check` TINYINT(1) NOT NULL DEFAULT 0
+  COMMENT 'Flag metode pembayaran: 0 = tunai, 1 = giro/cek'
+  AFTER `diterima_dari`;
+-- Kolom 3: id_kategori (AFTER id_jurnal)
+ALTER TABLE `transaksi`
+  ADD COLUMN `id_kategori` INT(11) NULL DEFAULT NULL
+  COMMENT 'Foreign key ke tabel kategori (opsional)'
+  AFTER `id_jurnal`;
+-- Index untuk id_kategori
+ALTER TABLE `transaksi`
+  ADD INDEX `idx_id_kategori` (`id_kategori`);
+Catatan: Kalau database di komputer/server lama belum dijalankan script ini, buka http://localhost/teste/add_transaksi_columns.php untuk otomatis menambahkan ketiga kolom tersebut. Atau jalankan SQL di atas langsung via phpMyAdmin.
+
+
+
