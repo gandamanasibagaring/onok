@@ -84559,3 +84559,21 @@ Catatan: Kalau database di komputer/server lama belum dijalankan script ini, buk
 
 
 
+upload ssh 
+# Untuk file utama
+scp -i ~/.ssh/id_rsa -P 64000 portal/kehadiran.php portal/sw-kehadiran.js portal/fix_db_history.php gkpimeda@36.50.77.63:/home/gkpimeda/public_html/portal/
+
+# Untuk file API
+scp -i ~/.ssh/id_rsa -P 64000 portal/api/attendance.php gkpimeda@36.50.77.63:/home/gkpimeda/public_html/portal/api/
+
+
+-----------------------------
+20 mei
+
+
+password rti business
+Turboturbo123
+-apk kupon bina swlayan
+
+-apk jemaat:
+	org meninggal, bisa liat naik ke atas lg formnya, timeout, edit harus mudah semudah buat formuli
