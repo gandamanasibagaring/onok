@@ -84481,7 +84481,20 @@ ssh -i ~/.ssh/id_rsa -p 64000 gkpimeda@36.50.77.63
 
 
 
+-------------------------------
+cara instan buat ssh:
+donlot privat key, buat folder ssh lalu simpan di folder ini filenya pake ini 
 
+mkdir ~/.ssh -Force; explorer "$env:USERPROFILE\.ssh"
+
+
+Ketik perintah ini lalu Enter (gunanya agar Windows mengunci hak akses file tersebut hanya untuk user kamu saja, kalau tidak dikunci nanti SSH bakal error):
+
+PowerShell
+icacls "$env:USERPROFILE\.ssh\id_rsa" /inheritance:r /grant:r "${env:USERNAME}:R"
+
+
+ssh -i ~/.ssh/id_rsa -p 64000 gkpimeda@36.50.77.63
 
 
 
@@ -84853,3 +84866,16 @@ wizzbetter
 -testing aplikasi pembukuan harian
 -modifikasi
 -jual
+
+
+
+
+
+Adaptasinya: Programmer harus fokus ke high-level problem solving. AI jago bikin fungsi standalone, tapi AI sering bego kalau disuruh mikirin arsitektur sistem skala besar yang aman, efisien, dan bisa scale up. Kemampuan mendesain struktur database, integrasi antar-layanan (microservices), dan efisiensi sistem itu yang mahal.
+
+
+
+
+
+watchlist blta
+assa
