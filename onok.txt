@@ -84878,4 +84878,4 @@ Adaptasinya: Programmer harus fokus ke high-level problem solving. AI jago bikin
 
 
 watchlist blta
-assa
+assa 
